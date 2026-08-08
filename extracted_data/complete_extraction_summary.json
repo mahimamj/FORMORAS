@@ -1,0 +1,196 @@
+{
+  "total_folders": 3,
+  "total_pdf_files": 27,
+  "total_extracted_furniture_pieces": 1492,
+  "files_summary": [
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "+ PRINCE SERIES - PRICELIST WEF 1STMAY 2026.pdf",
+      "category": "prince",
+      "pages": 31,
+      "extracted_furniture_pieces": 31
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "+PUFFY PRICELIST LIFESTYLE- AUG26.pdf",
+      "category": "puffy",
+      "pages": 30,
+      "extracted_furniture_pieces": 30
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "+SOFA LIFESTYLE PRICELIST- AUG26.pdf",
+      "category": "sofa",
+      "pages": 40,
+      "extracted_furniture_pieces": 38
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "DINNING PRICELIST -AUG26 .pdf",
+      "category": "dining",
+      "pages": 29,
+      "extracted_furniture_pieces": 72
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "EXECUTIVE PRICELIST-AUG26.pdf",
+      "category": "executive",
+      "pages": 36,
+      "extracted_furniture_pieces": 129
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+      "category": "highcounter",
+      "pages": 7,
+      "extracted_furniture_pieces": 23
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "LOUNGE  PRICELIST- AUG26.pdf",
+      "category": "lounge",
+      "pages": 30,
+      "extracted_furniture_pieces": 98
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "PRINCE PRICELIST- AUG26.pdf",
+      "category": "prince",
+      "pages": 33,
+      "extracted_furniture_pieces": 33
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "RECLINER  PRICELIST- AUG26.pdf",
+      "category": "recliner",
+      "pages": 13,
+      "extracted_furniture_pieces": 13
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "TABLE & STAND PRICELIST-AUG26.pdf",
+      "category": "tables",
+      "pages": 28,
+      "extracted_furniture_pieces": 300
+    },
+    {
+      "folder": "A -DIVINE CHAIRS PRICELIST",
+      "file": "WORKSTATION PRICELIST- AUG26.pdf",
+      "category": "workstation",
+      "pages": 17,
+      "extracted_furniture_pieces": 55
+    },
+    {
+      "folder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
+      "file": "DINNING PRICELIST WL - AUG 26.pdf",
+      "category": "dining",
+      "pages": 29,
+      "extracted_furniture_pieces": 72
+    },
+    {
+      "folder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
+      "file": "EXECUTIVE PRICELIST.pdf",
+      "category": "executive",
+      "pages": 36,
+      "extracted_furniture_pieces": 132
+    },
+    {
+      "folder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
+      "file": "PRINCE PRICELIST WL .pdf",
+      "category": "prince",
+      "pages": 11,
+      "extracted_furniture_pieces": 56
+    },
+    {
+      "folder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
+      "file": "PUFFY PRICELIST WL .pdf",
+      "category": "puffy",
+      "pages": 8,
+      "extracted_furniture_pieces": 31
+    },
+    {
+      "folder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
+      "file": "SOFA PRICELIST WL - AUG 26.pdf",
+      "category": "sofa",
+      "pages": 40,
+      "extracted_furniture_pieces": 40
+    },
+    {
+      "folder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
+      "file": "WORKSTATION PRICELIST WL .pdf",
+      "category": "workstation",
+      "pages": 17,
+      "extracted_furniture_pieces": 54
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "CAFE SERIES.pdf",
+      "category": "cafe",
+      "pages": 5,
+      "extracted_furniture_pieces": 0
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "DINNING SERIES.pdf",
+      "category": "dining",
+      "pages": 24,
+      "extracted_furniture_pieces": 23
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "EXECUTIVE SERIES.pdf",
+      "category": "executive",
+      "pages": 34,
+      "extracted_furniture_pieces": 33
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "HIGHCOUNTER SERIES_.pdf",
+      "category": "highcounter",
+      "pages": 6,
+      "extracted_furniture_pieces": 6
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "LOUNGE SERIES.pdf",
+      "category": "lounge",
+      "pages": 26,
+      "extracted_furniture_pieces": 24
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "PUFFY SERIES.pdf",
+      "category": "puffy",
+      "pages": 8,
+      "extracted_furniture_pieces": 3
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "RECLINER SERIES.pdf",
+      "category": "recliner",
+      "pages": 13,
+      "extracted_furniture_pieces": 12
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "SOFA SERIES.pdf",
+      "category": "sofa",
+      "pages": 21,
+      "extracted_furniture_pieces": 21
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "TABLE & STAND SERIES.pdf",
+      "category": "tables",
+      "pages": 25,
+      "extracted_furniture_pieces": 147
+    },
+    {
+      "folder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
+      "file": "WORKSTATION SERIES.pdf",
+      "category": "workstation",
+      "pages": 16,
+      "extracted_furniture_pieces": 16
+    }
+  ]
+}

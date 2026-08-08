@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# Testing & Logs
+coverage
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js build
+.next/
+out/
+build
+
+# Environment variables
+.env*.local
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Heavy PDF catalogues & raw inputs (excluded to keep repo size minimal)
+*.pdf
+A -DIVINE CHAIRS PRICELIST/
+
+# Scratch & temporary scripts
+scratch/
