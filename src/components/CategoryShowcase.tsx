@@ -32,6 +32,7 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
   const [selectedCategoryId, setSelectedCategoryId] = useState<string>('executive');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedProductModal, setSelectedProductModal] = useState<ProductItem | null>(null);
+  const [activeImageMap, setActiveImageMap] = useState<Record<string, string>>({});
 
   const [visibleCount, setVisibleCount] = useState<number>(36);
 
@@ -232,7 +233,7 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                         : 'aspect-square'
                     }`}>
                       <img
-                        src={product.image}
+                        src={activeImageMap[product.id] || product.image}
                         alt={product.title}
                         className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
                       />
@@ -243,6 +244,40 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                         <div className="absolute top-3 right-3 bg-emerald-950/80 backdrop-blur-md border border-emerald-500/30 text-emerald-400 px-2 py-0.5 rounded-full text-[9px] font-mono flex items-center gap-1">
                           <ShieldCheck className="w-3 h-3" />
                           <span>BIFMA</span>
+                        </div>
+                      )}
+
+                      {/* Front & Back View Switcher Toggle if Back Image exists */}
+                      {product.backImage && (
+                        <div className="absolute bottom-2 left-1/2 -translate-x-1/2 bg-obsidian/90 backdrop-blur-md border border-white/20 rounded-full p-0.5 flex space-x-1 shadow-lg z-10">
+                          <button
+                            type="button"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setActiveImageMap(prev => ({ ...prev, [product.id]: product.image }));
+                            }}
+                            className={`px-2 py-0.5 text-[9px] font-mono rounded-full transition-colors ${
+                              (activeImageMap[product.id] || product.image) === product.image
+                                ? 'bg-champagne text-obsidian font-bold'
+                                : 'text-alabaster/70 hover:text-alabaster'
+                            }`}
+                          >
+                            Front
+                          </button>
+                          <button
+                            type="button"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setActiveImageMap(prev => ({ ...prev, [product.id]: product.backImage! }));
+                            }}
+                            className={`px-2 py-0.5 text-[9px] font-mono rounded-full transition-colors ${
+                              activeImageMap[product.id] === product.backImage
+                                ? 'bg-champagne text-obsidian font-bold'
+                                : 'text-alabaster/70 hover:text-alabaster'
+                            }`}
+                          >
+                            Back
+                          </button>
                         </div>
                       )}
                     </div>
@@ -346,6 +381,24 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                   ✕
                 </button>
               </div>
+
+              {/* Dual View Front & Back Image Showcase */}
+              {selectedProductModal.backImage ? (
+                <div className="grid grid-cols-2 gap-3 bg-obsidian-light/80 p-3 rounded-luxury border border-white/10">
+                  <div className="text-center space-y-1">
+                    <div className="aspect-square bg-white rounded-lg p-2 overflow-hidden flex items-center justify-center">
+                      <img src={selectedProductModal.image} alt="Front View" className="h-full object-contain" />
+                    </div>
+                    <span className="text-[10px] font-mono text-champagne uppercase tracking-wider">Front View</span>
+                  </div>
+                  <div className="text-center space-y-1">
+                    <div className="aspect-square bg-white rounded-lg p-2 overflow-hidden flex items-center justify-center">
+                      <img src={selectedProductModal.backImage} alt="Back View" className="h-full object-contain" />
+                    </div>
+                    <span className="text-[10px] font-mono text-champagne uppercase tracking-wider">Back View</span>
+                  </div>
+                </div>
+              ) : null}
 
               <div className="space-y-4 text-xs">
                 <div className="bg-white/5 rounded-luxury p-4 space-y-2">

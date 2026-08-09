@@ -1656,2694 +1656,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
-    "id": "PRD-0079",
-    "title": "Collection",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0079",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/EXT-0080.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0080",
-    "title": "81",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0080",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0081.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0081",
-    "title": "76",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0081",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0082.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0082",
-    "title": "- 130",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0082",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0083.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0083",
-    "title": "35",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0083",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0084.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0084",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0084",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0085.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0085",
-    "title": "35",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0085",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0086.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0086",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0086",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0087.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0087",
-    "title": "40",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0087",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0088.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0088",
-    "title": "38",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0088",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0089.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0089",
-    "title": "40",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0089",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0090.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0090",
-    "title": "38",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0090",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0091.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0091",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0091",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0092.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0092",
-    "title": "29",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0092",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0093.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0093",
-    "title": "29",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0093",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0094.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0094",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0094",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0095.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0095",
-    "title": "30",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0095",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/EXT-0096.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0096",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0096",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/EXT-0097.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0097",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0097",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0098.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0098",
-    "title": "23",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0098",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0099.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0099",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0099",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0100.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0100",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0100",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0101.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0101",
-    "title": "16",
-    "categoryId": "executive",
-    "price": "\u20b9200",
-    "rawPrice": 200,
-    "modelCode": "DV-EXE-0101",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0102.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0102",
-    "title": "(Ind/Eco) 10",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0102",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0103.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0103",
-    "title": "11",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0103",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0104.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0104",
-    "title": "21",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0104",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0105.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0105",
-    "title": "20",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0105",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0106.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0106",
-    "title": "20",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0106",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0107.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0107",
-    "title": "18",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0107",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0108.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0108",
-    "title": "19",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0108",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0109.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0109",
-    "title": "16",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0109",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0110.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0110",
-    "title": "15",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0110",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0111.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0111",
-    "title": "18",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0111",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0112.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0112",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0112",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0113.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0113",
-    "title": "16",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0113",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0114.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0114",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9700",
-    "rawPrice": 700,
-    "modelCode": "DV-EXE-0114",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0115.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0115",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0115",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0116.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0116",
-    "title": "29",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0116",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0117.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0117",
-    "title": "27",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0117",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0118.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0118",
-    "title": "18",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0118",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0119.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0119",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0119",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0120.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0120",
-    "title": "15",
-    "categoryId": "executive",
-    "price": "\u20b9700",
-    "rawPrice": 700,
-    "modelCode": "DV-EXE-0120",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0121.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0121",
-    "title": "15",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0121",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0122.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0122",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0122",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0123.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0123",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0123",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0124.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0124",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0124",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0125.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0125",
-    "title": "23",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0125",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0126.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0126",
-    "title": "22",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0126",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0127.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0127",
-    "title": "23",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0127",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0128.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0128",
-    "title": "22",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0128",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0129.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0129",
-    "title": "12",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0129",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0130.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0130",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0130",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0131.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0131",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0131",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 14,
-    "image": "/extracted_product_images/EXT-0132.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0132",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0132",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 14,
-    "image": "/extracted_product_images/EXT-0133.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0133",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0133",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0134.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0134",
-    "title": "12",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0134",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0135.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0135",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b9250",
-    "rawPrice": 250,
-    "modelCode": "DV-EXE-0135",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0136.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0136",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0136",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0137.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0137",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0137",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0138.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0138",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0138",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0139.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0139",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0139",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0140.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0140",
-    "title": "12",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0140",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0141.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0141",
-    "title": "(Ind) 8",
-    "categoryId": "executive",
-    "price": "\u20b9800",
-    "rawPrice": 800,
-    "modelCode": "DV-EXE-0141",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 17,
-    "image": "/extracted_product_images/EXT-0142.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0142",
-    "title": "11",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0142",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 17,
-    "image": "/extracted_product_images/EXT-0143.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0143",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0143",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 17,
-    "image": "/extracted_product_images/EXT-0144.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0144",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0144",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0145.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0145",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0145",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0146.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0146",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0146",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0147.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0147",
-    "title": "Atom Dlx Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0147",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 19,
-    "image": "/extracted_product_images/EXT-0148.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0148",
-    "title": "Eon Dlx Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0148",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 19,
-    "image": "/extracted_product_images/EXT-0149.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0149",
-    "title": "Marquis",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0149",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 20,
-    "image": "/extracted_product_images/EXT-0150.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0150",
-    "title": "64",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0150",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0151.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0151",
-    "title": "60",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0151",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0152.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0152",
-    "title": "56",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0152",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0153.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0153",
-    "title": "52",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0153",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0154.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0154",
-    "title": "63",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0154",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0155.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0155",
-    "title": "51",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0155",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0156.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0156",
-    "title": "68",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0156",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0157.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0157",
-    "title": "40",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0157",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0158.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0158",
-    "title": "75",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0158",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0159.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0159",
-    "title": "55",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0159",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0160.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0160",
-    "title": "41",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0160",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0161.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0161",
-    "title": "59",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0161",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0162.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0162",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0162",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0163.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0163",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0163",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0164.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0164",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0164",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0165.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0165",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0165",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0166.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0166",
-    "title": "95",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0166",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0167.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0167",
-    "title": "85",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0167",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0168.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0168",
-    "title": "80",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0168",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0169.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0169",
-    "title": "76",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0169",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0170.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0170",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0170",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 26,
-    "image": "/extracted_product_images/EXT-0171.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0171",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0171",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0172.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0172",
-    "title": "30",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0172",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0173.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0173",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0173",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0174.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0174",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0174",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0175.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0175",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0175",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0176.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0176",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0176",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0177.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0177",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0177",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0178.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0178",
-    "title": "30",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0178",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0179.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0179",
-    "title": "33",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0179",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0180.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0180",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0180",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0181.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0181",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0181",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0182.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0182",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0182",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0183.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0183",
-    "title": "64",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0183",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0184.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0184",
-    "title": "61",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0184",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0185.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0185",
-    "title": "75",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0185",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0186.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0186",
-    "title": "55",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0186",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0187.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0187",
-    "title": "128",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0187",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0188.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0188",
-    "title": "120",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0188",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0189.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0189",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0189",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0190.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0190",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0190",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0191.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0191",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0191",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0192.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0192",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0192",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0193.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0193",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0193",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0194.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0194",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0194",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0195.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0195",
-    "title": "20",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0195",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0196.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0196",
-    "title": "19",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0196",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0197.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0197",
-    "title": "38",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0197",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0198.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0198",
-    "title": "37",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0198",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0199.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0199",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0199",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0200.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0200",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0200",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0201.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0201",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0201",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0202.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0202",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0202",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0203.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0203",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0203",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0204.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0204",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0204",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0205.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0205",
-    "title": "25",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0205",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0206.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0206",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0206",
-    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0207.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
     "id": "PRD-0207",
     "title": "19",
     "categoryId": "highcounter",
@@ -9447,2694 +6759,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
-    "id": "PRD-0559",
-    "title": "Collection",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0559",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/EXT-0614.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0560",
-    "title": "81",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0560",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0615.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0561",
-    "title": "76",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0561",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0616.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0562",
-    "title": "- 130",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0562",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0617.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0563",
-    "title": "35",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0563",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0618.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0564",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0564",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0619.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0565",
-    "title": "35",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0565",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0620.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0566",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0566",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0621.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0567",
-    "title": "40",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0567",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0622.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0568",
-    "title": "38",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0568",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0623.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0569",
-    "title": "40",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0569",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0624.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0570",
-    "title": "38",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0570",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0625.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0571",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0571",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0626.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0572",
-    "title": "29",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0572",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0627.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0573",
-    "title": "29",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0573",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0628.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0574",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0574",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0629.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0575",
-    "title": "30",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0575",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/EXT-0630.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0576",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0576",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/EXT-0631.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0577",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0577",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0632.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0578",
-    "title": "23",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0578",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0633.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0579",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0579",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0634.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0580",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0580",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0635.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0581",
-    "title": "16",
-    "categoryId": "executive",
-    "price": "\u20b9200",
-    "rawPrice": 200,
-    "modelCode": "DV-EXE-0581",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0636.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0582",
-    "title": "(Ind/Eco) 10",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0582",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0637.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0583",
-    "title": "11",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0583",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0638.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0584",
-    "title": "21",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0584",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0639.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0585",
-    "title": "20",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0585",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0640.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0586",
-    "title": "20",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0586",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0641.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0587",
-    "title": "18",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0587",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0642.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0588",
-    "title": "19",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0588",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0643.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0589",
-    "title": "16",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0589",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0644.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0590",
-    "title": "15",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0590",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0645.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0591",
-    "title": "18",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0591",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0646.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0592",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0592",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 10,
-    "image": "/extracted_product_images/EXT-0647.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0593",
-    "title": "16",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0593",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0648.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0594",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9700",
-    "rawPrice": 700,
-    "modelCode": "DV-EXE-0594",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0649.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0595",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0595",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0650.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0596",
-    "title": "29",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0596",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0651.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0597",
-    "title": "27",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0597",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0652.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0598",
-    "title": "18",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0598",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0653.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0599",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0599",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0654.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0600",
-    "title": "15",
-    "categoryId": "executive",
-    "price": "\u20b9700",
-    "rawPrice": 700,
-    "modelCode": "DV-EXE-0600",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 11,
-    "image": "/extracted_product_images/EXT-0655.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0601",
-    "title": "15",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0601",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0656.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0602",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0602",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0657.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0603",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0603",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0658.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0604",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0604",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0659.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0605",
-    "title": "23",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0605",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0660.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0606",
-    "title": "22",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0606",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0661.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0607",
-    "title": "23",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0607",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0662.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0608",
-    "title": "22",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0608",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0663.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0609",
-    "title": "12",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0609",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0664.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0610",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0610",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 13,
-    "image": "/extracted_product_images/EXT-0665.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0611",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-EXE-0611",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 14,
-    "image": "/extracted_product_images/EXT-0666.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0612",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0612",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 14,
-    "image": "/extracted_product_images/EXT-0667.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0613",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0613",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0668.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0614",
-    "title": "12",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0614",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0669.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0615",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b9250",
-    "rawPrice": 250,
-    "modelCode": "DV-EXE-0615",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0670.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0616",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0616",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0671.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0617",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0617",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0672.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0618",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0618",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0673.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0619",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0619",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0674.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0620",
-    "title": "12",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0620",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 16,
-    "image": "/extracted_product_images/EXT-0675.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0621",
-    "title": "(Ind) 8",
-    "categoryId": "executive",
-    "price": "\u20b9800",
-    "rawPrice": 800,
-    "modelCode": "DV-EXE-0621",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 17,
-    "image": "/extracted_product_images/EXT-0676.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0622",
-    "title": "11",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0622",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 17,
-    "image": "/extracted_product_images/EXT-0677.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0623",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0623",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 17,
-    "image": "/extracted_product_images/EXT-0678.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0624",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0624",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0679.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0625",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0625",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0680.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0626",
-    "title": "10",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0626",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0681.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0627",
-    "title": "Atom Dlx Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0627",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 19,
-    "image": "/extracted_product_images/EXT-0682.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0628",
-    "title": "Eon Dlx Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0628",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 19,
-    "image": "/extracted_product_images/EXT-0683.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0629",
-    "title": "Marquis",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0629",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 20,
-    "image": "/extracted_product_images/EXT-0684.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0630",
-    "title": "64",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0630",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0685.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0631",
-    "title": "60",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0631",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0686.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0632",
-    "title": "56",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0632",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0687.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0633",
-    "title": "52",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0633",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0688.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0634",
-    "title": "63",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0634",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0689.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0635",
-    "title": "51",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0635",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0690.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0636",
-    "title": "68",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0636",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0691.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0637",
-    "title": "40",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0637",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 22,
-    "image": "/extracted_product_images/EXT-0692.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0638",
-    "title": "75",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0638",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0693.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0639",
-    "title": "55",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0639",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0694.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0640",
-    "title": "41",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0640",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0695.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0641",
-    "title": "59",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0641",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 23,
-    "image": "/extracted_product_images/EXT-0696.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0642",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0642",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0697.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0643",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0643",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0698.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0644",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0644",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0699.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0645",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0645",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 24,
-    "image": "/extracted_product_images/EXT-0700.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0646",
-    "title": "95",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0646",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0701.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0647",
-    "title": "85",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0647",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0702.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0648",
-    "title": "80",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0648",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0703.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0649",
-    "title": "76",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0649",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 25,
-    "image": "/extracted_product_images/EXT-0704.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0650",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0650",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 26,
-    "image": "/extracted_product_images/EXT-0705.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0651",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0651",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0706.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0652",
-    "title": "30",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0652",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0707.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0653",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0653",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0708.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0654",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0654",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 27,
-    "image": "/extracted_product_images/EXT-0709.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0655",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0655",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0710.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0656",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0656",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0711.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0657",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0657",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0712.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0658",
-    "title": "30",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0658",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0713.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0659",
-    "title": "33",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0659",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0714.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0660",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0660",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0715.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0661",
-    "title": "34",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0661",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0716.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0662",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0662",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0717.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0663",
-    "title": "64",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0663",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0718.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0664",
-    "title": "61",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0664",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0719.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0665",
-    "title": "75",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0665",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0720.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0666",
-    "title": "55",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0666",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0721.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0667",
-    "title": "128",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0667",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0722.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0668",
-    "title": "120",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0668",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0723.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0669",
-    "title": "32",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0669",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0724.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0670",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0670",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 31,
-    "image": "/extracted_product_images/EXT-0725.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0671",
-    "title": "31",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0671",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0726.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0672",
-    "title": "28",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0672",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0727.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0673",
-    "title": "26",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0673",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0728.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0674",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0674",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 32,
-    "image": "/extracted_product_images/EXT-0729.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0675",
-    "title": "20",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0675",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0730.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0676",
-    "title": "19",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0676",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0731.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0677",
-    "title": "38",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0677",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0732.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0678",
-    "title": "37",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0678",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 33,
-    "image": "/extracted_product_images/EXT-0733.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0679",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0679",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0734.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0680",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0680",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0735.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0681",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0681",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0736.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0682",
-    "title": "17",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0682",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 34,
-    "image": "/extracted_product_images/EXT-0737.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0683",
-    "title": "14",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0683",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0738.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0684",
-    "title": "13",
-    "categoryId": "executive",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0684",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0739.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0685",
-    "title": "25",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0685",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0740.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0686",
-    "title": "24",
-    "categoryId": "executive",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-EXE-0686",
-    "sourcePdf": "EXECUTIVE PRICELIST.pdf",
-    "sourceFolder": "A- DIVINE CHAIRS PRICELIST W-O LOGO",
-    "pageNumber": 35,
-    "image": "/extracted_product_images/EXT-0741.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
     "id": "PRD-0687",
     "title": "Lisbon Cush Woody",
     "categoryId": "cafe",
@@ -13174,468 +7798,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
     "pageNumber": 23,
     "image": "/extracted_product_images/EXT-0902.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0737",
-    "title": "Collection",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0737",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/EXT-0903.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0738",
-    "title": "Falcon Elite Grey",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0738",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0904.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0739",
-    "title": "Zoy Black Hb Mb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0739",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0905.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0740",
-    "title": "Zoy Black Hb Mb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0740",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/EXT-0906.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0741",
-    "title": "Tan",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0741",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0907.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0742",
-    "title": "Grey",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0742",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 8,
-    "image": "/extracted_product_images/EXT-0908.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0743",
-    "title": "Perth Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0743",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 9,
-    "image": "/extracted_product_images/EXT-0909.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0744",
-    "title": "Ergon Mesh  Black Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0744",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0910.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0745",
-    "title": "Imp",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0745",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 12,
-    "image": "/extracted_product_images/EXT-0911.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0746",
-    "title": "Hexa Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0746",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 14,
-    "image": "/extracted_product_images/EXT-0912.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0747",
-    "title": "Light Brown",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0747",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 14,
-    "image": "/extracted_product_images/EXT-0913.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0748",
-    "title": "Light Brown",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0748",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0914.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0749",
-    "title": "Black",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0749",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 15,
-    "image": "/extracted_product_images/EXT-0915.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0750",
-    "title": "Eon Dlx Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0750",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0916.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0751",
-    "title": "Eon Eco Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0751",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 18,
-    "image": "/extracted_product_images/EXT-0917.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0752",
-    "title": "Marquis",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0752",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 19,
-    "image": "/extracted_product_images/EXT-0918.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0753",
-    "title": "Black",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0753",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 21,
-    "image": "/extracted_product_images/EXT-0919.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0754",
-    "title": "Stanley Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0754",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0920.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0755",
-    "title": "Maverick Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0755",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 28,
-    "image": "/extracted_product_images/EXT-0921.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0756",
-    "title": "Austin Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0756",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 29,
-    "image": "/extracted_product_images/EXT-0922.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0757",
-    "title": "Dacota Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0757",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0923.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0758",
-    "title": "Oxford Hb",
-    "categoryId": "executive",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-EXE-0758",
-    "sourcePdf": "EXECUTIVE SERIES.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 30,
-    "image": "/extracted_product_images/EXT-0924.jpg",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
@@ -20322,6 +14484,1748 @@ export const PRODUCTS_DATA: ProductItem[] = [
       "High-Grade Commercial Velvet / Nappa Upholstery",
       "Heavy-Duty Reinforced Base Frame",
       "Commercial BIFMA Level 3 Certified"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0001",
+    "title": "Falcon Elite Grey Hb",
+    "categoryId": "executive",
+    "price": "\u20b981,000",
+    "rawPrice": 81000,
+    "modelCode": "DV-EXE-0001",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/EXE_01_FALCON ELITE GREY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_01_FALCON ELITE GREY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_01_FALCON ELITE GREY HB_front.png",
+      "/extracted_product_images/EXE_01_FALCON ELITE GREY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0002",
+    "title": "Norway Hb (Light Grey)",
+    "categoryId": "executive",
+    "price": "\u20b935,000",
+    "rawPrice": 35000,
+    "modelCode": "DV-EXE-0002",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/EXE_02_NORWAY HB (LIGHT GREY)_front.png",
+    "backImage": "/extracted_product_images/EXE_02_NORWAY HB (LIGHT GREY)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_02_NORWAY HB (LIGHT GREY)_front.png",
+      "/extracted_product_images/EXE_02_NORWAY HB (LIGHT GREY)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0003",
+    "title": "Norway Hb (Dark Grey)",
+    "categoryId": "executive",
+    "price": "\u20b935,000",
+    "rawPrice": 35000,
+    "modelCode": "DV-EXE-0003",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/EXE_03_NORWAY HB (DARK GREY)_front.png",
+    "backImage": "/extracted_product_images/EXE_03_NORWAY HB (DARK GREY)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_03_NORWAY HB (DARK GREY)_front.png",
+      "/extracted_product_images/EXE_03_NORWAY HB (DARK GREY)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0004",
+    "title": "Rooster Hb Grey (With Footrest)",
+    "categoryId": "executive",
+    "price": "\u20b940,000",
+    "rawPrice": 40000,
+    "modelCode": "DV-EXE-0004",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/EXE_04_ROOSTER HB GREY (WITH FOOTREST)_front.png",
+    "backImage": "/extracted_product_images/EXE_04_ROOSTER HB GREY (WITH FOOTREST)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_04_ROOSTER HB GREY (WITH FOOTREST)_front.png",
+      "/extracted_product_images/EXE_04_ROOSTER HB GREY (WITH FOOTREST)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0005",
+    "title": "Destiny Hb Grey (With Footrest)",
+    "categoryId": "executive",
+    "price": "\u20b940,000",
+    "rawPrice": 40000,
+    "modelCode": "DV-EXE-0005",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/EXE_05_DESTINY HB GREY (WITH FOOTREST)_front.png",
+    "backImage": "/extracted_product_images/EXE_05_DESTINY HB GREY (WITH FOOTREST)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_05_DESTINY HB GREY (WITH FOOTREST)_front.png",
+      "/extracted_product_images/EXE_05_DESTINY HB GREY (WITH FOOTREST)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0006",
+    "title": "Bassel White Hb",
+    "categoryId": "executive",
+    "price": "\u20b931,000",
+    "rawPrice": 31000,
+    "modelCode": "DV-EXE-0006",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/EXE_06_BASSEL WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_06_BASSEL WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_06_BASSEL WHITE HB_front.png",
+      "/extracted_product_images/EXE_06_BASSEL WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0007",
+    "title": "Bassel Black Hb",
+    "categoryId": "executive",
+    "price": "\u20b929,000",
+    "rawPrice": 29000,
+    "modelCode": "DV-EXE-0007",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/EXE_07_BASSEL BLACK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_07_BASSEL BLACK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_07_BASSEL BLACK HB_front.png",
+      "/extracted_product_images/EXE_07_BASSEL BLACK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0008",
+    "title": "Muse Hb",
+    "categoryId": "executive",
+    "price": "\u20b930,500",
+    "rawPrice": 30500,
+    "modelCode": "DV-EXE-0008",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/EXE_08_MUSE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_08_MUSE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_08_MUSE HB_front.png",
+      "/extracted_product_images/EXE_08_MUSE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0009",
+    "title": "(Imp) Muse Mb",
+    "categoryId": "executive",
+    "price": "\u20b928,500",
+    "rawPrice": 28500,
+    "modelCode": "DV-EXE-0009",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/EXE_09_(IMP) MUSE MB_front.png",
+    "backImage": "/extracted_product_images/EXE_09_(IMP) MUSE MB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_09_(IMP) MUSE MB_front.png",
+      "/extracted_product_images/EXE_09_(IMP) MUSE MB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0010",
+    "title": "Galaxy Grey Hb",
+    "categoryId": "executive",
+    "price": "\u20b924,500",
+    "rawPrice": 24500,
+    "modelCode": "DV-EXE-0010",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/EXE_10_GALAXY GREY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_10_GALAXY GREY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_10_GALAXY GREY HB_front.png",
+      "/extracted_product_images/EXE_10_GALAXY GREY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0011",
+    "title": "Galaxy Mesh Hb",
+    "categoryId": "executive",
+    "price": "\u20b932,000",
+    "rawPrice": 32000,
+    "modelCode": "DV-EXE-0011",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/EXE_11_GALAXY MESH HB_front.png",
+    "backImage": "/extracted_product_images/EXE_11_GALAXY MESH HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_11_GALAXY MESH HB_front.png",
+      "/extracted_product_images/EXE_11_GALAXY MESH HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0012",
+    "title": "Zoy White Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0012",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 8,
+    "image": "/extracted_product_images/EXE_12_ZOY WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_12_ZOY WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_12_ZOY WHITE HB_front.png",
+      "/extracted_product_images/EXE_12_ZOY WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0013",
+    "title": "(Ind / Eco) Zoy White Hb",
+    "categoryId": "executive",
+    "price": "\u20b911,500",
+    "rawPrice": 11500,
+    "modelCode": "DV-EXE-0013",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 8,
+    "image": "/extracted_product_images/EXE_13_(IND  ECO) ZOY WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_13_(IND  ECO) ZOY WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_13_(IND  ECO) ZOY WHITE HB_front.png",
+      "/extracted_product_images/EXE_13_(IND  ECO) ZOY WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0014",
+    "title": "Acosta Hb",
+    "categoryId": "executive",
+    "price": "\u20b921,500",
+    "rawPrice": 21500,
+    "modelCode": "DV-EXE-0014",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 9,
+    "image": "/extracted_product_images/EXE_14_ACOSTA HB_front.png",
+    "backImage": "/extracted_product_images/EXE_14_ACOSTA HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_14_ACOSTA HB_front.png",
+      "/extracted_product_images/EXE_14_ACOSTA HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0015",
+    "title": "Cross Hb",
+    "categoryId": "executive",
+    "price": "\u20b920,000",
+    "rawPrice": 20000,
+    "modelCode": "DV-EXE-0015",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 9,
+    "image": "/extracted_product_images/EXE_15_CROSS HB_front.png",
+    "backImage": "/extracted_product_images/EXE_15_CROSS HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_15_CROSS HB_front.png",
+      "/extracted_product_images/EXE_15_CROSS HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0016",
+    "title": "Perth Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0016",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 10,
+    "image": "/extracted_product_images/EXE_16_PERTH HB_front.png",
+    "backImage": "/extracted_product_images/EXE_16_PERTH HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_16_PERTH HB_front.png",
+      "/extracted_product_images/EXE_16_PERTH HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0017",
+    "title": "Spark White Hb",
+    "categoryId": "executive",
+    "price": "\u20b918,500",
+    "rawPrice": 18500,
+    "modelCode": "DV-EXE-0017",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 10,
+    "image": "/extracted_product_images/EXE_17_SPARK WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_17_SPARK WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_17_SPARK WHITE HB_front.png",
+      "/extracted_product_images/EXE_17_SPARK WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0018",
+    "title": "Troy White Hb",
+    "categoryId": "executive",
+    "price": "\u20b929,000",
+    "rawPrice": 29000,
+    "modelCode": "DV-EXE-0018",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 11,
+    "image": "/extracted_product_images/EXE_18_TROY WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_18_TROY WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_18_TROY WHITE HB_front.png",
+      "/extracted_product_images/EXE_18_TROY WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0019",
+    "title": "Troy White Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0019",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 11,
+    "image": "/extracted_product_images/EXE_19_TROY WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_19_TROY WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_19_TROY WHITE HB_front.png",
+      "/extracted_product_images/EXE_19_TROY WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0020",
+    "title": "Winner Grey Hb",
+    "categoryId": "executive",
+    "price": "\u20b915,750",
+    "rawPrice": 15750,
+    "modelCode": "DV-EXE-0020",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 12,
+    "image": "/extracted_product_images/EXE_20_WINNER GREY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_20_WINNER GREY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_20_WINNER GREY HB_front.png",
+      "/extracted_product_images/EXE_20_WINNER GREY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0021",
+    "title": "Winner Black Hb",
+    "categoryId": "executive",
+    "price": "\u20b914,750",
+    "rawPrice": 14750,
+    "modelCode": "DV-EXE-0021",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 12,
+    "image": "/extracted_product_images/EXE_21_WINNER BLACK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_21_WINNER BLACK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_21_WINNER BLACK HB_front.png",
+      "/extracted_product_images/EXE_21_WINNER BLACK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0022",
+    "title": "Ergon Mesh White Hb",
+    "categoryId": "executive",
+    "price": "\u20b923,000",
+    "rawPrice": 23000,
+    "modelCode": "DV-EXE-0022",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 13,
+    "image": "/extracted_product_images/EXE_22_ERGON MESH WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_22_ERGON MESH WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_22_ERGON MESH WHITE HB_front.png",
+      "/extracted_product_images/EXE_22_ERGON MESH WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0023",
+    "title": "Ergon Cush White Hb",
+    "categoryId": "executive",
+    "price": "\u20b923,000",
+    "rawPrice": 23000,
+    "modelCode": "DV-EXE-0023",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 13,
+    "image": "/extracted_product_images/EXE_23_ERGON CUSH WHITE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_23_ERGON CUSH WHITE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_23_ERGON CUSH WHITE HB_front.png",
+      "/extracted_product_images/EXE_23_ERGON CUSH WHITE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0024",
+    "title": "Glaze Mesh Hb (Grey)",
+    "categoryId": "executive",
+    "price": "\u20b910,750",
+    "rawPrice": 10750,
+    "modelCode": "DV-EXE-0024",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 14,
+    "image": "/extracted_product_images/EXE_24_GLAZE MESH HB (GREY)_front.png",
+    "backImage": "/extracted_product_images/EXE_24_GLAZE MESH HB (GREY)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_24_GLAZE MESH HB (GREY)_front.png",
+      "/extracted_product_images/EXE_24_GLAZE MESH HB (GREY)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0025",
+    "title": "Glaze Cushion Hb (Grey)",
+    "categoryId": "executive",
+    "price": "\u20b99,000",
+    "rawPrice": 9000,
+    "modelCode": "DV-EXE-0025",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 14,
+    "image": "/extracted_product_images/EXE_25_GLAZE CUSHION HB (GREY)_front.png",
+    "backImage": "/extracted_product_images/EXE_25_GLAZE CUSHION HB (GREY)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_25_GLAZE CUSHION HB (GREY)_front.png",
+      "/extracted_product_images/EXE_25_GLAZE CUSHION HB (GREY)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0026",
+    "title": "Deca Hb",
+    "categoryId": "executive",
+    "price": "\u20b913,000",
+    "rawPrice": 13000,
+    "modelCode": "DV-EXE-0026",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 15,
+    "image": "/extracted_product_images/EXE_26_DECA HB_front.png",
+    "backImage": "/extracted_product_images/EXE_26_DECA HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_26_DECA HB_front.png",
+      "/extracted_product_images/EXE_26_DECA HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0027",
+    "title": "Hexa Hb",
+    "categoryId": "executive",
+    "price": "\u20b914,250",
+    "rawPrice": 14250,
+    "modelCode": "DV-EXE-0027",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 15,
+    "image": "/extracted_product_images/EXE_27_HEXA HB_front.png",
+    "backImage": "/extracted_product_images/EXE_27_HEXA HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_27_HEXA HB_front.png",
+      "/extracted_product_images/EXE_27_HEXA HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0028",
+    "title": "Trio Grey Hb",
+    "categoryId": "executive",
+    "price": "\u20b914,000",
+    "rawPrice": 14000,
+    "modelCode": "DV-EXE-0028",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 16,
+    "image": "/extracted_product_images/EXE_28_TRIO GREY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_28_TRIO GREY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_28_TRIO GREY HB_front.png",
+      "/extracted_product_images/EXE_28_TRIO GREY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0029",
+    "title": "Trio Black Hb",
+    "categoryId": "executive",
+    "price": "\u20b913,500",
+    "rawPrice": 13500,
+    "modelCode": "DV-EXE-0029",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 16,
+    "image": "/extracted_product_images/EXE_29_TRIO BLACK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_29_TRIO BLACK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_29_TRIO BLACK HB_front.png",
+      "/extracted_product_images/EXE_29_TRIO BLACK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0030",
+    "title": "Octa Hb",
+    "categoryId": "executive",
+    "price": "\u20b911,500",
+    "rawPrice": 11500,
+    "modelCode": "DV-EXE-0030",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 17,
+    "image": "/extracted_product_images/EXE_30_OCTA HB_front.png",
+    "backImage": "/extracted_product_images/EXE_30_OCTA HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_30_OCTA HB_front.png",
+      "/extracted_product_images/EXE_30_OCTA HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0031",
+    "title": "Karina Dlx Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0031",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 17,
+    "image": "/extracted_product_images/EXE_31_KARINA DLX HB_front.png",
+    "backImage": "/extracted_product_images/EXE_31_KARINA DLX HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_31_KARINA DLX HB_front.png",
+      "/extracted_product_images/EXE_31_KARINA DLX HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0032",
+    "title": "Omega Wht Mesh Hb",
+    "categoryId": "executive",
+    "price": "\u20b910,500",
+    "rawPrice": 10500,
+    "modelCode": "DV-EXE-0032",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 18,
+    "image": "/extracted_product_images/EXE_32_OMEGA WHT MESH HB_front.png",
+    "backImage": "/extracted_product_images/EXE_32_OMEGA WHT MESH HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_32_OMEGA WHT MESH HB_front.png",
+      "/extracted_product_images/EXE_32_OMEGA WHT MESH HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0033",
+    "title": "Omega Blk Mesh Hb",
+    "categoryId": "executive",
+    "price": "\u20b910,000",
+    "rawPrice": 10000,
+    "modelCode": "DV-EXE-0033",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 18,
+    "image": "/extracted_product_images/EXE_33_OMEGA BLK MESH HB_front.png",
+    "backImage": "/extracted_product_images/EXE_33_OMEGA BLK MESH HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_33_OMEGA BLK MESH HB_front.png",
+      "/extracted_product_images/EXE_33_OMEGA BLK MESH HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0034",
+    "title": "Atom Dlx Hb",
+    "categoryId": "executive",
+    "price": "\u20b99,500",
+    "rawPrice": 9500,
+    "modelCode": "DV-EXE-0034",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 19,
+    "image": "/extracted_product_images/EXE_34_ATOM DLX HB_front.png",
+    "backImage": "/extracted_product_images/EXE_34_ATOM DLX HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_34_ATOM DLX HB_front.png",
+      "/extracted_product_images/EXE_34_ATOM DLX HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0035",
+    "title": "Eon Dlx Hb",
+    "categoryId": "executive",
+    "price": "\u20b98,900",
+    "rawPrice": 8900,
+    "modelCode": "DV-EXE-0035",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 19,
+    "image": "/extracted_product_images/EXE_35_EON DLX HB_front.png",
+    "backImage": "/extracted_product_images/EXE_35_EON DLX HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_35_EON DLX HB_front.png",
+      "/extracted_product_images/EXE_35_EON DLX HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0036",
+    "title": "Executive Model P20-A",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0036",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 20,
+    "image": "/extracted_product_images/EXE_36_Executive Model P20-A_front.png",
+    "backImage": "/extracted_product_images/EXE_36_Executive Model P20-A_back.png",
+    "images": [
+      "/extracted_product_images/EXE_36_Executive Model P20-A_front.png",
+      "/extracted_product_images/EXE_36_Executive Model P20-A_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0037",
+    "title": "Executive Model P20-B",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0037",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 20,
+    "image": "/extracted_product_images/EXE_37_Executive Model P20-B_front.png",
+    "backImage": "/extracted_product_images/EXE_37_Executive Model P20-B_back.png",
+    "images": [
+      "/extracted_product_images/EXE_37_Executive Model P20-B_front.png",
+      "/extracted_product_images/EXE_37_Executive Model P20-B_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0038",
+    "title": "Attitude Hb",
+    "categoryId": "executive",
+    "price": "\u20b956,000",
+    "rawPrice": 56000,
+    "modelCode": "DV-EXE-0038",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 21,
+    "image": "/extracted_product_images/EXE_38_ATTITUDE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_38_ATTITUDE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_38_ATTITUDE HB_front.png",
+      "/extracted_product_images/EXE_38_ATTITUDE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0039",
+    "title": "Attitude Hb",
+    "categoryId": "executive",
+    "price": "\u20b964,000",
+    "rawPrice": 64000,
+    "modelCode": "DV-EXE-0039",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 21,
+    "image": "/extracted_product_images/EXE_39_ATTITUDE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_39_ATTITUDE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_39_ATTITUDE HB_front.png",
+      "/extracted_product_images/EXE_39_ATTITUDE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0040",
+    "title": "Geek Hb",
+    "categoryId": "executive",
+    "price": "\u20b968,000",
+    "rawPrice": 68000,
+    "modelCode": "DV-EXE-0040",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 22,
+    "image": "/extracted_product_images/EXE_40_GEEK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_40_GEEK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_40_GEEK HB_front.png",
+      "/extracted_product_images/EXE_40_GEEK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0041",
+    "title": "Oyster (Leather) Hb",
+    "categoryId": "executive",
+    "price": "\u20b963,500",
+    "rawPrice": 63500,
+    "modelCode": "DV-EXE-0041",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 22,
+    "image": "/extracted_product_images/EXE_41_OYSTER (LEATHER) HB_front.png",
+    "backImage": "/extracted_product_images/EXE_41_OYSTER (LEATHER) HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_41_OYSTER (LEATHER) HB_front.png",
+      "/extracted_product_images/EXE_41_OYSTER (LEATHER) HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0042",
+    "title": "Bentley (Leather) Hb",
+    "categoryId": "executive",
+    "price": "\u20b975,000",
+    "rawPrice": 75000,
+    "modelCode": "DV-EXE-0042",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 23,
+    "image": "/extracted_product_images/EXE_42_BENTLEY (LEATHER) HB_front.png",
+    "backImage": "/extracted_product_images/EXE_42_BENTLEY (LEATHER) HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_42_BENTLEY (LEATHER) HB_front.png",
+      "/extracted_product_images/EXE_42_BENTLEY (LEATHER) HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0043",
+    "title": "Bentley (Pu) Hb",
+    "categoryId": "executive",
+    "price": "\u20b959,000",
+    "rawPrice": 59000,
+    "modelCode": "DV-EXE-0043",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 23,
+    "image": "/extracted_product_images/EXE_43_BENTLEY (PU) HB_front.png",
+    "backImage": "/extracted_product_images/EXE_43_BENTLEY (PU) HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_43_BENTLEY (PU) HB_front.png",
+      "/extracted_product_images/EXE_43_BENTLEY (PU) HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0044",
+    "title": "Elevate Hb",
+    "categoryId": "executive",
+    "price": "\u20b928,000",
+    "rawPrice": 28000,
+    "modelCode": "DV-EXE-0044",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 24,
+    "image": "/extracted_product_images/EXE_44_ELEVATE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_44_ELEVATE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_44_ELEVATE HB_front.png",
+      "/extracted_product_images/EXE_44_ELEVATE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0045",
+    "title": "Startus Hb",
+    "categoryId": "executive",
+    "price": "\u20b926,000",
+    "rawPrice": 26000,
+    "modelCode": "DV-EXE-0045",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 24,
+    "image": "/extracted_product_images/EXE_45_STARTUS HB_front.png",
+    "backImage": "/extracted_product_images/EXE_45_STARTUS HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_45_STARTUS HB_front.png",
+      "/extracted_product_images/EXE_45_STARTUS HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0046",
+    "title": "Winster Hb",
+    "categoryId": "executive",
+    "price": "\u20b995,000",
+    "rawPrice": 95000,
+    "modelCode": "DV-EXE-0046",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 25,
+    "image": "/extracted_product_images/EXE_46_WINSTER HB_front.png",
+    "backImage": "/extracted_product_images/EXE_46_WINSTER HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_46_WINSTER HB_front.png",
+      "/extracted_product_images/EXE_46_WINSTER HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0047",
+    "title": "Martin Hb",
+    "categoryId": "executive",
+    "price": "\u20b980,000",
+    "rawPrice": 80000,
+    "modelCode": "DV-EXE-0047",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 25,
+    "image": "/extracted_product_images/EXE_47_MARTIN HB_front.png",
+    "backImage": "/extracted_product_images/EXE_47_MARTIN HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_47_MARTIN HB_front.png",
+      "/extracted_product_images/EXE_47_MARTIN HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0048",
+    "title": "Trust Hb",
+    "categoryId": "executive",
+    "price": "\u20b928,000",
+    "rawPrice": 28000,
+    "modelCode": "DV-EXE-0048",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 26,
+    "image": "/extracted_product_images/EXE_48_TRUST HB_front.png",
+    "backImage": "/extracted_product_images/EXE_48_TRUST HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_48_TRUST HB_front.png",
+      "/extracted_product_images/EXE_48_TRUST HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0049",
+    "title": "Trust Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0049",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 26,
+    "image": "/extracted_product_images/EXE_49_TRUST HB_front.png",
+    "backImage": "/extracted_product_images/EXE_49_TRUST HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_49_TRUST HB_front.png",
+      "/extracted_product_images/EXE_49_TRUST HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0050",
+    "title": "Daisy Hb",
+    "categoryId": "executive",
+    "price": "\u20b932,500",
+    "rawPrice": 32500,
+    "modelCode": "DV-EXE-0050",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 27,
+    "image": "/extracted_product_images/EXE_50_DAISY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_50_DAISY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_50_DAISY HB_front.png",
+      "/extracted_product_images/EXE_50_DAISY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0051",
+    "title": "Epson Hb",
+    "categoryId": "executive",
+    "price": "\u20b934,000",
+    "rawPrice": 34000,
+    "modelCode": "DV-EXE-0051",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 27,
+    "image": "/extracted_product_images/EXE_51_EPSON HB_front.png",
+    "backImage": "/extracted_product_images/EXE_51_EPSON HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_51_EPSON HB_front.png",
+      "/extracted_product_images/EXE_51_EPSON HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0052",
+    "title": "Maverick Hb",
+    "categoryId": "executive",
+    "price": "\u20b932,000",
+    "rawPrice": 32000,
+    "modelCode": "DV-EXE-0052",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 28,
+    "image": "/extracted_product_images/EXE_52_MAVERICK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_52_MAVERICK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_52_MAVERICK HB_front.png",
+      "/extracted_product_images/EXE_52_MAVERICK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0053",
+    "title": "Stanley Hb",
+    "categoryId": "executive",
+    "price": "\u20b928,000",
+    "rawPrice": 28000,
+    "modelCode": "DV-EXE-0053",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 28,
+    "image": "/extracted_product_images/EXE_53_STANLEY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_53_STANLEY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_53_STANLEY HB_front.png",
+      "/extracted_product_images/EXE_53_STANLEY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0054",
+    "title": "Boss (Brown) Hb",
+    "categoryId": "executive",
+    "price": "\u20b933,000",
+    "rawPrice": 33000,
+    "modelCode": "DV-EXE-0054",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 29,
+    "image": "/extracted_product_images/EXE_54_BOSS (BROWN) HB_front.png",
+    "backImage": "/extracted_product_images/EXE_54_BOSS (BROWN) HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_54_BOSS (BROWN) HB_front.png",
+      "/extracted_product_images/EXE_54_BOSS (BROWN) HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0055",
+    "title": "Austin Hb",
+    "categoryId": "executive",
+    "price": "\u20b934,500",
+    "rawPrice": 34500,
+    "modelCode": "DV-EXE-0055",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 29,
+    "image": "/extracted_product_images/EXE_55_AUSTIN HB_front.png",
+    "backImage": "/extracted_product_images/EXE_55_AUSTIN HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_55_AUSTIN HB_front.png",
+      "/extracted_product_images/EXE_55_AUSTIN HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0056",
+    "title": "Marquis Hb",
+    "categoryId": "executive",
+    "price": "\u20b975,000",
+    "rawPrice": 75000,
+    "modelCode": "DV-EXE-0056",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 30,
+    "image": "/extracted_product_images/EXE_56_MARQUIS HB_front.png",
+    "backImage": "/extracted_product_images/EXE_56_MARQUIS HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_56_MARQUIS HB_front.png",
+      "/extracted_product_images/EXE_56_MARQUIS HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0057",
+    "title": "Magnet Hb",
+    "categoryId": "executive",
+    "price": "\u20b964,000",
+    "rawPrice": 64000,
+    "modelCode": "DV-EXE-0057",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 30,
+    "image": "/extracted_product_images/EXE_57_MAGNET HB_front.png",
+    "backImage": "/extracted_product_images/EXE_57_MAGNET HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_57_MAGNET HB_front.png",
+      "/extracted_product_images/EXE_57_MAGNET HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0058",
+    "title": "Heritage Hb",
+    "categoryId": "executive",
+    "price": "\u20b9128,000",
+    "rawPrice": 128000,
+    "modelCode": "DV-EXE-0058",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 31,
+    "image": "/extracted_product_images/EXE_58_HERITAGE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_58_HERITAGE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_58_HERITAGE HB_front.png",
+      "/extracted_product_images/EXE_58_HERITAGE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0059",
+    "title": "Legacy Hb",
+    "categoryId": "executive",
+    "price": "\u20b932,000",
+    "rawPrice": 32000,
+    "modelCode": "DV-EXE-0059",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 31,
+    "image": "/extracted_product_images/EXE_59_LEGACY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_59_LEGACY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_59_LEGACY HB_front.png",
+      "/extracted_product_images/EXE_59_LEGACY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0060",
+    "title": "Dacota Hb",
+    "categoryId": "executive",
+    "price": "\u20b931,000",
+    "rawPrice": 31000,
+    "modelCode": "DV-EXE-0060",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 32,
+    "image": "/extracted_product_images/EXE_60_DACOTA HB_front.png",
+    "backImage": "/extracted_product_images/EXE_60_DACOTA HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_60_DACOTA HB_front.png",
+      "/extracted_product_images/EXE_60_DACOTA HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0061",
+    "title": "Oxford Hb",
+    "categoryId": "executive",
+    "price": "\u20b926,000",
+    "rawPrice": 26000,
+    "modelCode": "DV-EXE-0061",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 32,
+    "image": "/extracted_product_images/EXE_61_OXFORD HB_front.png",
+    "backImage": "/extracted_product_images/EXE_61_OXFORD HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_61_OXFORD HB_front.png",
+      "/extracted_product_images/EXE_61_OXFORD HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0062",
+    "title": "Duster Cushion Hb",
+    "categoryId": "executive",
+    "price": "\u20b938,500",
+    "rawPrice": 38500,
+    "modelCode": "DV-EXE-0062",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 33,
+    "image": "/extracted_product_images/EXE_62_DUSTER CUSHION HB_front.png",
+    "backImage": "/extracted_product_images/EXE_62_DUSTER CUSHION HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_62_DUSTER CUSHION HB_front.png",
+      "/extracted_product_images/EXE_62_DUSTER CUSHION HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0063",
+    "title": "Virgo Hb (Grey)",
+    "categoryId": "executive",
+    "price": "\u20b920,000",
+    "rawPrice": 20000,
+    "modelCode": "DV-EXE-0063",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 33,
+    "image": "/extracted_product_images/EXE_63_VIRGO HB (GREY)_front.png",
+    "backImage": "/extracted_product_images/EXE_63_VIRGO HB (GREY)_back.png",
+    "images": [
+      "/extracted_product_images/EXE_63_VIRGO HB (GREY)_front.png",
+      "/extracted_product_images/EXE_63_VIRGO HB (GREY)_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0064",
+    "title": "Venice Hb",
+    "categoryId": "executive",
+    "price": "\u20b917,500",
+    "rawPrice": 17500,
+    "modelCode": "DV-EXE-0064",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 34,
+    "image": "/extracted_product_images/EXE_64_VENICE HB_front.png",
+    "backImage": "/extracted_product_images/EXE_64_VENICE HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_64_VENICE HB_front.png",
+      "/extracted_product_images/EXE_64_VENICE HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0065",
+    "title": "Lucy Hb",
+    "categoryId": "executive",
+    "price": "\u20b917,500",
+    "rawPrice": 17500,
+    "modelCode": "DV-EXE-0065",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 34,
+    "image": "/extracted_product_images/EXE_65_LUCY HB_front.png",
+    "backImage": "/extracted_product_images/EXE_65_LUCY HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_65_LUCY HB_front.png",
+      "/extracted_product_images/EXE_65_LUCY HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0066",
+    "title": "Elite Sleek Hb",
+    "categoryId": "executive",
+    "price": "\u20b925,500",
+    "rawPrice": 25500,
+    "modelCode": "DV-EXE-0066",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 35,
+    "image": "/extracted_product_images/EXE_66_ELITE SLEEK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_66_ELITE SLEEK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_66_ELITE SLEEK HB_front.png",
+      "/extracted_product_images/EXE_66_ELITE SLEEK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+    ]
+  },
+  {
+    "id": "PRD-EXE-0067",
+    "title": "Sleek Hb",
+    "categoryId": "executive",
+    "price": "\u20b914,000",
+    "rawPrice": 14000,
+    "modelCode": "DV-EXE-0067",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 35,
+    "image": "/extracted_product_images/EXE_67_SLEEK HB_front.png",
+    "backImage": "/extracted_product_images/EXE_67_SLEEK HB_back.png",
+    "images": [
+      "/extracted_product_images/EXE_67_SLEEK HB_front.png",
+      "/extracted_product_images/EXE_67_SLEEK HB_back.png"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Dual Front & Back View Architectural Renders",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
     ]
   }
 ];
