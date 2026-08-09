@@ -18750,6 +18750,27 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
+    "id": "PRD-LOU-0011B",
+    "title": "Volos",
+    "categoryId": "lounge",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-LOU-0011B",
+    "sourcePdf": "LOUNGE  PRICELIST- AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/11_Volos.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Sculptural Deep-Seated Ergonomic Shell",
+      "High-Grade Commercial Velvet / Nappa Upholstery",
+      "Heavy-Duty Reinforced Base Frame",
+      "Commercial BIFMA Level 3 Certified"
+    ]
+  },
+  {
     "id": "PRD-LOU-0012",
     "title": "Austria",
     "categoryId": "lounge",
