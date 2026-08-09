@@ -20262,27 +20262,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
-    "id": "PRD-LOU-0084",
-    "title": "Eternia Set",
-    "categoryId": "lounge",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-LOU-0084",
-    "sourcePdf": "LOUNGE  PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 26,
-    "image": "/extracted_product_images/84_Eternia Set.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Sculptural Deep-Seated Ergonomic Shell",
-      "High-Grade Commercial Velvet / Nappa Upholstery",
-      "Heavy-Duty Reinforced Base Frame",
-      "Commercial BIFMA Level 3 Certified"
-    ]
-  },
-  {
     "id": "PRD-LOU-0085",
     "title": "Crystal with Footrest",
     "categoryId": "lounge",
