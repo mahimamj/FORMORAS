@@ -188,7 +188,9 @@ export default function Collections({ onOpenQuote }: CollectionsProps) {
               >
                 {/* Image Showcase */}
                 <div className={`relative overflow-hidden bg-obsidian-light/80 p-2 border-b border-white/10 ${
-                  product.category.toLowerCase().includes('sofa') ? 'aspect-[4/3]' : 'aspect-[3/4]'
+                  product.title.toLowerCase().includes('footrest') || product.title.toLowerCase().includes('set') || product.category.toLowerCase().includes('sofa')
+                    ? 'aspect-[4/3]'
+                    : 'aspect-square'
                 }`}>
                   <img
                     src={product.image}

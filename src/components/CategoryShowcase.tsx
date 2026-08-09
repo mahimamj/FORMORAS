@@ -227,7 +227,9 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                 >
                   <div className="space-y-3">
                     <div className={`relative overflow-hidden rounded-lg bg-obsidian-light/80 p-2 border border-white/5 ${
-                      activeCategory.id === 'sofa' ? 'aspect-[4/3]' : 'aspect-[3/4]'
+                      product.title.toLowerCase().includes('footrest') || product.title.toLowerCase().includes('set') || activeCategory.id === 'sofa'
+                        ? 'aspect-[4/3]'
+                        : 'aspect-square'
                     }`}>
                       <img
                         src={product.image}
