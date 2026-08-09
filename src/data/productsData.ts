@@ -10,6 +10,8 @@ export interface ProductItem {
   sourceFolder?: string;
   pageNumber?: number;
   image: string;
+  backImage?: string;
+  images?: string[];
   warranty: string;
   bifmaCertified: boolean;
   leadTime: string;
@@ -15600,233 +15602,233 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "PRD-HIG-0001",
-    "title": "Astoria Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b917,000",
-    "rawPrice": 17000,
-    "modelCode": "DV-HIG-0001",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/HC_01_ASTORIA_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0002",
-    "title": "Vice High Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b919,800",
-    "rawPrice": 19800,
-    "modelCode": "DV-HIG-0002",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/HC_02_VICE_HIGH_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0003",
-    "title": "Fanny Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b916,000",
-    "rawPrice": 16000,
-    "modelCode": "DV-HIG-0003",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/HC_03_FANNY_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0004",
-    "title": "Macau Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b912,500",
-    "rawPrice": 12500,
-    "modelCode": "DV-HIG-0004",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/HC_04_MACAU_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0005",
-    "title": "Heron High Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b923,000",
-    "rawPrice": 23000,
-    "modelCode": "DV-HIG-0005",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 1,
-    "image": "/extracted_product_images/HC_05_HERON_HIGH_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0006",
-    "title": "Kite Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b912,500",
-    "rawPrice": 12500,
-    "modelCode": "DV-HIG-0006",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/HC_06_KITE_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0007",
-    "title": "Rhodes Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b916,500",
-    "rawPrice": 16500,
-    "modelCode": "DV-HIG-0007",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/HC_07_RHODES_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0008",
-    "title": "Ricky Ashwood Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b923,000",
-    "rawPrice": 23000,
-    "modelCode": "DV-HIG-0008",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/HC_08_RICKY_ASHWOOD_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0009",
-    "title": "Skyros Hc Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b925,000",
-    "rawPrice": 25000,
-    "modelCode": "DV-HIG-0009",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/HC_09_SKYROS_HC_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0010",
-    "title": "Bolzano Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b914,500",
-    "rawPrice": 14500,
-    "modelCode": "DV-HIG-0010",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/HC_10_BOLZANO_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0011",
     "title": "Woody High Counter Chair",
     "categoryId": "highcounter",
     "price": "\u20b910,500",
     "rawPrice": 10500,
-    "modelCode": "DV-HIG-0011",
+    "modelCode": "DV-HIG-0001",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
     "sourceFolder": "highcounter",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/HC_11_WOODY_HIGH_COUNTER_CHAIR.png",
+    "pageNumber": 1,
+    "image": "/highcounter/107099b4-8775-41ef-ba18-ea1ccd7287c4.png",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
+      "Swivel Pneumatic Gas Lift Pedestal",
+      "Curved Hardwood Backrest Frame with Cream Boucl\u00e9 Cushion",
+      "360-Degree Smooth Swivel with Chrome Footrest Ring",
+      "BIFMA Commercial Grade Class-4 Gas Lift"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0002",
+    "title": "Ricky Ashwood Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b923,000",
+    "rawPrice": 23000,
+    "modelCode": "DV-HIG-0002",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 1,
+    "image": "/highcounter/111d705d-9349-4b1a-ab24-e7686b057410.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Solid Ashwood Architectural Framework",
+      "Ergonomic Curved Solid Wood Backrest & Soft Padded Seat",
+      "Integrated Steel Cross-Bar Footrest Reinforcement",
+      "Matte Walnut Stain with Natural Grain Finish"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0003",
+    "title": "Heron High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b923,000",
+    "rawPrice": 23000,
+    "modelCode": "DV-HIG-0003",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/highcounter/21876648-51df-485c-b182-453cd6c8e2ef.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Terracotta Saddle Upholstered Bucket Seat Shell",
+      "Tapered Solid Wood Leg Framework with Footrest",
+      "High-Density Molded Comfort Foam",
+      "Contemporary Architectural Silhouette"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0004",
+    "title": "Astoria Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b917,000",
+    "rawPrice": 17000,
+    "modelCode": "DV-HIG-0004",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/highcounter/2869a9f3-3e32-4747-8813-87a0a25997d7.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Pneumatic Height Adjustable Swivel Stool",
+      "Curved Back Support & High-Density Cushion",
+      "Heavy-Duty Chrome Steel Base with Footrest Ring",
+      "Commercial Grade Hydraulic Gas Cylinder"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0005",
+    "title": "Vice High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b919,800",
+    "rawPrice": 19800,
+    "modelCode": "DV-HIG-0005",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/highcounter/41b9ba72-18d3-4232-bd11-dacefd0c4f8d.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Contoured Shell Backrest with Tailored Fabric",
+      "Powder-Coated Matte Black Steel Legs",
+      "360-Degree Swivel Seating Comfort",
+      "Anti-Scratch Glide Caps"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0006",
+    "title": "Fanny Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b916,000",
+    "rawPrice": 16000,
+    "modelCode": "DV-HIG-0006",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/highcounter/4c64c504-8016-44ac-bcad-30d2e9a054ae.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Minimalist Contract Counter Stool",
+      "Ergonomic Back Support Shell",
+      "Solid Beechwood Reinforced Leg Frame",
+      "Integrated Footrest Crossbars"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0007",
+    "title": "Macau Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0007",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/highcounter/4d9dce0a-709c-44fe-8d39-e3c15819d245.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Modern Industrial High Counter Stool",
+      "Easy-to-Clean Polypropylene Shell",
+      "Heavy-Gauge Steel Frame Construction",
+      "Stackable / Space-Saving Design"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0008",
+    "title": "Kite Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0008",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/highcounter/5b38a169-b047-491d-b957-f072ef97bcd7.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Geometric Sculptural Back Design",
+      "Swivel Height Adjustment Mechanism",
+      "Matte Finish Base with Footrest Support",
+      "Contract Hospitality Approved"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0009",
+    "title": "Rhodes Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b916,500",
+    "rawPrice": 16500,
+    "modelCode": "DV-HIG-0009",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/highcounter/726bfc21-5d54-4cb2-b686-aeb6b6b03c12.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Plush Cushioned Seat Shell",
+      "Steel Leg Structure with Wood-Grain Transfer",
+      "Ergonomic Lumbar Angle Support",
+      "Non-Marking Base Protectors"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0010",
+    "title": "Skyros Hc Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b925,000",
+    "rawPrice": 25000,
+    "modelCode": "DV-HIG-0010",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/highcounter/819cedc2-43ca-43af-bbde-edcb115b77d7.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Luxury Hospitality Bar Stool",
+      "Premium Velvet / Leatherette Upholstery",
+      "Gold Brushed / Black Powder Coated Steel Base",
+      "Ultra-Dense Molded Foam Padding"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0011",
+    "title": "Bolzano Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b914,500",
+    "rawPrice": 14500,
+    "modelCode": "DV-HIG-0011",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/highcounter/91e1de8b-2bcd-404a-abfc-4f489397b39f.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Curved Back Seat Shell with Cushioning",
+      "Tapered Metal Legs with Footrest Ring",
+      "Smooth 360-Degree Swivel Action",
+      "Stain-Shield Upholstery Protection"
     ]
   },
   {
@@ -15838,16 +15840,16 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "modelCode": "DV-HIG-0012",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
     "sourceFolder": "highcounter",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/HC_12_RIMINI__ACRYLIC__STOOL.png",
+    "pageNumber": 5,
+    "image": "/highcounter/aa3dfe3f-06c3-4070-b79c-c5260b472876.png",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
+      "Clear Acrylic Architectural Seat Shell",
+      "Pneumatic Chrome Gas Lift Base",
+      "Height Adjustable from 60cm to 82cm",
+      "Integrated Footrest Bar"
     ]
   },
   {
@@ -15859,16 +15861,16 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "modelCode": "DV-HIG-0013",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
     "sourceFolder": "highcounter",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/HC_13_PEDRO_BAR_STOOL.png",
+    "pageNumber": 5,
+    "image": "/highcounter/b4b33ed2-e84f-4b6b-8220-4cb30216b8ee.png",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
+      "Industrial Vintage Leatherette Stool",
+      "Solid Steel Four-Leg Base",
+      "Heavy Commercial Duty Weight Rating",
+      "Footrest Bars on All Sides"
     ]
   },
   {
@@ -15880,16 +15882,16 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "modelCode": "DV-HIG-0014",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
     "sourceFolder": "highcounter",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/HC_14_TANRIFF_COUNTER_CHAIR.png",
+    "pageNumber": 5,
+    "image": "/highcounter/c3f24680-229c-4e08-ada3-591b719cbb9b.png",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
+      "Polypropylene Molded Ergonomic Seat",
+      "Steel Base Frame with Footrest Bar",
+      "Vibrant Commercial Color Options",
+      "Easy Maintenance & Cleanability"
     ]
   },
   {
@@ -15901,16 +15903,16 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "modelCode": "DV-HIG-0015",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
     "sourceFolder": "highcounter",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/HC_15_ROCKY_HIGH_COUNTER_CHAIR.png",
+    "pageNumber": 6,
+    "image": "/highcounter/c6f02dd4-53dc-413b-893b-77d444467c0f.png",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
+      "Ribbed Cushioning Backrest Design",
+      "Black Metal Frame with Foot Support",
+      "Ergonomic Sitting Geometry",
+      "100% Virgin Density Molded Foam"
     ]
   },
   {
@@ -15922,541 +15924,16 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "modelCode": "DV-HIG-0016",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
     "sourceFolder": "highcounter",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/HC_16_ERICA_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0017",
-    "title": "Eagle Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b912,200",
-    "rawPrice": 12200,
-    "modelCode": "DV-HIG-0017",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/HC_17_EAGLE_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0018",
-    "title": "Lyon High Counter Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b912,500",
-    "rawPrice": 12500,
-    "modelCode": "DV-HIG-0018",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/HC_18_LYON_HIGH_COUNTER_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0019",
-    "title": "Tobago Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b96,300",
-    "rawPrice": 6300,
-    "modelCode": "DV-HIG-0019",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/HC_19_TOBAGO_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0020",
-    "title": "Melody Hc Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b99,500",
-    "rawPrice": 9500,
-    "modelCode": "DV-HIG-0020",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/HC_20_MELODY_HC_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0021",
-    "title": "Opava Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b96,000",
-    "rawPrice": 6000,
-    "modelCode": "DV-HIG-0021",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/HC_21_OPAVA_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0022",
-    "title": "Santorini Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b96,000",
-    "rawPrice": 6000,
-    "modelCode": "DV-HIG-0022",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/HC_22_SANTORINI_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0023",
-    "title": "Florida High Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b912,500",
-    "rawPrice": 12500,
-    "modelCode": "DV-HIG-0023",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/HC_23_FLORIDA_HIGH_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0024",
-    "title": "Dale Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b96,000",
-    "rawPrice": 6000,
-    "modelCode": "DV-HIG-0024",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/HC_24_DALE_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0025",
-    "title": "Tanriff Oak Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b98,200",
-    "rawPrice": 8200,
-    "modelCode": "DV-HIG-0025",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/HC_25_TANRIFF_OAK_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0026",
-    "title": "Bistro Hc Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b96,500",
-    "rawPrice": 6500,
-    "modelCode": "DV-HIG-0026",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/HC_26_BISTRO_HC_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0027",
-    "title": "Tuxedo (Hc) Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b912,000",
-    "rawPrice": 12000,
-    "modelCode": "DV-HIG-0027",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/HC_27_TUXEDO__HC__STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0028",
-    "title": "Rimini (Pp) Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b97,500",
-    "rawPrice": 7500,
-    "modelCode": "DV-HIG-0028",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/HC_28_RIMINI__PP__BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0029",
-    "title": "Sweden Hc Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b96,000",
-    "rawPrice": 6000,
-    "modelCode": "DV-HIG-0029",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/HC_29_SWEDEN_HC_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0030",
-    "title": "Joss Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b99,000",
-    "rawPrice": 9000,
-    "modelCode": "DV-HIG-0030",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
     "pageNumber": 6,
-    "image": "/extracted_product_images/HC_30_JOSS_COUNTER_CHAIR.png",
+    "image": "/highcounter/eeb6de33-d525-415c-8733-45e77a8b9aef.png",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0031",
-    "title": "Click Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b95,500",
-    "rawPrice": 5500,
-    "modelCode": "DV-HIG-0031",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/HC_31_CLICK_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0032",
-    "title": "Pulse Wood Hc Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b97,250",
-    "rawPrice": 7250,
-    "modelCode": "DV-HIG-0032",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/HC_32_PULSE_WOOD_HC_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0033",
-    "title": "Danny Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b915,000",
-    "rawPrice": 15000,
-    "modelCode": "DV-HIG-0033",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/HC_33_DANNY_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0034",
-    "title": "Derby Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b912,750",
-    "rawPrice": 12750,
-    "modelCode": "DV-HIG-0034",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/HC_34_DERBY_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0035",
-    "title": "Finch High Counter Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b911,000",
-    "rawPrice": 11000,
-    "modelCode": "DV-HIG-0035",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/HC_35_FINCH_HIGH_COUNTER_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0036",
-    "title": "Rooney Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b99,000",
-    "rawPrice": 9000,
-    "modelCode": "DV-HIG-0036",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/HC_36_ROONEY_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0037",
-    "title": "Dove Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b95,500",
-    "rawPrice": 5500,
-    "modelCode": "DV-HIG-0037",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/HC_37_DOVE_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0038",
-    "title": "Duke Bar Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b910,500",
-    "rawPrice": 10500,
-    "modelCode": "DV-HIG-0038",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/HC_38_DUKE_BAR_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0039",
-    "title": "Digi High Counter Chair",
-    "categoryId": "highcounter",
-    "price": "\u20b914,500",
-    "rawPrice": 14500,
-    "modelCode": "DV-HIG-0039",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/HC_39_DIGI_HIGH_COUNTER_CHAIR.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0040",
-    "title": "Vibe Hc Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b94,800",
-    "rawPrice": 4800,
-    "modelCode": "DV-HIG-0040",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/HC_40_VIBE_HC_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
-    ]
-  },
-  {
-    "id": "PRD-HIG-0041",
-    "title": "Stripe Hc Stool",
-    "categoryId": "highcounter",
-    "price": "\u20b94,600",
-    "rawPrice": 4600,
-    "modelCode": "DV-HIG-0041",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "highcounter",
-    "pageNumber": 7,
-    "image": "/extracted_product_images/HC_41_STRIPE_HC_STOOL.png",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Architectural High Counter Chair & Swivel Bar Stool",
-      "Heavy-Duty Steel Base with Chrome / Matte Finish",
-      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
-      "Ergonomic Cushioning & Premium Upholstery"
+      "Compact Bar Counter Chair",
+      "Cushioned Seat & Low Backrest",
+      "Swivel Height Adjustable Cylinder",
+      "Chrome Circular Base with Rubber Ring"
     ]
   }
 ];
