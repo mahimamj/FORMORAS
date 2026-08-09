@@ -1656,468 +1656,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
-    "id": "PRD-0207",
-    "title": "19",
-    "categoryId": "highcounter",
-    "price": "\u20b9800",
-    "rawPrice": 800,
-    "modelCode": "DV-HIG-0207",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0208.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0208",
-    "title": "16",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0208",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0209.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0209",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0209",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0210.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0210",
-    "title": "23",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0210",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0211.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0211",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0211",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0212.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0212",
-    "title": "16",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0212",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0213.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0213",
-    "title": "23",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0213",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0214.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0214",
-    "title": "25",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0214",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0215.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0215",
-    "title": "14",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0215",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0216.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0216",
-    "title": "10",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0216",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0217.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0217",
-    "title": "18",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0217",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0218.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0218",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0218",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0219.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0219",
-    "title": "11",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0219",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0220.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0220",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9200",
-    "rawPrice": 200,
-    "modelCode": "DV-HIG-0220",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0221.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0221",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0221",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0222.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0222",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0222",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0223.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0223",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0223",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0224.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0224",
-    "title": "15",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0224",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0225.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0225",
-    "title": "12",
-    "categoryId": "highcounter",
-    "price": "\u20b9750",
-    "rawPrice": 750,
-    "modelCode": "DV-HIG-0225",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0226.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0226",
-    "title": "11",
-    "categoryId": "highcounter",
-    "price": "\u20b90",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0226",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0227.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0227",
-    "title": "10",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0227",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/EXT-0228.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0228",
-    "title": "14",
-    "categoryId": "highcounter",
-    "price": "\u20b9500",
-    "rawPrice": 500,
-    "modelCode": "DV-HIG-0228",
-    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_product_images/EXT-0229.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
     "id": "PRD-0338",
     "title": "120",
     "categoryId": "tables",
@@ -7798,174 +7336,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
     "pageNumber": 23,
     "image": "/extracted_product_images/EXT-0902.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0759",
-    "title": "Astoria",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0759",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0925.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0760",
-    "title": "Vice",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0760",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 2,
-    "image": "/extracted_product_images/EXT-0926.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0761",
-    "title": "Bolzano",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0761",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0927.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0762",
-    "title": "Woody",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0762",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 3,
-    "image": "/extracted_product_images/EXT-0928.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0763",
-    "title": "Tobago",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0763",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0929.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0764",
-    "title": "Melody Hc",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0764",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 4,
-    "image": "/extracted_product_images/EXT-0930.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0765",
-    "title": "Derby",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0765",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0931.jpg",
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified",
-      "High Resilience Ergonomic Molded Cushioning",
-      "Polished Die-Cast Metal/Reinforced Base",
-      "Custom Upholstery Options (Fabric/Leatherette/Mesh)"
-    ]
-  },
-  {
-    "id": "PRD-0766",
-    "title": "Dove",
-    "categoryId": "highcounter",
-    "price": "Price on Request",
-    "rawPrice": 0,
-    "modelCode": "DV-HIG-0766",
-    "sourcePdf": "HIGHCOUNTER SERIES_.pdf",
-    "sourceFolder": "DIVINE CHAIRS CATALOGUE (W-O PRICE AND W-O LOGO)",
-    "pageNumber": 5,
-    "image": "/extracted_product_images/EXT-0932.jpg",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
@@ -14506,10 +13876,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14532,10 +13902,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14558,10 +13928,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14584,10 +13954,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14610,10 +13980,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14636,10 +14006,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14662,10 +14032,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14688,10 +14058,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14714,10 +14084,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14740,10 +14110,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14766,10 +14136,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14792,10 +14162,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14818,10 +14188,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14844,10 +14214,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14870,10 +14240,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14896,10 +14266,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14922,10 +14292,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14948,10 +14318,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -14974,10 +14344,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15000,10 +14370,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15026,10 +14396,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15052,10 +14422,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15078,10 +14448,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15104,10 +14474,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15130,10 +14500,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15156,10 +14526,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15182,10 +14552,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15208,10 +14578,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15234,10 +14604,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15260,10 +14630,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15286,10 +14656,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15312,10 +14682,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15338,10 +14708,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15364,10 +14734,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15390,15 +14760,15 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
     "id": "PRD-EXE-0036",
-    "title": "Executive Model P20-A",
+    "title": "Executive_P20_A",
     "categoryId": "executive",
     "price": "Price on Request",
     "rawPrice": 0,
@@ -15406,25 +14776,25 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 20,
-    "image": "/extracted_product_images/EXE_36_Executive Model P20-A_front.png",
-    "backImage": "/extracted_product_images/EXE_36_Executive Model P20-A_back.png",
+    "image": "/extracted_product_images/EXE_36_Executive_P20_A_front.png",
+    "backImage": "/extracted_product_images/EXE_36_Executive_P20_A_back.png",
     "images": [
-      "/extracted_product_images/EXE_36_Executive Model P20-A_front.png",
-      "/extracted_product_images/EXE_36_Executive Model P20-A_back.png"
+      "/extracted_product_images/EXE_36_Executive_P20_A_front.png",
+      "/extracted_product_images/EXE_36_Executive_P20_A_back.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
     "id": "PRD-EXE-0037",
-    "title": "Executive Model P20-B",
+    "title": "Executive_P20_B",
     "categoryId": "executive",
     "price": "Price on Request",
     "rawPrice": 0,
@@ -15432,20 +14802,20 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 20,
-    "image": "/extracted_product_images/EXE_37_Executive Model P20-B_front.png",
-    "backImage": "/extracted_product_images/EXE_37_Executive Model P20-B_back.png",
+    "image": "/extracted_product_images/EXE_37_Executive_P20_B_front.png",
+    "backImage": "/extracted_product_images/EXE_37_Executive_P20_B_back.png",
     "images": [
-      "/extracted_product_images/EXE_37_Executive Model P20-B_front.png",
-      "/extracted_product_images/EXE_37_Executive Model P20-B_back.png"
+      "/extracted_product_images/EXE_37_Executive_P20_B_front.png",
+      "/extracted_product_images/EXE_37_Executive_P20_B_back.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15468,10 +14838,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15494,10 +14864,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15520,10 +14890,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15546,10 +14916,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15572,10 +14942,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15598,10 +14968,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15624,10 +14994,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15650,10 +15020,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15676,10 +15046,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15702,10 +15072,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15728,10 +15098,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15754,10 +15124,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15780,10 +15150,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15806,10 +15176,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15832,10 +15202,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15858,10 +15228,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15884,10 +15254,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15910,10 +15280,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15936,10 +15306,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15962,10 +15332,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -15988,10 +15358,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16014,10 +15384,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16040,10 +15410,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16066,10 +15436,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16092,10 +15462,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16118,10 +15488,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16144,10 +15514,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16170,10 +15540,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16196,10 +15566,10 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
     ]
   },
   {
@@ -16222,10 +15592,871 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
-      "Dual Front & Back View Architectural Renders",
+      "Dual Front & Back Architectural Contract Renders",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
       "High-Resilience Molded Foam / Korean Mesh Upholstery",
-      "BIFMA Level 3 Certified Hydraulic Lift Assembly"
+      "BIFMA Level 3 Certified Class-4 Hydraulic Base"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0001",
+    "title": "Astoria Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b917,000",
+    "rawPrice": 17000,
+    "modelCode": "DV-HIG-0001",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 1,
+    "image": "/extracted_product_images/HC_01_ASTORIA_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0002",
+    "title": "Vice High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b919,800",
+    "rawPrice": 19800,
+    "modelCode": "DV-HIG-0002",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 1,
+    "image": "/extracted_product_images/HC_02_VICE_HIGH_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0003",
+    "title": "Fanny Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b916,000",
+    "rawPrice": 16000,
+    "modelCode": "DV-HIG-0003",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 1,
+    "image": "/extracted_product_images/HC_03_FANNY_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0004",
+    "title": "Macau Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0004",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 1,
+    "image": "/extracted_product_images/HC_04_MACAU_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0005",
+    "title": "Heron High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b923,000",
+    "rawPrice": 23000,
+    "modelCode": "DV-HIG-0005",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 1,
+    "image": "/extracted_product_images/HC_05_HERON_HIGH_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0006",
+    "title": "Kite Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0006",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/HC_06_KITE_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0007",
+    "title": "Rhodes Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b916,500",
+    "rawPrice": 16500,
+    "modelCode": "DV-HIG-0007",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/HC_07_RHODES_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0008",
+    "title": "Ricky Ashwood Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b923,000",
+    "rawPrice": 23000,
+    "modelCode": "DV-HIG-0008",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/HC_08_RICKY_ASHWOOD_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0009",
+    "title": "Skyros Hc Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b925,000",
+    "rawPrice": 25000,
+    "modelCode": "DV-HIG-0009",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/HC_09_SKYROS_HC_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0010",
+    "title": "Bolzano Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b914,500",
+    "rawPrice": 14500,
+    "modelCode": "DV-HIG-0010",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/HC_10_BOLZANO_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0011",
+    "title": "Woody High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b910,500",
+    "rawPrice": 10500,
+    "modelCode": "DV-HIG-0011",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 2,
+    "image": "/extracted_product_images/HC_11_WOODY_HIGH_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0012",
+    "title": "Rimini (Acrylic) Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b99,500",
+    "rawPrice": 9500,
+    "modelCode": "DV-HIG-0012",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/HC_12_RIMINI__ACRYLIC__STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0013",
+    "title": "Pedro Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b918,500",
+    "rawPrice": 18500,
+    "modelCode": "DV-HIG-0013",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/HC_13_PEDRO_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0014",
+    "title": "Tanriff Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b98,600",
+    "rawPrice": 8600,
+    "modelCode": "DV-HIG-0014",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/HC_14_TANRIFF_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0015",
+    "title": "Rocky High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0015",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/HC_15_ROCKY_HIGH_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0016",
+    "title": "Erica Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b911,500",
+    "rawPrice": 11500,
+    "modelCode": "DV-HIG-0016",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/HC_16_ERICA_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0017",
+    "title": "Eagle Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b912,200",
+    "rawPrice": 12200,
+    "modelCode": "DV-HIG-0017",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 3,
+    "image": "/extracted_product_images/HC_17_EAGLE_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0018",
+    "title": "Lyon High Counter Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0018",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/HC_18_LYON_HIGH_COUNTER_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0019",
+    "title": "Tobago Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b96,300",
+    "rawPrice": 6300,
+    "modelCode": "DV-HIG-0019",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/HC_19_TOBAGO_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0020",
+    "title": "Melody Hc Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b99,500",
+    "rawPrice": 9500,
+    "modelCode": "DV-HIG-0020",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/HC_20_MELODY_HC_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0021",
+    "title": "Opava Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b96,000",
+    "rawPrice": 6000,
+    "modelCode": "DV-HIG-0021",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/HC_21_OPAVA_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0022",
+    "title": "Santorini Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b96,000",
+    "rawPrice": 6000,
+    "modelCode": "DV-HIG-0022",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/HC_22_SANTORINI_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0023",
+    "title": "Florida High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b912,500",
+    "rawPrice": 12500,
+    "modelCode": "DV-HIG-0023",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 4,
+    "image": "/extracted_product_images/HC_23_FLORIDA_HIGH_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0024",
+    "title": "Dale Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b96,000",
+    "rawPrice": 6000,
+    "modelCode": "DV-HIG-0024",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/HC_24_DALE_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0025",
+    "title": "Tanriff Oak Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b98,200",
+    "rawPrice": 8200,
+    "modelCode": "DV-HIG-0025",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/HC_25_TANRIFF_OAK_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0026",
+    "title": "Bistro Hc Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b96,500",
+    "rawPrice": 6500,
+    "modelCode": "DV-HIG-0026",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/HC_26_BISTRO_HC_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0027",
+    "title": "Tuxedo (Hc) Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b912,000",
+    "rawPrice": 12000,
+    "modelCode": "DV-HIG-0027",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/HC_27_TUXEDO__HC__STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0028",
+    "title": "Rimini (Pp) Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b97,500",
+    "rawPrice": 7500,
+    "modelCode": "DV-HIG-0028",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/HC_28_RIMINI__PP__BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0029",
+    "title": "Sweden Hc Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b96,000",
+    "rawPrice": 6000,
+    "modelCode": "DV-HIG-0029",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 5,
+    "image": "/extracted_product_images/HC_29_SWEDEN_HC_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0030",
+    "title": "Joss Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b99,000",
+    "rawPrice": 9000,
+    "modelCode": "DV-HIG-0030",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/HC_30_JOSS_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0031",
+    "title": "Click Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b95,500",
+    "rawPrice": 5500,
+    "modelCode": "DV-HIG-0031",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/HC_31_CLICK_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0032",
+    "title": "Pulse Wood Hc Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b97,250",
+    "rawPrice": 7250,
+    "modelCode": "DV-HIG-0032",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/HC_32_PULSE_WOOD_HC_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0033",
+    "title": "Danny Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b915,000",
+    "rawPrice": 15000,
+    "modelCode": "DV-HIG-0033",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/HC_33_DANNY_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0034",
+    "title": "Derby Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b912,750",
+    "rawPrice": 12750,
+    "modelCode": "DV-HIG-0034",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/HC_34_DERBY_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0035",
+    "title": "Finch High Counter Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b911,000",
+    "rawPrice": 11000,
+    "modelCode": "DV-HIG-0035",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 6,
+    "image": "/extracted_product_images/HC_35_FINCH_HIGH_COUNTER_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0036",
+    "title": "Rooney Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b99,000",
+    "rawPrice": 9000,
+    "modelCode": "DV-HIG-0036",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/HC_36_ROONEY_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0037",
+    "title": "Dove Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b95,500",
+    "rawPrice": 5500,
+    "modelCode": "DV-HIG-0037",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/HC_37_DOVE_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0038",
+    "title": "Duke Bar Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b910,500",
+    "rawPrice": 10500,
+    "modelCode": "DV-HIG-0038",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/HC_38_DUKE_BAR_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0039",
+    "title": "Digi High Counter Chair",
+    "categoryId": "highcounter",
+    "price": "\u20b914,500",
+    "rawPrice": 14500,
+    "modelCode": "DV-HIG-0039",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/HC_39_DIGI_HIGH_COUNTER_CHAIR.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0040",
+    "title": "Vibe Hc Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b94,800",
+    "rawPrice": 4800,
+    "modelCode": "DV-HIG-0040",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/HC_40_VIBE_HC_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
+    ]
+  },
+  {
+    "id": "PRD-HIG-0041",
+    "title": "Stripe Hc Stool",
+    "categoryId": "highcounter",
+    "price": "\u20b94,600",
+    "rawPrice": 4600,
+    "modelCode": "DV-HIG-0041",
+    "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",
+    "sourceFolder": "highcounter",
+    "pageNumber": 7,
+    "image": "/extracted_product_images/HC_41_STRIPE_HC_STOOL.png",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Architectural High Counter Chair & Swivel Bar Stool",
+      "Heavy-Duty Steel Base with Chrome / Matte Finish",
+      "360-Degree Smooth Swivel Mechanism with Integrated Footrest Ring",
+      "Ergonomic Cushioning & Premium Upholstery"
     ]
   }
 ];
