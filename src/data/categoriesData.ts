@@ -177,17 +177,11 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     "totalPages": 7,
     "sampleItems": [
       "W.E.F. 1ST AUGUST 2026",
-      "9000/-",
       "FANNY VICE ASTORIA",
-      "16000/- 19800/- 17000",
       "RHODES SKYROS HC RICKY ASHWOOD",
-      "16500/- 25000/- 23000/-",
       "HERON MACAU KITE NEW PULSE",
-      "23000/- 12500/- 12500/- 5000/-",
       "ERICA WOODY BOLZANO",
-      "11500/- 10500/- 14500/-",
-      "EAGLE RIMINI (ACRYLIC) LYON",
-      "12200/- 9500/- 12500/-"
+      "EAGLE RIMINI (ACRYLIC) LYON"
     ]
   },
   {

@@ -43,7 +43,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${cormorant.variable} ${inter.variable}`}>
-      <body className="bg-obsidian text-alabaster antialiased font-sans">
+      <body className="bg-cream text-charcoal antialiased font-sans">
         <SmoothScroll>{children}</SmoothScroll>
       </body>
     </html>

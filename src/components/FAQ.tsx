@@ -35,16 +35,16 @@ export default function FAQ() {
   ];
 
   return (
-    <section id="faq" className="section-padding bg-obsidian border-t border-white/5">
+    <section id="faq" className="section-padding bg-cream-muted border-t border-stone-200/80">
       <div className="max-w-4xl mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="text-center mb-16">
-          <span className="text-xs uppercase tracking-[0.25em] text-champagne font-mono block mb-3">
+          <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-mono block mb-3 font-semibold">
             09 // Procurement Information
           </span>
-          <h2 className="font-serif text-3xl sm:text-5xl text-alabaster font-light">
+          <h2 className="font-serif text-3xl sm:text-5xl text-charcoal font-normal">
             Frequently Asked <br />
-            <span className="italic text-champagne">Contract Questions.</span>
+            <span className="italic text-champagne-dark">Contract Questions.</span>
           </h2>
         </div>
 
@@ -57,20 +57,20 @@ export default function FAQ() {
                 key={idx}
                 className={`rounded-luxury border transition-all duration-300 ${
                   isOpen
-                    ? 'bg-obsidian-card border-champagne/60 shadow-luxury-soft'
-                    : 'bg-white/5 border-white/5 hover:border-white/20'
+                    ? 'bg-white border-champagne/60 shadow-luxury-soft'
+                    : 'bg-white/60 border-stone-200/80 hover:border-stone-300 hover:bg-white shadow-sm'
                 }`}
               >
                 <button
                   onClick={() => setOpenIdx(isOpen ? null : idx)}
                   className="w-full p-6 text-left flex items-center justify-between space-x-4"
                 >
-                  <span className="font-serif text-xl text-alabaster font-light">
+                  <span className="font-serif text-xl text-charcoal font-medium">
                     {faq.q}
                   </span>
                   <div
                     className={`w-8 h-8 rounded-full flex items-center justify-center shrink-0 transition-colors ${
-                      isOpen ? 'bg-champagne text-obsidian' : 'bg-white/10 text-alabaster'
+                      isOpen ? 'bg-charcoal text-cream' : 'bg-stone-100 text-charcoal'
                     }`}
                   >
                     {isOpen ? <Minus className="w-4 h-4" /> : <Plus className="w-4 h-4" />}
@@ -84,7 +84,7 @@ export default function FAQ() {
                       animate={{ opacity: 1, height: 'auto' }}
                       exit={{ opacity: 0, height: 0 }}
                       transition={{ duration: 0.3 }}
-                      className="px-6 pb-6 text-xs sm:text-sm text-alabaster/75 font-light leading-relaxed border-t border-white/10 pt-4"
+                      className="px-6 pb-6 text-xs sm:text-sm text-stone-600 font-normal leading-relaxed border-t border-stone-200 pt-4"
                     >
                       {faq.a}
                     </motion.div>

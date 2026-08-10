@@ -62,18 +62,18 @@ export default function Craftsmanship() {
   ];
 
   return (
-    <section id="craftsmanship" className="section-padding bg-obsidian-light border-t border-white/5 relative">
+    <section id="craftsmanship" className="section-padding bg-cream border-t border-stone-200/80 relative">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-20">
-          <span className="text-xs uppercase tracking-[0.25em] text-champagne font-mono block mb-3">
+          <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-mono block mb-3 font-semibold">
             04 // Manufacturing Protocol
           </span>
-          <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-alabaster font-light">
+          <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-charcoal font-normal">
             The Precision <br />
-            <span className="italic text-champagne">Craftsmanship Journey.</span>
+            <span className="italic text-champagne-dark">Craftsmanship Journey.</span>
           </h2>
-          <p className="text-alabaster/70 text-sm md:text-base font-light mt-4 leading-relaxed">
+          <p className="text-stone-600 text-sm md:text-base font-normal mt-4 leading-relaxed">
             From initial CAD blueprint to final container seal, explore our 6-stage industrial artisan workflow.
           </p>
         </div>
@@ -81,7 +81,7 @@ export default function Craftsmanship() {
         {/* Animated Timeline */}
         <div className="relative">
           {/* Vertical Center Line */}
-          <div className="hidden lg:block absolute left-1/2 top-0 bottom-0 w-[1px] bg-gradient-to-b from-champagne/10 via-champagne/40 to-champagne/10 -translate-x-1/2" />
+          <div className="hidden lg:block absolute left-1/2 top-0 bottom-0 w-[1px] bg-gradient-to-b from-champagne-dark/20 via-champagne-dark/50 to-champagne-dark/20 -translate-x-1/2" />
 
           <div className="space-y-12 lg:space-y-16">
             {steps.map((item, idx) => {
@@ -102,36 +102,36 @@ export default function Craftsmanship() {
                       whileInView={{ opacity: 1, y: 0 }}
                       viewport={{ once: true }}
                       transition={{ duration: 0.8, delay: idx * 0.1 }}
-                      className="glass-panel p-8 rounded-luxury border border-white/10 hover:border-champagne/50 transition-all duration-500 shadow-luxury-soft"
+                      className="bg-white p-8 rounded-luxury border border-stone-200/80 hover:border-champagne/60 transition-all duration-500 shadow-luxury-soft"
                     >
                       <div className="flex items-center justify-between mb-4">
-                        <span className="text-2xl font-serif text-champagne font-light">
+                        <span className="text-2xl font-serif text-champagne-dark font-semibold">
                           {item.step}
                         </span>
-                        <div className="w-10 h-10 rounded-full bg-champagne/10 flex items-center justify-center text-champagne">
+                        <div className="w-10 h-10 rounded-full bg-stone-100 flex items-center justify-center text-champagne-dark">
                           <Icon className="w-5 h-5" />
                         </div>
                       </div>
 
-                      <h3 className="font-serif text-2xl text-alabaster font-light mb-1">
+                      <h3 className="font-serif text-2xl text-charcoal font-medium mb-1">
                         {item.title}
                       </h3>
-                      <span className="text-xs font-mono text-champagne/80 uppercase tracking-widest block mb-4">
+                      <span className="text-xs font-mono text-champagne-dark font-semibold uppercase tracking-widest block mb-4">
                         {item.subtitle}
                       </span>
-                      <p className="text-xs md:text-sm text-alabaster/75 font-light leading-relaxed mb-6">
+                      <p className="text-xs md:text-sm text-stone-600 font-normal leading-relaxed mb-6">
                         {item.description}
                       </p>
 
-                      <div className="pt-4 border-t border-white/10 text-[11px] font-mono text-alabaster/50 flex items-center space-x-2">
-                        <span className="w-1.5 h-1.5 rounded-full bg-champagne" />
+                      <div className="pt-4 border-t border-stone-200 text-[11px] font-mono text-stone-500 flex items-center space-x-2">
+                        <span className="w-1.5 h-1.5 rounded-full bg-champagne-dark" />
                         <span>{item.details}</span>
                       </div>
                     </motion.div>
                   </div>
 
                   {/* Center Node Badge for Desktop */}
-                  <div className="hidden lg:flex items-center justify-center w-12 h-12 rounded-full bg-obsidian border-2 border-champagne text-champagne z-10 font-serif text-sm font-semibold shadow-luxury-glow">
+                  <div className="hidden lg:flex items-center justify-center w-12 h-12 rounded-full bg-white border-2 border-champagne-dark text-champagne-dark z-10 font-serif text-sm font-bold shadow-sm">
                     {item.step}
                   </div>
 

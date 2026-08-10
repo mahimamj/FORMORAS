@@ -15604,7 +15604,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "id": "PRD-HIG-0001",
     "title": "Woody High Counter Chair",
     "categoryId": "highcounter",
-    "price": "\u20b910,500",
+    "price": "Price on Request",
     "rawPrice": 10500,
     "modelCode": "DV-HIG-0001",
     "sourcePdf": "HIGHCOUNTER PRICELIST- AUG26.pdf",

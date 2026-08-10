@@ -19,23 +19,29 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
   return (
     <section className="relative w-full min-h-screen flex items-center justify-center overflow-hidden pt-24 pb-16">
       {/* Background Video / Cinematic Backdrop */}
-      <div className="absolute inset-0 z-0">
+      <div className="absolute inset-0 z-0 bg-stone-900">
+        <img
+          src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=2400"
+          alt="Luxury Architecture Interior"
+          className="w-full h-full object-cover scale-105 filter brightness-75 contrast-115 opacity-85"
+        />
         <video
           autoPlay
           loop
           muted
           playsInline
-          className="w-full h-full object-cover scale-105 filter brightness-75 contrast-110"
-          poster="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=2000"
+          className="absolute inset-0 w-full h-full object-cover scale-105 filter brightness-75 contrast-115 opacity-85"
+          poster="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&q=80&w=2400"
         >
           <source
             src="https://assets.mixkit.co/videos/preview/mixkit-modern-apartment-with-minimalist-design-41551-large.mp4"
             type="video/mp4"
           />
         </video>
-        {/* Layered Luxury Vignette & Dark Overlays */}
-        <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/60 to-obsidian/40" />
-        <div className="absolute inset-0 bg-radial-vignette opacity-70" />
+        {/* Dark Luxury Contrast Overlay (Makes background room dark & clearly visible) */}
+        <div className="absolute inset-0 bg-black/25 mix-blend-multiply" />
+        <div className="absolute inset-0 bg-gradient-to-t from-cream via-cream/40 to-black/30" />
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent via-black/10 to-stone-950/40" />
       </div>
 
       {/* Main Content */}
@@ -45,10 +51,10 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="inline-flex items-center space-x-3 px-4 py-2 rounded-full border border-champagne/30 bg-obsidian/60 backdrop-blur-md mb-8"
+          className="inline-flex items-center space-x-3 px-4.5 py-2 rounded-full border border-champagne/50 bg-white/95 backdrop-blur-md mb-8 shadow-md"
         >
-          <span className="w-2 h-2 rounded-full bg-champagne animate-pulse" />
-          <span className="text-xs uppercase tracking-[0.25em] text-champagne font-medium">
+          <span className="w-2 h-2 rounded-full bg-champagne-dark animate-pulse" />
+          <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-semibold">
             B2B Contract Manufacturing & Atelier
           </span>
         </motion.div>
@@ -58,10 +64,10 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.4 }}
-          className="font-serif text-4xl sm:text-6xl lg:text-7xl xl:text-8xl tracking-tight text-alabaster font-light leading-[1.08] max-w-5xl mb-6"
+          className="font-serif text-4xl sm:text-6xl lg:text-7xl xl:text-8xl tracking-tight text-charcoal font-normal leading-[1.08] max-w-5xl mb-6 drop-shadow-[0_1px_2px_rgba(255,255,255,0.6)]"
         >
           Crafting Timeless Furniture <br className="hidden sm:inline" />
-          <span className="italic font-serif text-champagne">for Extraordinary Spaces.</span>
+          <span className="italic font-serif text-champagne-dark">for Extraordinary Spaces.</span>
         </motion.h1>
 
         {/* Subheadline */}
@@ -69,7 +75,7 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.6 }}
-          className="text-base sm:text-lg md:text-xl text-alabaster/75 font-sans font-light max-w-3xl leading-relaxed mb-10"
+          className="text-base sm:text-lg md:text-xl text-stone-800 font-sans font-medium max-w-3xl leading-relaxed mb-10 drop-shadow-[0_1px_2px_rgba(255,255,255,0.7)]"
         >
           Bespoke high-volume manufacturing engineered for principal architects, luxury hospitality groups, executive interiors, and global brand flagships.
         </motion.p>
@@ -83,18 +89,18 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
         >
           <button
             onClick={onOpenCatalogue}
-            className="w-full sm:w-auto group flex items-center justify-center space-x-3 bg-champagne hover:bg-champagne-gold text-obsidian font-medium text-xs uppercase tracking-[0.2em] px-8 py-4 rounded-luxury transition-all duration-500 shadow-luxury-glow hover:shadow-luxury hover:-translate-y-0.5"
+            className="w-full sm:w-auto group flex items-center justify-center space-x-3 bg-charcoal hover:bg-stone-800 text-cream font-medium text-xs uppercase tracking-[0.2em] px-8 py-4 rounded-luxury transition-all duration-500 shadow-luxury-soft hover:shadow-luxury hover:-translate-y-0.5"
           >
-            <Download className="w-4 h-4 text-obsidian" />
+            <Download className="w-4 h-4 text-champagne" />
             <span>Request Catalogue</span>
           </button>
 
           <button
             onClick={onOpenQuote}
-            className="w-full sm:w-auto group flex items-center justify-center space-x-3 bg-obsidian/80 hover:bg-obsidian border border-white/20 hover:border-champagne text-alabaster text-xs uppercase tracking-[0.2em] px-8 py-4 rounded-luxury backdrop-blur-md transition-all duration-500 hover:-translate-y-0.5"
+            className="w-full sm:w-auto group flex items-center justify-center space-x-3 bg-white/80 hover:bg-white border border-stone-300 hover:border-champagne text-charcoal font-medium text-xs uppercase tracking-[0.2em] px-8 py-4 rounded-luxury backdrop-blur-md transition-all duration-500 shadow-sm hover:-translate-y-0.5"
           >
             <span>Get Bulk Quote</span>
-            <ArrowUpRight className="w-4 h-4 text-champagne transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+            <ArrowUpRight className="w-4 h-4 text-champagne-dark transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
           </button>
         </motion.div>
 
@@ -110,15 +116,15 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
             return (
               <div
                 key={idx}
-                className="glass-panel p-5 rounded-luxury border border-white/10 flex flex-col items-center justify-center text-center transition-all duration-500 hover:border-champagne/40 hover:bg-obsidian/90 group"
+                className="bg-white/85 backdrop-blur-md p-5 rounded-luxury border border-stone-200/80 flex flex-col items-center justify-center text-center shadow-luxury-soft transition-all duration-500 hover:border-champagne/60 hover:shadow-luxury hover:bg-white group"
               >
-                <div className="w-8 h-8 rounded-full bg-champagne/10 flex items-center justify-center mb-2 group-hover:bg-champagne/20 transition-colors">
-                  <Icon className="w-4 h-4 text-champagne" />
+                <div className="w-8 h-8 rounded-full bg-champagne/15 flex items-center justify-center mb-2 group-hover:bg-champagne/30 transition-colors">
+                  <Icon className="w-4 h-4 text-champagne-dark" />
                 </div>
-                <span className="font-serif text-3xl md:text-4xl text-alabaster font-light tracking-tight group-hover:text-champagne transition-colors">
+                <span className="font-serif text-3xl md:text-4xl text-charcoal font-medium tracking-tight group-hover:text-champagne-dark transition-colors">
                   {stat.value}
                 </span>
-                <span className="text-[10px] md:text-xs uppercase tracking-[0.18em] text-alabaster/60 mt-1 font-sans">
+                <span className="text-[10px] md:text-xs uppercase tracking-[0.18em] text-stone-500 mt-1 font-sans font-medium">
                   {stat.label}
                 </span>
               </div>
@@ -129,9 +135,9 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
 
       {/* Scroll Down Indicator */}
       <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex flex-col items-center space-y-2 opacity-60">
-        <span className="text-[9px] uppercase tracking-[0.25em] text-alabaster/60">Scroll</span>
-        <div className="w-4 h-7 rounded-full border border-alabaster/30 flex items-start justify-center p-1">
-          <div className="w-1 h-2 bg-champagne rounded-full animate-bounce" />
+        <span className="text-[9px] uppercase tracking-[0.25em] text-stone-600 font-medium">Scroll</span>
+        <div className="w-4 h-7 rounded-full border border-stone-400 flex items-start justify-center p-1">
+          <div className="w-1 h-2 bg-champagne-dark rounded-full animate-bounce" />
         </div>
       </div>
     </section>

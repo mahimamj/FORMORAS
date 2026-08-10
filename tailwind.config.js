@@ -8,26 +8,31 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        cream: {
+          DEFAULT: '#FBF9F5',
+          muted: '#F4EFEA',
+          dark: '#EFEAE2',
+        },
         obsidian: {
-          DEFAULT: '#0B0B0C',
-          light: '#121214',
-          card: '#161618',
-          border: '#242428',
+          DEFAULT: '#18181B',
+          light: '#27272A',
+          card: '#FFFFFF',
+          border: '#E5DEC9',
         },
         alabaster: {
-          DEFAULT: '#F7F5F0',
-          muted: '#EFECE6',
-          dark: '#E5E0D8',
+          DEFAULT: '#18181B',
+          muted: '#57534E',
+          dark: '#292524',
         },
         champagne: {
-          DEFAULT: '#C5A880',
-          gold: '#D4AF37',
-          dark: '#9E825B',
-          light: '#E6D7C3',
+          DEFAULT: '#B89768',
+          gold: '#A6824F',
+          dark: '#8C6D3F',
+          light: '#E8DCB8',
         },
         charcoal: {
-          DEFAULT: '#1E1E22',
-          light: '#2A2A30',
+          DEFAULT: '#18181B',
+          light: '#3F3F46',
         }
       },
       fontFamily: {
@@ -40,14 +45,14 @@ module.exports = {
         'luxury-sm': '14px',
       },
       boxShadow: {
-        'luxury': '0 20px 50px rgba(0, 0, 0, 0.4)',
-        'luxury-soft': '0 10px 30px rgba(0, 0, 0, 0.25)',
-        'luxury-glow': '0 0 40px rgba(197, 168, 128, 0.15)',
+        'luxury': '0 20px 50px rgba(30, 25, 20, 0.08)',
+        'luxury-soft': '0 10px 30px rgba(30, 25, 20, 0.05)',
+        'luxury-glow': '0 0 40px rgba(184, 151, 104, 0.2)',
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'luxury-dark': 'linear-gradient(180deg, rgba(11,11,12,0.85) 0%, rgba(11,11,12,0.95) 100%)',
-        'champagne-shimmer': 'linear-gradient(135deg, #C5A880 0%, #E6D7C3 50%, #9E825B 100%)',
+        'luxury-dark': 'linear-gradient(180deg, rgba(251,249,245,0.9) 0%, rgba(244,239,234,0.95) 100%)',
+        'champagne-shimmer': 'linear-gradient(135deg, #B89768 0%, #D9C8B0 50%, #8C6D3F 100%)',
       }
     },
   },

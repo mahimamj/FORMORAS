@@ -29,7 +29,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen bg-obsidian text-alabaster selection:bg-champagne selection:text-obsidian">
+    <main className="min-h-screen bg-cream text-charcoal selection:bg-champagne selection:text-white">
       {/* Navigation Header */}
       <Navbar
         onOpenCatalogue={() => setIsCatalogueOpen(true)}

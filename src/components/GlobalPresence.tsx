@@ -73,20 +73,20 @@ export default function GlobalPresence() {
   const active = globalHubs[selectedHub];
 
   return (
-    <section id="global" className="section-padding bg-obsidian border-t border-white/5 relative">
+    <section id="global" className="section-padding bg-cream border-t border-stone-200/80 relative">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
           <div>
-            <span className="text-xs uppercase tracking-[0.25em] text-champagne font-mono block mb-3">
+            <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-mono block mb-3 font-semibold">
               07 // Global Footprint
             </span>
-            <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-alabaster font-light">
+            <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-charcoal font-normal">
               Worldwide Atelier & <br />
-              <span className="italic text-champagne">Distribution Hubs.</span>
+              <span className="italic text-champagne-dark">Distribution Hubs.</span>
             </h2>
           </div>
-          <p className="text-alabaster/70 text-sm max-w-md font-light leading-relaxed">
+          <p className="text-stone-600 text-sm max-w-md font-normal leading-relaxed">
             With direct logistics routes, regional account managers, and white-glove installation teams active across North America, Europe, the Middle East, and Asia.
           </p>
         </div>
@@ -94,12 +94,12 @@ export default function GlobalPresence() {
         {/* Global Map & Interactive Hub Card */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
           {/* Map Graphic Area */}
-          <div className="lg:col-span-7 relative bg-obsidian-card p-8 rounded-luxury-lg border border-white/10 shadow-luxury overflow-hidden">
+          <div className="lg:col-span-7 relative bg-white p-8 rounded-luxury-lg border border-stone-200/80 shadow-luxury-soft overflow-hidden">
             {/* World Map Stylized SVG */}
             <div className="relative w-full aspect-[16/9] flex items-center justify-center">
               <svg
                 viewBox="0 0 1000 500"
-                className="w-full h-full opacity-30 fill-alabaster stroke-white/10"
+                className="w-full h-full opacity-40 fill-stone-300 stroke-stone-400"
               >
                 {/* Simplified Continents Silhouette */}
                 <path d="M150 150 Q200 100 300 130 T400 200 T250 350 T150 150 Z" /> {/* Americas */}
@@ -123,84 +123,84 @@ export default function GlobalPresence() {
                   <span className="relative flex h-5 w-5">
                     <span
                       className={`animate-ping absolute inline-flex h-full w-full rounded-full ${
-                        selectedHub === idx ? 'bg-champagne opacity-75' : 'bg-white/40'
+                        selectedHub === idx ? 'bg-champagne-dark opacity-75' : 'bg-stone-400/40'
                       }`}
                     />
                     <span
                       className={`relative inline-flex rounded-full h-5 w-5 border-2 ${
                         selectedHub === idx
-                          ? 'bg-champagne border-obsidian scale-125'
-                          : 'bg-obsidian border-white/60'
+                          ? 'bg-charcoal border-white scale-125 shadow-md'
+                          : 'bg-white border-stone-400'
                       }`}
                     />
                   </span>
-                  <span className="absolute top-6 whitespace-nowrap text-[10px] font-mono tracking-wider text-alabaster bg-obsidian/90 px-2 py-0.5 rounded border border-white/10 opacity-0 group-hover:opacity-100 transition-opacity">
+                  <span className="absolute top-6 whitespace-nowrap text-[10px] font-mono tracking-wider text-cream bg-charcoal px-2 py-0.5 rounded border border-stone-700 opacity-0 group-hover:opacity-100 transition-opacity font-semibold shadow-md">
                     {hub.city}
                   </span>
                 </button>
               ))}
             </div>
 
-            <div className="mt-6 flex items-center justify-between text-xs text-alabaster/60 border-t border-white/10 pt-4 font-mono">
+            <div className="mt-6 flex items-center justify-between text-xs text-stone-500 border-t border-stone-200 pt-4 font-mono">
               <span>Active Regional Hubs: 6 Key Metropolises</span>
-              <span className="text-champagne font-semibold">40+ Countries Export Network</span>
+              <span className="text-champagne-dark font-semibold">40+ Countries Export Network</span>
             </div>
           </div>
 
           {/* Right Selected Hub Details */}
-          <div className="lg:col-span-5 glass-panel p-8 rounded-luxury-lg border border-white/10 space-y-6">
+          <div className="lg:col-span-5 bg-white p-8 rounded-luxury-lg border border-stone-200/80 shadow-luxury-soft space-y-6">
             <div>
-              <span className="text-xs uppercase tracking-[0.2em] font-mono text-champagne">
+              <span className="text-xs uppercase tracking-[0.2em] font-mono text-champagne-dark font-semibold">
                 {active.type}
               </span>
-              <h3 className="font-serif text-3xl text-alabaster font-light mt-1">
+              <h3 className="font-serif text-3xl text-charcoal font-medium mt-1">
                 {active.city}
               </h3>
-              <span className="text-xs text-alabaster/60 font-mono block mt-1">
+              <span className="text-xs text-stone-500 font-mono block mt-1 font-medium">
                 {active.coords}
               </span>
             </div>
 
-            <div className="space-y-4 pt-4 border-t border-white/10 text-xs">
+            <div className="space-y-4 pt-4 border-t border-stone-200 text-xs">
               <div className="flex items-start space-x-3">
-                <MapPin className="w-4 h-4 text-champagne shrink-0 mt-0.5" />
+                <MapPin className="w-4 h-4 text-champagne-dark shrink-0 mt-0.5" />
                 <div>
-                  <span className="text-alabaster/60 block font-mono">Address:</span>
-                  <span className="text-alabaster font-sans">{active.address}</span>
+                  <span className="text-stone-500 block font-mono">Address:</span>
+                  <span className="text-charcoal font-sans font-medium">{active.address}</span>
                 </div>
               </div>
 
               <div className="flex items-start space-x-3">
-                <Phone className="w-4 h-4 text-champagne shrink-0 mt-0.5" />
+                <Phone className="w-4 h-4 text-champagne-dark shrink-0 mt-0.5" />
                 <div>
-                  <span className="text-alabaster/60 block font-mono">Direct Contract Desk:</span>
-                  <span className="text-alabaster font-sans">{active.phone}</span>
+                  <span className="text-stone-500 block font-mono">Direct Contract Desk:</span>
+                  <span className="text-charcoal font-sans font-medium">{active.phone}</span>
                 </div>
               </div>
 
               <div className="flex items-start space-x-3">
-                <Mail className="w-4 h-4 text-champagne shrink-0 mt-0.5" />
+                <Mail className="w-4 h-4 text-champagne-dark shrink-0 mt-0.5" />
                 <div>
-                  <span className="text-alabaster/60 block font-mono">Official Communications:</span>
-                  <span className="text-alabaster font-sans">{active.email}</span>
+                  <span className="text-stone-500 block font-mono">Official Communications:</span>
+                  <span className="text-charcoal font-sans font-medium">{active.email}</span>
                 </div>
               </div>
 
               <div className="flex items-start space-x-3">
-                <Building className="w-4 h-4 text-champagne shrink-0 mt-0.5" />
+                <Building className="w-4 h-4 text-champagne-dark shrink-0 mt-0.5" />
                 <div>
-                  <span className="text-alabaster/60 block font-mono">Completed Projects Volume:</span>
-                  <span className="text-champagne font-semibold font-serif text-sm">{active.projectsCount}</span>
+                  <span className="text-stone-500 block font-mono">Completed Projects Volume:</span>
+                  <span className="text-champagne-dark font-semibold font-serif text-sm">{active.projectsCount}</span>
                 </div>
               </div>
             </div>
 
             <button
               onClick={() => alert(`Connecting with ${active.city} office...`)}
-              className="w-full flex items-center justify-center space-x-2 bg-champagne hover:bg-champagne-gold text-obsidian text-xs uppercase tracking-[0.2em] py-3.5 rounded-luxury font-semibold transition-colors shadow-luxury-glow"
+              className="w-full flex items-center justify-center space-x-2 bg-charcoal hover:bg-stone-800 text-cream text-xs uppercase tracking-[0.2em] py-3.5 rounded-luxury font-semibold transition-colors shadow-luxury-soft"
             >
               <span>Schedule Regional Consultation</span>
-              <ArrowRight className="w-4 h-4" />
+              <ArrowRight className="w-4 h-4 text-champagne" />
             </button>
           </div>
         </div>

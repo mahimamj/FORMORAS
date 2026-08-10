@@ -51,20 +51,20 @@ export default function About() {
   ];
 
   return (
-    <section id="about" className="section-padding relative bg-obsidian border-t border-white/5">
+    <section id="about" className="section-padding relative bg-cream-muted border-t border-stone-200/80">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         {/* Header Label */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
           <div>
-            <span className="text-xs uppercase tracking-[0.25em] text-champagne font-mono block mb-3">
+            <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-mono block mb-3 font-semibold">
               01 // Architectural Story
             </span>
-            <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-alabaster font-light leading-tight">
+            <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-charcoal font-normal leading-tight">
               Where Master Craft <br />
-              <span className="italic text-champagne">Meets Industrial Scale.</span>
+              <span className="italic text-champagne-dark">Meets Industrial Scale.</span>
             </h2>
           </div>
-          <p className="text-alabaster/70 text-sm md:text-base font-light max-w-md leading-relaxed">
+          <p className="text-stone-600 text-sm md:text-base font-normal max-w-md leading-relaxed">
             We partner with principal designers, luxury developers, and hospitality conglomerates to bring large-scale custom furniture programs from sketch to flawless turnkey delivery.
           </p>
         </div>
@@ -82,33 +82,33 @@ export default function About() {
                   onClick={() => setActiveTab(idx)}
                   className={`cursor-pointer p-6 rounded-luxury transition-all duration-500 border ${
                     isSelected
-                      ? 'bg-obsidian-card border-champagne/60 shadow-luxury-soft'
-                      : 'bg-transparent border-white/5 hover:border-white/20 hover:bg-white/5'
+                      ? 'bg-white border-champagne/60 shadow-luxury-soft'
+                      : 'bg-white/50 border-stone-200/70 hover:border-stone-300 hover:bg-white'
                   }`}
                 >
                   <div className="flex items-start space-x-4">
                     <div
                       className={`p-3 rounded-luxury transition-colors ${
-                        isSelected ? 'bg-champagne text-obsidian' : 'bg-white/5 text-alabaster/60'
+                        isSelected ? 'bg-charcoal text-cream' : 'bg-stone-100 text-stone-600'
                       }`}
                     >
                       <Icon className="w-5 h-5" />
                     </div>
                     <div className="flex-1">
                       <div className="flex items-center justify-between">
-                        <h3 className="font-serif text-xl text-alabaster font-normal">
+                        <h3 className="font-serif text-xl text-charcoal font-medium">
                           {pillar.title}
                         </h3>
-                        <span className="text-xs text-champagne font-mono">0{idx + 1}</span>
+                        <span className="text-xs text-champagne-dark font-mono font-semibold">0{idx + 1}</span>
                       </div>
-                      <p className="text-xs text-alabaster/60 mt-1 font-sans">
+                      <p className="text-xs text-stone-500 mt-1 font-sans">
                         {pillar.subtitle}
                       </p>
                       {isSelected && (
                         <motion.p
                           initial={{ opacity: 0, height: 0 }}
                           animate={{ opacity: 1, height: 'auto' }}
-                          className="text-xs text-alabaster/80 mt-4 leading-relaxed font-sans pt-3 border-t border-white/10"
+                          className="text-xs text-stone-600 mt-4 leading-relaxed font-sans pt-3 border-t border-stone-200"
                         >
                           {pillar.description}
                         </motion.p>
@@ -122,7 +122,7 @@ export default function About() {
 
           {/* Right Column: Editorial Visual Showcase */}
           <div className="lg:col-span-7 relative">
-            <div className="relative rounded-luxury-lg overflow-hidden border border-white/10 aspect-[4/3] shadow-luxury image-container-zoom">
+            <div className="relative rounded-luxury-lg overflow-hidden border border-stone-200/80 aspect-[4/3] shadow-luxury image-container-zoom">
               <motion.img
                 key={activeTab}
                 initial={{ opacity: 0, scale: 1.04 }}
@@ -132,20 +132,20 @@ export default function About() {
                 alt={pillars[activeTab].title}
                 className="w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-transparent to-transparent opacity-80" />
+              <div className="absolute inset-0 bg-gradient-to-t from-charcoal/40 via-transparent to-transparent opacity-60" />
               
               {/* Overlay Content */}
-              <div className="absolute bottom-6 left-6 right-6 glass-panel p-6 rounded-luxury border border-white/10">
+              <div className="absolute bottom-6 left-6 right-6 bg-white/90 backdrop-blur-md p-6 rounded-luxury border border-stone-200/80 shadow-luxury-soft">
                 <div className="flex items-center justify-between">
                   <div>
-                    <span className="text-[10px] uppercase tracking-[0.2em] text-champagne block">
+                    <span className="text-[10px] uppercase tracking-[0.2em] text-champagne-dark font-semibold block">
                       Featured Process
                     </span>
-                    <h4 className="font-serif text-lg text-alabaster mt-1">
+                    <h4 className="font-serif text-lg text-charcoal font-medium mt-1">
                       {pillars[activeTab].title}
                     </h4>
                   </div>
-                  <div className="w-10 h-10 rounded-full border border-champagne/40 flex items-center justify-center text-champagne">
+                  <div className="w-10 h-10 rounded-full border border-champagne-dark/40 flex items-center justify-center text-champagne-dark">
                     <ArrowRight className="w-4 h-4" />
                   </div>
                 </div>

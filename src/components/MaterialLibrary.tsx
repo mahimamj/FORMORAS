@@ -85,20 +85,20 @@ export default function MaterialLibrary() {
   const activeMat = materials[selectedMaterial];
 
   return (
-    <section id="materials" className="section-padding bg-obsidian border-t border-white/5">
+    <section id="materials" className="section-padding bg-cream-muted border-t border-stone-200/80">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
           <div>
-            <span className="text-xs uppercase tracking-[0.25em] text-champagne font-mono block mb-3">
+            <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-mono block mb-3 font-semibold">
               03 // Tactile Engineering
             </span>
-            <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-alabaster font-light">
+            <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-charcoal font-normal">
               Materials Library & <br />
-              <span className="italic text-champagne">Bespoke Finishes.</span>
+              <span className="italic text-champagne-dark">Bespoke Finishes.</span>
             </h2>
           </div>
-          <p className="text-alabaster/70 text-sm max-w-md font-light leading-relaxed">
+          <p className="text-stone-600 text-sm max-w-md font-normal leading-relaxed">
             Every material in our atelier undergoes chemical, fire, and durability validation. Order physical swatch boxes for architectural specification.
           </p>
         </div>
@@ -111,11 +111,11 @@ export default function MaterialLibrary() {
               onClick={() => setSelectedMaterial(idx)}
               className={`p-4 rounded-luxury border text-left transition-all duration-300 ${
                 selectedMaterial === idx
-                  ? 'bg-champagne/15 border-champagne text-alabaster shadow-luxury-glow'
-                  : 'bg-obsidian-card border-white/5 text-alabaster/60 hover:text-alabaster hover:border-white/20'
+                  ? 'bg-white border-champagne text-charcoal shadow-luxury-soft font-semibold'
+                  : 'bg-white/60 border-stone-200/80 text-stone-600 hover:text-charcoal hover:border-stone-300 hover:bg-white shadow-sm'
               }`}
             >
-              <span className="text-[10px] uppercase tracking-[0.2em] font-mono text-champagne block">
+              <span className="text-[10px] uppercase tracking-[0.2em] font-mono text-champagne-dark block font-semibold">
                 0{idx + 1}
               </span>
               <span className="font-serif text-lg font-normal block mt-1">{mat.category}</span>
@@ -124,9 +124,9 @@ export default function MaterialLibrary() {
         </div>
 
         {/* Detailed Tactile Card & Spec Box */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center glass-panel p-8 md:p-12 rounded-luxury-lg border border-white/10">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center bg-white p-8 md:p-12 rounded-luxury-lg border border-stone-200/80 shadow-luxury-soft">
           {/* Material Texture Preview */}
-          <div className="lg:col-span-6 relative aspect-square md:aspect-[4/3] rounded-luxury overflow-hidden border border-white/10 shadow-luxury image-container-zoom">
+          <div className="lg:col-span-6 relative aspect-square md:aspect-[4/3] rounded-luxury overflow-hidden border border-stone-200 shadow-sm image-container-zoom">
             <motion.img
               key={activeMat.id}
               initial={{ opacity: 0, scale: 1.05 }}
@@ -136,53 +136,53 @@ export default function MaterialLibrary() {
               alt={activeMat.name}
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-transparent to-transparent opacity-70" />
+            <div className="absolute inset-0 bg-gradient-to-t from-charcoal/80 via-transparent to-transparent opacity-80" />
             <div className="absolute bottom-6 left-6 right-6">
-              <span className="text-[10px] uppercase tracking-[0.2em] px-3 py-1 rounded-full bg-champagne text-obsidian font-semibold">
+              <span className="text-[10px] uppercase tracking-[0.2em] px-3 py-1 rounded-full bg-charcoal text-cream font-semibold shadow-sm">
                 High-Resolution Texture
               </span>
-              <h3 className="font-serif text-2xl text-alabaster mt-2">{activeMat.name}</h3>
+              <h3 className="font-serif text-2xl text-cream mt-2 font-medium">{activeMat.name}</h3>
             </div>
           </div>
 
           {/* Specs & Finishes Details */}
           <div className="lg:col-span-6 space-y-6">
             <div>
-              <span className="text-xs uppercase tracking-[0.2em] text-champagne font-mono">
+              <span className="text-xs uppercase tracking-[0.2em] text-champagne-dark font-mono font-semibold">
                 Specification Overview
               </span>
-              <h3 className="font-serif text-3xl text-alabaster font-light mt-1">
+              <h3 className="font-serif text-3xl text-charcoal font-medium mt-1">
                 {activeMat.name}
               </h3>
-              <p className="text-alabaster/75 text-sm font-light mt-3 leading-relaxed">
+              <p className="text-stone-600 text-sm font-normal mt-3 leading-relaxed">
                 {activeMat.description}
               </p>
             </div>
 
-            <div className="space-y-3 py-4 border-y border-white/10 text-xs">
+            <div className="space-y-3 py-4 border-y border-stone-200 text-xs">
               <div className="flex items-start justify-between">
-                <span className="text-alabaster/60 font-sans">Durability Rating:</span>
-                <span className="text-alabaster font-mono text-right">{activeMat.durability}</span>
+                <span className="text-stone-500 font-sans">Durability Rating:</span>
+                <span className="text-charcoal font-mono font-medium text-right">{activeMat.durability}</span>
               </div>
               <div className="flex items-start justify-between">
-                <span className="text-alabaster/60 font-sans">Sustainability & Fire Compliance:</span>
-                <span className="text-champagne font-mono text-right">{activeMat.ecoRating}</span>
+                <span className="text-stone-500 font-sans">Sustainability & Fire Compliance:</span>
+                <span className="text-champagne-dark font-mono font-semibold text-right">{activeMat.ecoRating}</span>
               </div>
             </div>
 
             {/* Available Finishes */}
             <div>
-              <span className="text-xs uppercase tracking-[0.2em] text-alabaster/60 block mb-3 font-mono">
+              <span className="text-xs uppercase tracking-[0.2em] text-stone-500 block mb-3 font-mono font-medium">
                 Standard Swatch Options:
               </span>
               <div className="grid grid-cols-2 gap-2">
                 {activeMat.finishes.map((finish, fIdx) => (
                   <div
                     key={fIdx}
-                    className="flex items-center space-x-2 bg-white/5 px-3 py-2 rounded-luxury-sm border border-white/5"
+                    className="flex items-center space-x-2 bg-stone-50 px-3 py-2 rounded-luxury-sm border border-stone-200"
                   >
-                    <Check className="w-3.5 h-3.5 text-champagne" />
-                    <span className="text-xs text-alabaster/90">{finish}</span>
+                    <Check className="w-3.5 h-3.5 text-champagne-dark" />
+                    <span className="text-xs text-stone-700 font-medium">{finish}</span>
                   </div>
                 ))}
               </div>
@@ -191,9 +191,9 @@ export default function MaterialLibrary() {
             {/* Action */}
             <button
               onClick={() => alert(`Physical Material Box requested for ${activeMat.name}`)}
-              className="w-full sm:w-auto flex items-center justify-center space-x-3 bg-champagne hover:bg-champagne-gold text-obsidian text-xs uppercase tracking-[0.2em] px-8 py-3.5 rounded-luxury font-medium transition-colors shadow-luxury-glow"
+              className="w-full sm:w-auto flex items-center justify-center space-x-3 bg-charcoal hover:bg-stone-800 text-cream text-xs uppercase tracking-[0.2em] px-8 py-3.5 rounded-luxury font-semibold transition-colors shadow-luxury-soft"
             >
-              <Layers className="w-4 h-4" />
+              <Layers className="w-4 h-4 text-champagne" />
               <span>Order Physical Swatch Box</span>
             </button>
           </div>
