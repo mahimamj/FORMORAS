@@ -293,9 +293,11 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                         <span className="font-serif text-xl text-champagne-dark font-semibold">
                           {product.price}
                         </span>
-                        <span className="text-[10px] text-stone-400 font-mono">
-                          (Ex-Warehouse)
-                        </span>
+                        {product.price !== 'Price on Request' && !product.price.toLowerCase().includes('request') && (
+                          <span className="text-[10px] text-stone-400 font-mono">
+                            (Ex-Warehouse)
+                          </span>
+                        )}
                       </div>
 
                       <div className="mt-3 pt-3 border-t border-stone-200 space-y-1.5 text-[11px] text-stone-600">
