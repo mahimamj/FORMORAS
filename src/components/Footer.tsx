@@ -9,19 +9,13 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 mb-16">
           {/* Brand Col */}
           <div className="lg:col-span-2 space-y-4">
-            <div className="flex items-center space-x-3">
-              <div className="w-8 h-8 border border-charcoal/40 rounded-full flex items-center justify-center bg-white/80 shadow-sm">
-                <span className="font-serif italic text-charcoal text-base font-semibold">F</span>
-              </div>
-              <div>
-                <span className="font-serif text-2xl tracking-widest text-charcoal font-semibold block">
-                  FORMORAS
-                </span>
-                <span className="text-[9px] uppercase tracking-[0.25em] text-stone-600 block font-sans font-medium">
-                  Furniture Interiors
-                </span>
-              </div>
-            </div>
+            <a href="#" className="inline-block">
+              <img
+                src="/formoras-logo.png"
+                alt="FORMORAS Furniture Interiors"
+                className="h-12 md:h-14 w-auto object-contain"
+              />
+            </a>
             <p className="text-xs text-stone-600 font-normal max-w-sm leading-relaxed">
               FORMORAS Furniture Interiors is a premier contract furniture manufacturer and interior solution provider, engineering bespoke collections for hotels, corporate HQs, luxury residences, and commercial projects.
             </p>

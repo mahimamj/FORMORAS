@@ -17,7 +17,7 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
   ];
 
   return (
-    <section className="relative w-full min-h-screen flex items-center justify-center overflow-hidden pt-24 pb-16">
+    <section className="relative w-full min-h-screen flex items-center justify-center overflow-hidden pt-32 pb-16">
       {/* Background Video / Cinematic Backdrop */}
       <div className="absolute inset-0 z-0 bg-stone-900">
         <img
@@ -38,10 +38,10 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
             type="video/mp4"
           />
         </video>
-        {/* Dark Luxury Contrast Overlay (Makes background room dark & clearly visible) */}
-        <div className="absolute inset-0 bg-black/25 mix-blend-multiply" />
-        <div className="absolute inset-0 bg-gradient-to-t from-cream via-cream/40 to-black/30" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent via-black/10 to-stone-950/40" />
+        {/* Clean Architectural Contrast Overlay (No white fog) */}
+        <div className="absolute inset-0 bg-black/20 mix-blend-multiply" />
+        <div className="absolute inset-0 bg-gradient-to-t from-cream via-transparent to-black/40" />
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent via-transparent to-stone-950/40" />
       </div>
 
       {/* Main Content */}
@@ -51,7 +51,7 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="inline-flex items-center space-x-3 px-4.5 py-2 rounded-full border border-champagne/50 bg-white/95 backdrop-blur-md mb-8 shadow-md"
+          className="inline-flex items-center space-x-3 px-4.5 py-2 rounded-full border border-champagne/40 bg-white/90 backdrop-blur-md mb-8 shadow-sm"
         >
           <span className="w-2 h-2 rounded-full bg-champagne-dark animate-pulse" />
           <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-semibold">
@@ -64,7 +64,7 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.4 }}
-          className="font-serif text-4xl sm:text-6xl lg:text-7xl xl:text-8xl tracking-tight text-charcoal font-normal leading-[1.08] max-w-5xl mb-6 drop-shadow-[0_1px_2px_rgba(255,255,255,0.6)]"
+          className="font-serif text-4xl sm:text-6xl lg:text-7xl xl:text-8xl tracking-tight text-charcoal font-medium leading-[1.08] max-w-5xl mb-6"
         >
           Crafting Timeless Furniture <br className="hidden sm:inline" />
           <span className="italic font-serif text-champagne-dark">for Extraordinary Spaces.</span>
@@ -75,7 +75,7 @@ export default function Hero({ onOpenCatalogue, onOpenQuote }: HeroProps) {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.6 }}
-          className="text-base sm:text-lg md:text-xl text-stone-800 font-sans font-medium max-w-3xl leading-relaxed mb-10 drop-shadow-[0_1px_2px_rgba(255,255,255,0.7)]"
+          className="text-base sm:text-lg md:text-xl text-stone-800 font-sans font-medium max-w-3xl leading-relaxed mb-10"
         >
           Bespoke high-volume manufacturing engineered for principal architects, luxury hospitality groups, executive interiors, and global brand flagships.
         </motion.p>

@@ -36,26 +36,18 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote }: NavbarProps) {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-        scrolled
-          ? 'bg-cream/90 backdrop-blur-md border-b border-stone-200/80 py-4 shadow-luxury-soft'
-          : 'bg-gradient-to-b from-cream/95 via-cream/60 to-transparent py-6'
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-white/95 backdrop-blur-md border-b border-stone-200/80 shadow-sm ${
+        scrolled ? 'py-3' : 'py-4'
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
         {/* Brand Logo */}
-        <a href="#" className="group flex items-center space-x-3 shrink-0 mr-6 lg:mr-10">
-          <div className="w-9 h-9 border border-charcoal/40 rounded-full flex items-center justify-center transition-all duration-500 group-hover:border-champagne group-hover:rotate-45 bg-white/80 shadow-sm">
-            <span className="font-serif italic text-charcoal text-lg font-semibold">F</span>
-          </div>
-          <div>
-            <span className="font-serif text-xl md:text-2xl tracking-widest text-charcoal font-semibold block">
-              FORMORAS
-            </span>
-            <span className="text-[9px] uppercase tracking-[0.25em] text-stone-600 block font-sans font-medium">
-              Furniture Interiors
-            </span>
-          </div>
+        <a href="#" className="group flex items-center shrink-0 mr-6 lg:mr-10">
+          <img
+            src="/formoras-logo.png"
+            alt="FORMORAS Furniture Interiors"
+            className="h-10 md:h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+          />
         </a>
 
         {/* Desktop Navigation */}
