@@ -109,11 +109,10 @@ export default function MaterialLibrary() {
             <button
               key={mat.id}
               onClick={() => setSelectedMaterial(idx)}
-              className={`p-4 rounded-luxury border text-left transition-all duration-300 ${
-                selectedMaterial === idx
+              className={`p-4 rounded-luxury border text-left transition-all duration-300 ${selectedMaterial === idx
                   ? 'bg-white border-champagne text-charcoal shadow-luxury-soft font-semibold'
                   : 'bg-white/60 border-stone-200/80 text-stone-600 hover:text-charcoal hover:border-stone-300 hover:bg-white shadow-sm'
-              }`}
+                }`}
             >
               <span className="text-[10px] uppercase tracking-[0.2em] font-mono text-champagne-dark block font-semibold">
                 0{idx + 1}

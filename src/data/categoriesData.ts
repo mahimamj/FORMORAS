@@ -14,37 +14,6 @@ export interface FurnitureCategory {
 
 export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
   {
-    "id": "executive",
-    "title": "Executive Series",
-    "subtitle": "High-Back & Mid-Back Ergonomic Executive Seating",
-    "tagline": "Prestige, Comfort & Architectural Ergonomics",
-    "description": "Engineered for C-suite suites, boardrooms, and senior executive offices. Features multi-position tilt locking, genuine leather / high-grade leatherette, responsive lumbar support, and polished chrome / aluminum die-cast bases.",
-    "badge": "Bestseller Category",
-    "pdfCatalog": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "features": [
-      "Synchronized Multi-Tilt Mechanism with Anti-Shock Return",
-      "3D/4D Adjustable Armrests with PU Pads",
-      "High-Density Molded Foam (50+ kg/m³) with 10-Year Resilience",
-      "BIFMA Class-4 Heavy Duty Pneumatic Gas Lift",
-      "Polished Aluminum Die-Cast & Nylon Reinforced Star Bases"
-    ],
-    "totalPages": 36,
-    "sampleItems": [
-      "W.E.F. 1ST JULY 2026",
-      "EXECUTIVE SERIES",
-      "FREEDOM (IMP) - 130000/-",
-      "• Black frame chrome aluminium diecast with korean mesh.",
-      "• Black frame chrome alloy 5D armrest.",
-      "• 50mm Adjustable Lumbar Support.",
-      "• Wire control with multi position knee tilt syncro along with seat slider.",
-      "• 700mm Aluminium Die cast base with 68mm Nylon Castor.",
-      "FALCON ELITE GREY HB : 81000/- | MB : 79000/-",
-      "(IMP)",
-      "FALCON ELITE BLACK HB : 76000/- | MB : 74000/-",
-      "(IMP)"
-    ]
-  },
-  {
     "id": "prince",
     "title": "Prince Series",
     "subtitle": "Luxury Leatherette & Wooden Accent Executive Chairs",
@@ -86,13 +55,13 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
       "W.E.F. 1ST MAY 2026",
       "NORWAY - 34000/-",
       "(IMP)",
-      "Glass lled nylon frame with korean mesh in back and seat",
+      "Glass \uf001lled nylon frame with korean mesh in back and seat",
       "3D Adjustable armrest.",
       "Two position lock, zero pressure seat.",
       "700 mm Nylon base with 60mm castors & class 4 gas lift.",
       "LIDO : 19450/-",
       "(IMP)",
-      "Glass lled nylon back & seat with Korean mesh.",
+      "Glass \uf001lled nylon back & seat with Korean mesh.",
       "Fix PP armrest.",
       "Synchro tilt cable control mechanism with single position lock."
     ]
@@ -194,7 +163,7 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     "pdfCatalog": "LOUNGE  PRICELIST- AUG26.pdf",
     "features": [
       "Sculptural Deep-Seated Ergonomic Shells",
-      "Premium Chenille, Bouclé, Velvet, and Nappa Leatherette Options",
+      "Premium Chenille, Boucl\u00e9, Velvet, and Nappa Leatherette Options",
       "Gold Brushed Stainless Steel & Matt Black Metal Leg Frames",
       "Multi-Density Layered Cushioning for Cloud-Like Seating",
       "Custom Color Fabric Matching Available"
@@ -237,13 +206,13 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
       "RIVER",
       "M.R.P. : 82,000/-",
       "Colors :",
-      "• Single motor",
-      "• Fine leather",
+      "\u2022 Single motor",
+      "\u2022 Fine leather",
       "RECLINER",
       "STONE",
       "M.R.P. : 92,000/-",
       "Colors :",
-      "• Double motor"
+      "\u2022 Double motor"
     ]
   },
   {
@@ -322,6 +291,37 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
       "900*900*300* | 450*400 950*340 | 500*440",
       "104000/- 70000/-",
       "BHT 103 FYX 402"
+    ]
+  },
+  {
+    "id": "executive",
+    "title": "Executive Series",
+    "subtitle": "High-Back & Mid-Back Ergonomic Executive Seating",
+    "tagline": "Prestige, Comfort & Architectural Ergonomics",
+    "description": "Engineered for C-suite suites, boardrooms, and senior executive offices. Features multi-position tilt locking, genuine leather / high-grade leatherette, responsive lumbar support, and polished chrome / aluminum die-cast bases.",
+    "badge": "Bestseller Category",
+    "pdfCatalog": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "features": [
+      "Synchronized Multi-Tilt Mechanism with Anti-Shock Return",
+      "3D/4D Adjustable Armrests with PU Pads",
+      "High-Density Molded Foam (50+ kg/m\u00b3) with 10-Year Resilience",
+      "BIFMA Class-4 Heavy Duty Pneumatic Gas Lift",
+      "Polished Aluminum Die-Cast & Nylon Reinforced Star Bases"
+    ],
+    "totalPages": 36,
+    "sampleItems": [
+      "W.E.F. 1ST JULY 2026",
+      "EXECUTIVE SERIES",
+      "FREEDOM (IMP) - 130000/-",
+      "\u2022 Black frame chrome aluminium diecast with korean mesh.",
+      "\u2022 Black frame chrome alloy 5D armrest.",
+      "\u2022 50mm Adjustable Lumbar Support.",
+      "\u2022 Wire control with multi position knee tilt syncro along with seat slider.",
+      "\u2022 700mm Aluminium Die cast base with 68mm Nylon Castor.",
+      "FALCON ELITE GREY HB : 81000/- | MB : 79000/-",
+      "(IMP)",
+      "FALCON ELITE BLACK HB : 76000/- | MB : 74000/-",
+      "(IMP)"
     ]
   }
 ];

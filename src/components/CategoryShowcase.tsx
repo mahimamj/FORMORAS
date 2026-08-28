@@ -29,7 +29,7 @@ const CATEGORY_ICONS: Record<string, any> = {
 };
 
 export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps) {
-  const [selectedCategoryId, setSelectedCategoryId] = useState<string>('executive');
+  const [selectedCategoryId, setSelectedCategoryId] = useState<string>('prince');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedProductModal, setSelectedProductModal] = useState<ProductItem | null>(null);
   const [activeImageMap, setActiveImageMap] = useState<Record<string, string>>({});
@@ -104,83 +104,7 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
           </div>
         </div>
 
-        {/* Active Category Header Card */}
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={activeCategory.id}
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -15 }}
-            transition={{ duration: 0.3 }}
-            className="bg-white border border-stone-200/90 rounded-luxury-lg p-8 lg:p-10 mb-12 shadow-luxury-soft relative overflow-hidden"
-          >
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">
-              <div className="lg:col-span-2 space-y-4">
-                <div className="flex flex-wrap items-center gap-3">
-                  <span className="bg-champagne/15 text-champagne-dark border border-champagne/30 text-[11px] font-mono px-3 py-1 rounded-full uppercase tracking-wider font-semibold">
-                    {activeCategory.badge}
-                  </span>
-                  <span className="text-stone-500 text-xs font-mono flex items-center gap-1">
-                    <FileText className="w-3.5 h-3.5 text-champagne-dark" />
-                    {activeCategory.pdfCatalog} ({activeCategory.totalPages} Pages)
-                  </span>
-                </div>
 
-                <h3 className="font-serif text-2xl md:text-4xl text-charcoal font-medium">
-                  {activeCategory.title}
-                </h3>
-                <p className="text-champagne-dark text-sm font-mono font-medium">{activeCategory.subtitle}</p>
-
-                <p className="text-stone-600 text-xs md:text-sm font-normal leading-relaxed">
-                  {activeCategory.description}
-                </p>
-
-                {/* Key Technical Features */}
-                <div className="pt-2 grid grid-cols-1 md:grid-cols-2 gap-2 text-xs text-stone-700 font-medium">
-                  {activeCategory.features.map((feat, idx) => (
-                    <div key={idx} className="flex items-start space-x-2">
-                      <CheckCircle2 className="w-4 h-4 text-champagne-dark shrink-0 mt-0.5" />
-                      <span>{feat}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* PDF Action Box */}
-              <div className="bg-cream-muted border border-stone-200/80 rounded-luxury p-6 flex flex-col justify-between space-y-4 text-center lg:text-left">
-                <div>
-                  <div className="text-xs font-mono text-stone-500 uppercase tracking-widest mb-1 font-medium">
-                    Official Pricelist & Spec Sheet
-                  </div>
-                  <h4 className="font-serif text-lg text-charcoal font-medium mb-2">
-                    {activeCategory.title} Catalog PDF
-                  </h4>
-                  <p className="text-[11px] text-stone-600 leading-relaxed mb-4">
-                    Download the complete {activeCategory.totalPages}-page commercial B2B pricelist with fabric swatches & dimension blueprints.
-                  </p>
-                </div>
-
-                <div className="space-y-2">
-                  <a
-                    href={`/A -DIVINE CHAIRS PRICELIST/${encodeURIComponent(activeCategory.pdfCatalog)}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="w-full bg-charcoal hover:bg-stone-800 text-cream text-xs font-semibold uppercase tracking-wider py-3 px-4 rounded-luxury flex items-center justify-center space-x-2 transition-all shadow-md"
-                  >
-                    <Download className="w-4 h-4 text-champagne" />
-                    <span>Download {activeCategory.pdfCatalog.split('.')[0]}</span>
-                  </a>
-                  <button
-                    onClick={() => onOpenQuote(`Bulk B2B Inquiry: ${activeCategory.title}`)}
-                    className="w-full bg-white hover:bg-stone-100 text-charcoal text-xs font-medium uppercase tracking-wider py-2.5 px-4 rounded-luxury border border-stone-300 transition-colors shadow-sm"
-                  >
-                    Request Category Price Matrix
-                  </button>
-                </div>
-              </div>
-            </div>
-          </motion.div>
-        </AnimatePresence>
 
         {/* Product Filter & Search Bar */}
         <div className="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
@@ -247,8 +171,32 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                         </div>
                       )}
 
-                      {/* Front & Back View Switcher Toggle if Back Image exists */}
-                      {product.backImage && (
+                      {/* 3-View Interactive Side View Switcher */}
+                      {product.images && product.images.length >= 3 ? (
+                        <div className="absolute bottom-2 left-1/2 -translate-x-1/2 bg-white/95 backdrop-blur-md border border-stone-300 rounded-full p-0.5 flex space-x-1 shadow-md z-10">
+                          {['Perspective', 'Front', 'Side'].map((label, idx) => {
+                            const imgPath = product.images![idx] || product.image;
+                            const isActive = (activeImageMap[product.id] || product.image) === imgPath;
+                            return (
+                              <button
+                                key={idx}
+                                type="button"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  setActiveImageMap(prev => ({ ...prev, [product.id]: imgPath }));
+                                }}
+                                className={`px-2 py-0.5 text-[9px] font-mono rounded-full transition-colors ${
+                                  isActive
+                                    ? 'bg-charcoal text-cream font-bold shadow-xs'
+                                    : 'text-stone-600 hover:text-charcoal'
+                                }`}
+                              >
+                                {label}
+                              </button>
+                            );
+                          })}
+                        </div>
+                      ) : product.backImage ? (
                         <div className="absolute bottom-2 left-1/2 -translate-x-1/2 bg-white/95 backdrop-blur-md border border-stone-300 rounded-full p-0.5 flex space-x-1 shadow-md z-10">
                           <button
                             type="button"
@@ -279,7 +227,7 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                             Back
                           </button>
                         </div>
-                      )}
+                      ) : null}
                     </div>
 
                     <div>
@@ -384,8 +332,31 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                 </button>
               </div>
 
-              {/* Dual View Front & Back Image Showcase */}
-              {selectedProductModal.backImage ? (
+              {/* 3-View Multi-Angle Side View Gallery Showcase */}
+              {selectedProductModal.images && selectedProductModal.images.length >= 3 ? (
+                <div className="space-y-3 bg-white p-3.5 rounded-luxury border border-stone-200">
+                  <div className="text-[11px] font-mono text-champagne-dark font-semibold uppercase tracking-wider flex items-center justify-between">
+                    <span>Multi-Angle 3 Side Views</span>
+                    <span className="text-[9px] text-stone-400">PDF Spec Extraction</span>
+                  </div>
+                  <div className="grid grid-cols-3 gap-2.5">
+                    {['3/4 Perspective', 'Front View', 'Side / Back'].map((viewLabel, idx) => (
+                      <div key={idx} className="text-center space-y-1">
+                        <div className="aspect-square bg-stone-50 rounded-lg p-1.5 overflow-hidden flex items-center justify-center border border-stone-100 shadow-xs">
+                          <img
+                            src={selectedProductModal.images![idx] || selectedProductModal.image}
+                            alt={viewLabel}
+                            className="h-full object-contain hover:scale-110 transition-transform duration-300"
+                          />
+                        </div>
+                        <span className="text-[9px] font-mono text-stone-600 uppercase tracking-wider font-semibold block truncate">
+                          {viewLabel}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : selectedProductModal.backImage ? (
                 <div className="grid grid-cols-2 gap-3 bg-white p-3 rounded-luxury border border-stone-200">
                   <div className="text-center space-y-1">
                     <div className="aspect-square bg-stone-50 rounded-lg p-2 overflow-hidden flex items-center justify-center border border-stone-100">

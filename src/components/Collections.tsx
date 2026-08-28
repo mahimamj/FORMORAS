@@ -15,7 +15,6 @@ export default function Collections({ onOpenQuote }: CollectionsProps) {
   const categories = [
     'All',
     'Living',
-    'Bedroom',
     'Dining',
     'Office',
     'Outdoor',
@@ -93,7 +92,7 @@ export default function Collections({ onOpenQuote }: CollectionsProps) {
     {
       id: 6,
       title: 'Nocturne Suite Platform Bed',
-      category: 'Bedroom',
+      category: 'Hospitality',
       subCategory: 'Presidential Suite Bedframe',
       designer: 'Atelier Haute',
       leadTime: '6-8 Weeks',
