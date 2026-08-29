@@ -2,20 +2,25 @@
 
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, ArrowUpRight, Download, FileText, ChevronRight } from 'lucide-react';
+import { 
+  Menu, X, Search, Store, User, Heart, ShoppingBag, 
+  ArrowUpRight, Download, ChevronRight, Sparkles 
+} from 'lucide-react';
 
 interface NavbarProps {
   onOpenCatalogue: () => void;
-  onOpenQuote: () => void;
+  onOpenQuote: (productName?: string) => void;
+  onSelectCategory?: (categoryId: string) => void;
 }
 
-export default function Navbar({ onOpenCatalogue, onOpenQuote }: NavbarProps) {
+export default function Navbar({ onOpenCatalogue, onOpenQuote, onSelectCategory }: NavbarProps) {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 40) {
+      if (window.scrollY > 30) {
         setScrolled(true);
       } else {
         setScrolled(false);
@@ -25,72 +30,156 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote }: NavbarProps) {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const navLinks = [
-    { name: 'About', href: '#about' },
-    { name: 'Collections', href: '#collections' },
-    { name: 'Materials', href: '#materials' },
-    { name: 'Craftsmanship', href: '#craftsmanship' },
-    { name: 'Projects', href: '#projects' },
-    { name: 'FAQ', href: '#faq' },
+  const topLinks = [
+    { name: 'Home Interiors', href: '#collections' },
+    { name: 'Business Furniture', href: '#categories-catalog' },
+    { name: 'Repair & Services', href: '#craftsmanship' },
   ];
 
+  const categoryNavItems = [
+    { id: 'new-arrivals', label: 'New Arrivals' },
+    { id: 'exclusive', label: 'Deal Zone' },
+    { id: 'sofa', label: 'Sofas & Recliners' },
+    { id: 'prince', label: 'Prince Series' },
+    { id: 'workstation', label: 'Workstations' },
+    { id: 'dining', label: 'Dining & Kitchen' },
+    { id: 'highcounter', label: 'Bar & Counter Stools' },
+    { id: 'lounge', label: 'Lounge Chairs' },
+    { id: 'tables', label: 'Tables & Stands' },
+    { id: 'puffy', label: 'Ottomans' },
+    { id: 'executive', label: 'Executive Series' },
+  ];
+
+  const handleCategoryClick = (catId: string) => {
+    if (onSelectCategory) {
+      onSelectCategory(catId);
+    }
+    const elem = document.getElementById('categories-catalog');
+    if (elem) {
+      elem.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
+  const handleSearchSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    const elem = document.getElementById('categories-catalog');
+    if (elem) {
+      elem.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
-    <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-white/95 backdrop-blur-md border-b border-stone-200/80 shadow-sm ${
-        scrolled ? 'py-3' : 'py-4'
-      }`}
-    >
-      <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-white border-b border-stone-200 shadow-sm transition-all duration-300">
+      {/* Row 1: Top Brand, Service Links, Search Bar & Utility Icons (Urban Ladder Header Style) */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex items-center justify-between gap-4">
         {/* Brand Logo */}
-        <a href="#" className="group flex items-center shrink-0 mr-6 lg:mr-10">
+        <a href="#" className="group flex items-center shrink-0">
           <img
             src="/formoras-logo.png"
             alt="FORMORAS Furniture Interiors"
-            className="h-10 md:h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+            className="h-9 sm:h-11 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
           />
         </a>
 
-        {/* Desktop Navigation */}
-        <nav className="hidden lg:flex items-center space-x-5 xl:space-x-8 shrink-0">
-          {navLinks.map((link) => (
+        {/* Top Service Navigation Links (Desktop) */}
+        <div className="hidden xl:flex items-center space-x-6 shrink-0 text-xs font-semibold text-stone-700">
+          {topLinks.map((item) => (
             <a
-              key={link.name}
-              href={link.href}
-              className="text-xs uppercase tracking-[0.18em] text-stone-700 hover:text-champagne-dark font-medium transition-colors duration-300 relative py-1 group"
+              key={item.name}
+              href={item.href}
+              className="hover:text-amber-900 transition-colors py-1 relative group"
             >
-              {link.name}
-              <span className="absolute bottom-0 left-0 w-0 h-[1px] bg-champagne transition-all duration-300 group-hover:w-full" />
+              {item.name}
+              <span className="absolute bottom-0 left-0 w-0 h-[2px] bg-amber-800 transition-all duration-300 group-hover:w-full" />
             </a>
           ))}
-        </nav>
-
-        {/* Header Actions */}
-        <div className="hidden lg:flex items-center space-x-4">
-          <button
-            onClick={onOpenCatalogue}
-            className="flex items-center space-x-2 text-xs uppercase tracking-[0.18em] text-charcoal hover:text-champagne-dark border border-stone-300 hover:border-champagne/60 bg-white/70 px-5 py-2.5 rounded-luxury transition-all duration-300 shadow-sm"
-          >
-            <Download className="w-3.5 h-3.5 text-champagne-dark" />
-            <span className="font-medium">Catalogue</span>
-          </button>
-          
-          <button
-            onClick={onOpenQuote}
-            className="flex items-center space-x-2 text-xs uppercase tracking-[0.18em] bg-charcoal hover:bg-stone-800 text-cream font-semibold px-5 py-2.5 rounded-luxury transition-all duration-300 shadow-luxury-soft hover:scale-[1.02]"
-          >
-            <span>Get Bulk Quote</span>
-            <ArrowUpRight className="w-3.5 h-3.5 text-champagne" />
-          </button>
         </div>
 
-        {/* Mobile Menu Toggle */}
-        <button
-          onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          className="lg:hidden text-charcoal p-2 hover:text-champagne-dark transition-colors"
-          aria-label="Toggle Navigation Menu"
-        >
-          {mobileMenuOpen ? <X className="w-7 h-7" /> : <Menu className="w-7 h-7" />}
-        </button>
+        {/* Wide Pill Search Input */}
+        <form onSubmit={handleSearchSubmit} className="flex-1 max-w-md hidden md:block">
+          <div className="relative">
+            <Search className="w-4 h-4 text-stone-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <input
+              type="text"
+              placeholder="Search 1,000+ contract chairs, sofas, tables..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full bg-stone-100/80 hover:bg-stone-100 border border-stone-200/90 focus:border-amber-700/60 rounded-full pl-10 pr-4 py-2 text-xs text-charcoal outline-none transition-all shadow-inner"
+            />
+          </div>
+        </form>
+
+        {/* Header Utility Icons (Store, Account, Wishlist, Cart/Quote) */}
+        <div className="flex items-center space-x-3 sm:space-x-5 text-stone-700 shrink-0">
+          <button
+            onClick={onOpenCatalogue}
+            title="Download PDF Catalogue"
+            className="hidden sm:flex items-center space-x-1.5 text-xs text-stone-700 hover:text-amber-900 transition-colors py-1.5 px-3 rounded-full hover:bg-stone-100"
+          >
+            <Download className="w-4 h-4 text-amber-800" />
+            <span className="font-mono text-[11px] font-semibold uppercase tracking-wider hidden lg:inline">
+              Catalog
+            </span>
+          </button>
+
+          <a
+            href="#projects"
+            title="Store & Project Showroom"
+            className="p-2 hover:bg-stone-100 rounded-full transition-colors text-stone-700 hover:text-amber-900"
+          >
+            <Store className="w-5 h-5" />
+          </a>
+
+          <button
+            onClick={() => onOpenQuote()}
+            title="Account & Portal"
+            className="p-2 hover:bg-stone-100 rounded-full transition-colors text-stone-700 hover:text-amber-900 hidden sm:block"
+          >
+            <User className="w-5 h-5" />
+          </button>
+
+          <button
+            onClick={() => onOpenQuote()}
+            title="Wishlist"
+            className="p-2 hover:bg-stone-100 rounded-full transition-colors text-stone-700 hover:text-amber-900 relative hidden sm:block"
+          >
+            <Heart className="w-5 h-5" />
+            <span className="absolute top-1 right-1 w-2 h-2 rounded-full bg-amber-700" />
+          </button>
+
+          {/* Cart / B2B Quote Action Pill */}
+          <button
+            onClick={() => onOpenQuote()}
+            className="flex items-center space-x-2 bg-[#2c2420] hover:bg-[#3d322c] text-cream px-4 py-2 rounded-full text-xs font-semibold uppercase tracking-wider transition-all shadow-md hover:scale-105"
+          >
+            <ShoppingBag className="w-4 h-4 text-amber-300" />
+            <span className="hidden sm:inline">Quote Cart</span>
+          </button>
+
+          {/* Mobile Menu Button */}
+          <button
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+            className="lg:hidden text-charcoal p-2 hover:text-amber-900 transition-colors"
+            aria-label="Toggle Navigation Menu"
+          >
+            {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
+        </div>
+      </div>
+
+      {/* Row 2: Category Ribbon (Urban Ladder Signature Sub-Nav Bar) */}
+      <div className="hidden lg:block border-t border-stone-200/80 bg-[#fdfbf9] py-2.5 overflow-x-auto no-scrollbar">
+        <div className="max-w-7xl mx-auto px-6 flex items-center justify-between space-x-4 min-w-max text-xs font-medium text-[#38302c]">
+          {categoryNavItems.map((item) => (
+            <button
+              key={item.id}
+              onClick={() => handleCategoryClick(item.id)}
+              className="hover:text-amber-900 hover:underline transition-all whitespace-nowrap px-1 py-0.5 tracking-tight font-medium"
+            >
+              {item.label}
+            </button>
+          ))}
+        </div>
       </div>
 
       {/* Mobile Drawer */}
@@ -101,32 +190,49 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote }: NavbarProps) {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -20 }}
             transition={{ duration: 0.3 }}
-            className="lg:hidden fixed inset-x-0 top-[72px] bg-cream/98 backdrop-blur-xl border-b border-stone-200/80 p-6 flex flex-col space-y-6 shadow-2xl"
+            className="lg:hidden fixed inset-x-0 top-[65px] bg-white border-b border-stone-200 p-6 flex flex-col space-y-5 shadow-2xl z-50 max-h-[85vh] overflow-y-auto"
           >
-            <div className="flex flex-col space-y-4">
-              {navLinks.map((link) => (
-                <a
-                  key={link.name}
-                  href={link.href}
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="flex items-center justify-between text-sm uppercase tracking-[0.2em] text-charcoal hover:text-champagne-dark py-2 border-b border-stone-200/60 font-medium"
+            {/* Mobile Search */}
+            <form onSubmit={handleSearchSubmit} className="relative">
+              <Search className="w-4 h-4 text-stone-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+              <input
+                type="text"
+                placeholder="Search models or series..."
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                className="w-full bg-stone-100 border border-stone-200 rounded-full pl-10 pr-4 py-2.5 text-xs text-charcoal outline-none"
+              />
+            </form>
+
+            <div className="flex flex-col space-y-2 pt-2">
+              <span className="text-[10px] font-mono uppercase tracking-widest text-stone-400 font-bold mb-1">
+                Categories
+              </span>
+              {categoryNavItems.map((item) => (
+                <button
+                  key={item.id}
+                  onClick={() => {
+                    setMobileMenuOpen(false);
+                    handleCategoryClick(item.id);
+                  }}
+                  className="flex items-center justify-between text-xs uppercase tracking-wider text-stone-800 hover:text-amber-900 py-2 border-b border-stone-100 font-semibold text-left"
                 >
-                  <span>{link.name}</span>
-                  <ChevronRight className="w-4 h-4 text-champagne-dark" />
-                </a>
+                  <span>{item.label}</span>
+                  <ChevronRight className="w-4 h-4 text-amber-800" />
+                </button>
               ))}
             </div>
 
-            <div className="pt-2 flex flex-col space-y-3">
+            <div className="pt-2 flex flex-col space-y-2.5">
               <button
                 onClick={() => {
                   setMobileMenuOpen(false);
                   onOpenCatalogue();
                 }}
-                className="w-full flex items-center justify-center space-x-2 text-xs uppercase tracking-[0.18em] text-charcoal border border-stone-300 bg-white py-3 rounded-luxury font-medium"
+                className="w-full flex items-center justify-center space-x-2 text-xs uppercase tracking-wider text-charcoal border border-stone-300 py-3 rounded-full font-semibold"
               >
-                <Download className="w-4 h-4 text-champagne-dark" />
-                <span>Request Catalogue</span>
+                <Download className="w-4 h-4 text-amber-800" />
+                <span>Download PDF Catalogue</span>
               </button>
               
               <button
@@ -134,10 +240,10 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote }: NavbarProps) {
                   setMobileMenuOpen(false);
                   onOpenQuote();
                 }}
-                className="w-full flex items-center justify-center space-x-2 text-xs uppercase tracking-[0.18em] bg-charcoal text-cream font-semibold py-3 rounded-luxury"
+                className="w-full flex items-center justify-center space-x-2 text-xs uppercase tracking-wider bg-[#2c2420] text-cream font-semibold py-3 rounded-full"
               >
-                <span>Get Bulk Quote</span>
-                <ArrowUpRight className="w-4 h-4 text-champagne" />
+                <span>Get B2B Quote</span>
+                <ArrowUpRight className="w-4 h-4 text-amber-300" />
               </button>
             </div>
           </motion.div>

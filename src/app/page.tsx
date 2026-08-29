@@ -3,6 +3,8 @@
 import { useState } from 'react';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
+import ShopByCategory from '@/components/ShopByCategory';
+import PromotionalBanners from '@/components/PromotionalBanners';
 import About from '@/components/About';
 import Collections from '@/components/Collections';
 import CategoryShowcase from '@/components/CategoryShowcase';
@@ -22,31 +24,43 @@ export default function Home() {
   const [isCatalogueOpen, setIsCatalogueOpen] = useState(false);
   const [isQuoteOpen, setIsQuoteOpen] = useState(false);
   const [quoteProduct, setQuoteProduct] = useState<string | undefined>(undefined);
+  const [activeCategoryFilter, setActiveCategoryFilter] = useState<string>('prince');
 
   const handleOpenQuote = (productName?: string) => {
     setQuoteProduct(productName);
     setIsQuoteOpen(true);
   };
 
+  const handleSelectCategory = (catId: string) => {
+    setActiveCategoryFilter(catId);
+  };
+
   return (
     <main className="min-h-screen bg-cream text-charcoal selection:bg-champagne selection:text-white">
-      {/* Navigation Header */}
+      {/* Navigation Header (Urban Ladder Top Bar & Sub-Nav Category Ribbon) */}
       <Navbar
         onOpenCatalogue={() => setIsCatalogueOpen(true)}
         onOpenQuote={() => handleOpenQuote()}
+        onSelectCategory={handleSelectCategory}
       />
 
-      {/* Hero Section */}
+      {/* Hero Section (Urban Ladder Monsoon Sale Banner Style) */}
       <Hero
         onOpenCatalogue={() => setIsCatalogueOpen(true)}
         onOpenQuote={() => handleOpenQuote()}
       />
 
-      {/* About & Heritage */}
-      <About />
+      {/* Urban Ladder Signature "Shop by Category" Avatar Circles Grid */}
+      <ShopByCategory onSelectCategory={handleSelectCategory} />
+
+      {/* Additional Discounts and Offers Row */}
+      <PromotionalBanners onOpenQuote={handleOpenQuote} />
 
       {/* Interactive 11 Category Catalogue Showcase (Extracted from PDFs) */}
       <CategoryShowcase onOpenQuote={handleOpenQuote} />
+
+      {/* About & Heritage */}
+      <About />
 
       {/* Product Collections Grid */}
       <Collections onOpenQuote={() => handleOpenQuote()} />
