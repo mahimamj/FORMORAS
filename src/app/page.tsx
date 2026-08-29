@@ -5,6 +5,7 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import ShopByCategory from '@/components/ShopByCategory';
 import PromotionalBanners from '@/components/PromotionalBanners';
+import InteractiveFeatureShowcase from '@/components/InteractiveFeatureShowcase';
 import About from '@/components/About';
 import Collections from '@/components/Collections';
 import CategoryShowcase from '@/components/CategoryShowcase';
@@ -37,26 +38,32 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-cream text-charcoal selection:bg-champagne selection:text-white">
-      {/* Navigation Header (Urban Ladder Top Bar & Sub-Nav Category Ribbon) */}
+      {/* Navigation Header */}
       <Navbar
         onOpenCatalogue={() => setIsCatalogueOpen(true)}
         onOpenQuote={() => handleOpenQuote()}
         onSelectCategory={handleSelectCategory}
       />
 
-      {/* Hero Section (Urban Ladder Monsoon Sale Banner Style) */}
+      {/* Hero Section */}
       <Hero
         onOpenCatalogue={() => setIsCatalogueOpen(true)}
         onOpenQuote={() => handleOpenQuote()}
       />
 
-      {/* Urban Ladder Signature "Shop by Category" Avatar Circles Grid */}
+      {/* Shop by Category Circles Grid */}
       <ShopByCategory onSelectCategory={handleSelectCategory} />
 
-      {/* Additional Discounts and Offers Row */}
+      {/* Discounts and Offers Row */}
       <PromotionalBanners onOpenQuote={handleOpenQuote} />
 
-      {/* Interactive 11 Category Catalogue Showcase (Extracted from PDFs) */}
+      {/* Interactive B2B Contract Features, Engineering Matrix & Fitout Estimator */}
+      <InteractiveFeatureShowcase
+        onOpenQuote={handleOpenQuote}
+        onOpenCatalogue={() => setIsCatalogueOpen(true)}
+      />
+
+      {/* Interactive 11 Category Catalogue Showcase */}
       <CategoryShowcase
         onOpenQuote={handleOpenQuote}
         selectedCategoryId={activeCategoryFilter}
@@ -87,7 +94,7 @@ export default function Home() {
       {/* Contact & Instant Project Estimator */}
       <ContactSection onOpenCatalogue={() => setIsCatalogueOpen(true)} />
 
-      {/* Minimal Editorial Footer */}
+      {/* Editorial Footer */}
       <Footer />
 
       {/* Slide-over Modals */}
