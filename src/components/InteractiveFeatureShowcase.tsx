@@ -164,24 +164,7 @@ export default function InteractiveFeatureShowcase({ onOpenQuote, onOpenCatalogu
 
       <div className="max-w-7xl mx-auto px-6 lg:px-12 relative z-10 space-y-20">
         
-        {/* Section Header */}
-        <div className="text-center max-w-3xl mx-auto space-y-4">
-          <div className="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full bg-amber-950/80 border border-amber-500/30 text-amber-300 text-xs font-mono tracking-widest uppercase shadow-lg">
-            <Sparkles className="w-3.5 h-3.5" />
-            <span>Commercial Furniture Excellence</span>
-          </div>
 
-          <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-normal text-white tracking-tight leading-tight">
-            Designed for Durability. <br />
-            <span className="italic text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-amber-400 to-amber-600">
-              Engineered for Contracts.
-            </span>
-          </h2>
-
-          <p className="text-stone-400 text-sm sm:text-base leading-relaxed">
-            Discover why leading corporate offices, luxury hotels, and interior architects trust FORMORAS for factory-direct commercial fitouts.
-          </p>
-        </div>
 
         {/* Top 6 Quick Feature Badges Bar */}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
