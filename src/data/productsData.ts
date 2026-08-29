@@ -20,6 +20,27 @@ export interface ProductItem {
 
 export const PRODUCTS_DATA: ProductItem[] = [
   {
+    "id": "PRD-CAF-0003",
+    "title": "Bistro W/O Arms",
+    "categoryId": "cafe",
+    "price": "\u20b93,500",
+    "rawPrice": 3500,
+    "modelCode": "DV-CAF-BISTRO",
+    "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/cafe_series/bistro_wo_arms.jpg",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Woven Rattan / Cane Lattice Pattern Back",
+      "Weather-Resistant Molded Polymer Shell",
+      "Stackable Armless Bistro Design"
+    ]
+  },
+  {
     "id": "PRD-CAF-0001",
     "title": "Sterling",
     "categoryId": "cafe",
@@ -41,10 +62,31 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
+      "id": "PRD-CAF-0021",
+      "title": "Bistro (Arms)",
+      "categoryId": "cafe",
+      "price": "₹4,000",
+      "rawPrice": 4000,
+      "modelCode": "DV-CAF-BISTRO-ARMS",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 1,
+      "image": "/cafe_series/bistro_arms.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Handwoven Rattan / Cane Lattice Pattern Backrest & Seat",
+          "Ergonomic Sculpted Integrated Armrests",
+          "Weather-Resistant Taupe Polymer Frame"
+      ]
+  },
+  {
     "id": "PRD-CAF-0002",
     "title": "Melody PP Blk Cush",
     "categoryId": "cafe",
-    "price": "\u20b95,750",
+    "price": "₹5,750",
     "rawPrice": 5750,
     "modelCode": "DV-CAF-MELODY",
     "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
@@ -61,26 +103,488 @@ export const PRODUCTS_DATA: ProductItem[] = [
       "Heavy-Duty Black Commercial Leg Frame"
     ]
   },
-  {
-    "id": "PRD-CAF-0003",
-    "title": "Bistro W/O Arms",
+        {
+    "id": "PRD-CAF-0006",
+    "title": "Melody PP Wht Cush",
     "categoryId": "cafe",
-    "price": "\u20b93,500",
-    "rawPrice": 3500,
-    "modelCode": "DV-CAF-BISTRO",
+    "price": "₹6,300",
+    "rawPrice": 6300,
+    "modelCode": "DV-CAF-MELODY-WHT",
     "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 1,
-    "image": "/cafe_series/bistro_wo_arms.jpg",
+    "pageNumber": 2,
+    "image": "/cafe_series/melody_pp_wht_cush.jpg",
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
     "leadTime": "2-3 Weeks",
     "features": [
       "Commercial BIFMA Level 3 Certified",
-      "Woven Rattan / Cane Lattice Pattern Back",
-      "Weather-Resistant Molded Polymer Shell",
-      "Stackable Armless Bistro Design"
+      "Pure White Polypropylene Shell",
+      "Vibrant Red Upholstered Seat & Back Cushion",
+      "Modern Angled Leg Base"
     ]
+  },
+  {
+    "id": "PRD-CAF-0007",
+    "title": "Delsey (Ind)",
+    "categoryId": "cafe",
+    "price": "₹3,850",
+    "rawPrice": 3850,
+    "modelCode": "DV-CAF-DELSEY",
+    "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 2,
+    "image": "/cafe_series/delsey_ind.jpg",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Two-Tone Dual Color Polymer Construction",
+      "Vibrant Orange Backrest with Ventilation Slots",
+      "Heavy-Duty Light Grey Seat & Base Legs"
+    ]
+  },
+  {
+      "id": "PRD-CAF-0017",
+      "title": "Vibe",
+      "categoryId": "cafe",
+      "price": "₹3,400",
+      "rawPrice": 3400,
+      "modelCode": "DV-CAF-VIBE",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/vibe.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "White Slatted Molded Shell with Vibrant Orange Accents",
+          "Heavy-Duty White Powder Coated Steel Legs",
+          "Modern Architectural Bistro & Cafe Design"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0018",
+      "title": "Swing",
+      "categoryId": "cafe",
+      "price": "₹4,200",
+      "rawPrice": 4200,
+      "modelCode": "DV-CAF-SWING",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/swing.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Soft Lavender / Purple Sculpted Circular Backrest",
+          "Solid Natural Wooden Leg Assembly with Joint Slot Connectors",
+          "Contemporary Scandinavian Aesthetic Seating"
+      ]
+  },
+  {
+    "id": "PRD-CAF-0008",
+    "title": "Stripe",
+    "categoryId": "cafe",
+    "price": "\u20b93,600",
+    "rawPrice": 3600,
+    "modelCode": "DV-CAF-STRIPE",
+    "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 3,
+    "image": "/cafe_series/stripe.jpg",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Architectural Slatted Back & Seat Structure",
+      "Sage Green & Cream Dual-Tone Powder Coating",
+      "Weather & Rust Resistant Outdoor/Indoor Cafe Frame"
+    ]
+  },
+  {
+      "id": "PRD-CAF-0009",
+      "title": "Jerry",
+      "categoryId": "cafe",
+      "price": "\u20b94,500",
+      "rawPrice": 4500,
+      "modelCode": "DV-CAF-JERRY",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/jerry.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Woven Rattan Rope Pattern Upper Backrest",
+          "Ergonomic Curved Armrests & Molded Shell",
+          "Durable Commercial Grade Cafe Frame"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0019",
+      "title": "Cane Arms",
+      "categoryId": "cafe",
+      "price": "\u20b93,000",
+      "rawPrice": 3000,
+      "modelCode": "DV-CAF-CANE-ARMS",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/cane_arms.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Handwoven Natural Cane Lattice Rattan Back & Seat",
+          "Heavy-Duty Navy Blue Polymer Shell with Armrests",
+          "Stackable Ergonomic Cafe & Dining Design"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0020",
+      "title": "Cane W/O Arms",
+      "categoryId": "cafe",
+      "price": "\u20b92,860",
+      "rawPrice": 2860,
+      "modelCode": "DV-CAF-CANE-WO-ARMS",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/cane_wo_arms.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Natural Rattan Cane Lattice Woven Pattern",
+          "Sleek Armless Matte Black Commercial Shell",
+          "Space-Saving Stackable Bistro Seating"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0010",
+      "title": "Sweden Ch.",
+      "categoryId": "cafe",
+      "price": "₹3,900",
+      "rawPrice": 3900,
+      "modelCode": "DV-CAF-SWEDEN-CH",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/sweden_ch.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Vibrant Green Chevron Textured Polymer Shell",
+          "Heavy-Duty Metallic Silver Tubular Steel Legs",
+          "Stackable Modern Cafe & Dining Design"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0011",
+      "title": "Sweden (PP)",
+      "categoryId": "cafe",
+      "price": "₹3,000",
+      "rawPrice": 3000,
+      "modelCode": "DV-CAF-SWEDEN-PP",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/sweden_pp.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Pure Red Polypropylene Molded Shell",
+          "Geometric Chevron Indented Back Support",
+          "Solid Matt Black Tapered Leg Assembly"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0016",
+      "title": "Sweden DLX (Cush)",
+      "categoryId": "cafe",
+      "price": "₹4,400",
+      "rawPrice": 4400,
+      "modelCode": "DV-CAF-SWEDEN-DLX-CUSH",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/sweden_dlx_cush.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Deluxe Pure White Polypropylene Molded Shell",
+          "Premium Light Grey Upholstered Seat Cushion",
+          "Matching White Tapered Legs with Geometric Chevron Back"
+      ]
+  },
+  {
+    "id": "PRD-CAF-0005",
+    "title": "Furry",
+    "categoryId": "cafe",
+    "price": "₹3,600",
+    "rawPrice": 3600,
+    "modelCode": "DV-CAF-FURRY",
+    "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 4,
+    "image": "/cafe_series/furry.jpg",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Seamless Matte Black Polypropylene Molded Shell",
+      "Integrated Ergonomic Armrest & Back Support",
+      "Stackable Heavy-Duty Commercial Structure"
+    ]
+  },
+  {
+      "id": "PRD-CAF-0012",
+      "title": "Yuki",
+      "categoryId": "cafe",
+      "price": "₹2,750",
+      "rawPrice": 2750,
+      "modelCode": "DV-CAF-YUKI",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/yuki.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Perforated Dot Matrix Breathable Backrest",
+          "Seamless Pure White Commercial Polymer Shell",
+          "Sleek Ergonomic Silhouette with Back Cut-Out"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0013",
+      "title": "Zuri",
+      "categoryId": "cafe",
+      "price": "₹2,750",
+      "rawPrice": 2750,
+      "modelCode": "DV-CAF-ZURI",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/zuri.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Vertical Slatted Airflow Backrest",
+          "Rich Crimson Red Molded Polymer Shell",
+          "Commercial Grade High-Impact Cafe Frame"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0014",
+      "title": "Fin",
+      "categoryId": "cafe",
+      "price": "₹8,500",
+      "rawPrice": 8500,
+      "modelCode": "DV-CAF-FIN",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/fin.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Smooth Matte Grey Sculpted Polymer Bucket Shell",
+          "Ergonomic Side Arm Rest Contours",
+          "Solid Natural Beechwood Leg Base with Reinforcing Stretchers"
+      ]
+  },
+  {
+    "id": "PRD-CAF-0004",
+    "title": "Bonny",
+    "categoryId": "cafe",
+    "price": "₹5,000",
+    "rawPrice": 5000,
+    "modelCode": "DV-CAF-BONNY",
+    "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 4,
+    "image": "/cafe_series/bonny.jpg",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Sculpted White Polymer Shell",
+      "Solid Beechwood Angled Leg Assembly",
+      "Stain-Resistant Surface Finish"
+    ]
+  },
+  {
+      "id": "PRD-CAF-0015",
+      "title": "Bonny Gold",
+      "categoryId": "cafe",
+      "price": "\u20b99,200",
+      "rawPrice": 9200,
+      "modelCode": "DV-CAF-BONNY-GOLD",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/bonny_gold.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Luxury Upholstered Textured Grey Fabric Shell",
+          "Ergonomic Tub/Bucket Seating Comfort",
+          "Sleek Black Legs with Polished Brass Gold Tip Accents"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0022",
+      "title": "Toxy Woody",
+      "categoryId": "cafe",
+      "price": "₹6,600",
+      "rawPrice": 6600,
+      "modelCode": "DV-CAF-TOXY-WOODY",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/toxy_woody.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Pure White Slatted Airflow Polymer Back Shell",
+          "High Resilience Upholstered Grey Cushion Pad",
+          "Solid Beechwood Tapered Wooden Leg Base"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0023",
+      "title": "Toxy Metal",
+      "categoryId": "cafe",
+      "price": "₹6,600",
+      "rawPrice": 6600,
+      "modelCode": "DV-CAF-TOXY-METAL",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/toxy_metal.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Matte Slate Grey Slatted Polymer Shell",
+          "Dark Charcoal High Resilience Seat Cushion",
+          "4-Star Splayed Architectural Black Metal Swivel Base"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0024",
+      "title": "Toxy Gold",
+      "categoryId": "cafe",
+      "price": "₹6,600",
+      "rawPrice": 6600,
+      "modelCode": "DV-CAF-TOXY-GOLD",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 5,
+      "image": "/cafe_series/toxy_gold.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Sculpted Pure White Slatted Polymer Shell",
+          "Premium Upholstered Grey Seat Cushion",
+          "Matte Black Legs with Polished Brass Gold Tip Accents"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0025",
+      "title": "Lisbon Cush Woody",
+      "categoryId": "cafe",
+      "price": "₹6,300",
+      "rawPrice": 6300,
+      "modelCode": "DV-CAF-LISBON-CUSH-WOODY",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 6,
+      "image": "/cafe_series/lisbon_cush_woody.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Upholstered Mustard Yellow Fabric Inner Cushion Shell",
+          "Ergonomic Curved White Polymer Backrest Frame",
+          "Solid Natural Wooden Tapered Legs"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0026",
+      "title": "Texla",
+      "categoryId": "cafe",
+      "price": "₹6,050",
+      "rawPrice": 6050,
+      "modelCode": "DV-CAF-TEXLA",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 6,
+      "image": "/cafe_series/texla.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Architectural White Vertical Slatted Airflow Backrest",
+          "Soft High Resilience Grey Seat Cushion",
+          "Matching Heavy-Duty White Tapered Legs"
+      ]
+  },
+  {
+      "id": "PRD-CAF-0027",
+      "title": "Lisbon (PP)",
+      "categoryId": "cafe",
+      "price": "₹3,900",
+      "rawPrice": 3900,
+      "modelCode": "DV-CAF-LISBON-PP",
+      "sourcePdf": "CAFE PRICELIST- AUG26.pdf",
+      "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+      "pageNumber": 6,
+      "image": "/cafe_series/lisbon_pp.jpg",
+      "warranty": "5-Year Commercial Warranty",
+      "bifmaCertified": true,
+      "leadTime": "2-3 Weeks",
+      "features": [
+          "Commercial BIFMA Level 3 Certified",
+          "Two-Tone Dual Color Smooth Polymer Shell (White & Slate Grey)",
+          "Contoured Ergonomic Tub/Bucket Seating",
+          "Reinforced Matte Black Commercial Leg Base"
+      ]
   },
   {
     "id": "PRD-0338",

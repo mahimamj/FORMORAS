@@ -198,11 +198,6 @@ export default function Collections({ onOpenQuote }: CollectionsProps) {
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-charcoal/20 via-transparent to-transparent opacity-40 group-hover:opacity-20 transition-opacity" />
                   
-                  {/* Tag */}
-                  <span className="absolute top-4 left-4 text-[10px] uppercase tracking-[0.2em] px-3 py-1.5 rounded-full bg-white/90 backdrop-blur-md text-champagne-dark border border-stone-200 font-semibold shadow-sm">
-                    {product.tag}
-                  </span>
-
                   {/* Quick Action Hover Buttons */}
                   <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-stone-900/30 backdrop-blur-xs">
                     <button

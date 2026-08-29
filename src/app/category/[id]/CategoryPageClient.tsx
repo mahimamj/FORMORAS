@@ -193,15 +193,6 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                           alt={product.title}
                           className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
                         />
-                        <div className="absolute top-3 left-3 bg-white/90 backdrop-blur-md border border-stone-200 px-2.5 py-1 rounded-full text-[10px] font-mono text-champagne-dark font-semibold shadow-sm">
-                          {product.modelCode}
-                        </div>
-                        {product.bifmaCertified && (
-                          <div className="absolute top-3 right-3 bg-emerald-50 backdrop-blur-md border border-emerald-200 text-emerald-700 px-2 py-0.5 rounded-full text-[9px] font-mono flex items-center gap-1 font-semibold shadow-sm">
-                            <ShieldCheck className="w-3 h-3" />
-                            <span>BIFMA</span>
-                          </div>
-                        )}
 
                         {/* 3-View Multi-Angle Side View Gallery Switcher */}
                         {product.images && product.images.length >= 3 ? (
@@ -266,6 +257,9 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                         <h3 className="font-serif text-lg text-charcoal group-hover:text-champagne-dark font-medium transition-colors line-clamp-1">
                           {product.title}
                         </h3>
+                        <div className="text-[10px] font-mono text-stone-500 uppercase tracking-wider mb-2 font-medium">
+                          Code: {product.modelCode}
+                        </div>
 
                         <div className="flex items-baseline space-x-2 mt-1">
                           <span className="font-serif text-xl text-champagne-dark font-semibold">
