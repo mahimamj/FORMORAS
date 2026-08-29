@@ -57,7 +57,11 @@ export default function Home() {
       <PromotionalBanners onOpenQuote={handleOpenQuote} />
 
       {/* Interactive 11 Category Catalogue Showcase (Extracted from PDFs) */}
-      <CategoryShowcase onOpenQuote={handleOpenQuote} />
+      <CategoryShowcase
+        onOpenQuote={handleOpenQuote}
+        selectedCategoryId={activeCategoryFilter}
+        onSelectCategory={handleSelectCategory}
+      />
 
       {/* About & Heritage */}
       <About />

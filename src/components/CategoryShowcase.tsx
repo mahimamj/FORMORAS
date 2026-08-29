@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Briefcase, Crown, Monitor, Coffee, Utensils, Sliders, 
@@ -12,6 +12,8 @@ import { PRODUCTS_DATA, ProductItem } from '../data/productsData';
 
 interface CategoryShowcaseProps {
   onOpenQuote: (productName?: string) => void;
+  selectedCategoryId?: string;
+  onSelectCategory?: (categoryId: string) => void;
 }
 
 const CATEGORY_ICONS: Record<string, any> = {
@@ -28,13 +30,20 @@ const CATEGORY_ICONS: Record<string, any> = {
   tables: Table,
 };
 
-export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps) {
-  const [selectedCategoryId, setSelectedCategoryId] = useState<string>('prince');
+export default function CategoryShowcase({ onOpenQuote, selectedCategoryId: externalCategoryId, onSelectCategory }: CategoryShowcaseProps) {
+  const [selectedCategoryId, setSelectedCategoryId] = useState<string>(externalCategoryId || 'prince');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedProductModal, setSelectedProductModal] = useState<ProductItem | null>(null);
   const [activeImageMap, setActiveImageMap] = useState<Record<string, string>>({});
 
   const [visibleCount, setVisibleCount] = useState<number>(36);
+
+  useEffect(() => {
+    if (externalCategoryId) {
+      setSelectedCategoryId(externalCategoryId);
+      setVisibleCount(36);
+    }
+  }, [externalCategoryId]);
 
   const activeCategory = FURNITURE_CATEGORIES.find((c) => c.id === selectedCategoryId) || FURNITURE_CATEGORIES[0];
   const categoryIcon = CATEGORY_ICONS[activeCategory.id] || Briefcase;
@@ -84,6 +93,9 @@ export default function CategoryShowcase({ onOpenQuote }: CategoryShowcaseProps)
                   onClick={() => {
                     setSelectedCategoryId(cat.id);
                     setSearchQuery('');
+                    if (onSelectCategory) {
+                      onSelectCategory(cat.id);
+                    }
                   }}
                   className={`flex items-center space-x-2.5 px-5 py-3 rounded-luxury text-xs font-medium transition-all duration-300 ${
                     isActive

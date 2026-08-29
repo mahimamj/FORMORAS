@@ -1,7 +1,8 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Sparkles, Tag, ArrowRight } from 'lucide-react';
+import { Sparkles, ArrowRight } from 'lucide-react';
+import { normalizeCategoryId } from '@/utils/categoryUtils';
 
 interface CategoryBubble {
   id: string;
@@ -21,7 +22,7 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
   {
     id: 'sofa',
     name: 'Sofas & Couches',
-    image: '/extracted_product_images/sofa_001.jpg',
+    image: '/extracted_product_images/sofa_002.jpg',
   },
   {
     id: 'prince',
@@ -46,7 +47,7 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
   {
     id: 'dining',
     name: 'Dining Sets',
-    image: '/extracted_dining_products/DIN_001_SNOW_composite.png',
+    image: '/extracted_dining_products/DIN_001_DINING_CHAIR_1_DINING_CHAIR_composite.png',
   },
   {
     id: 'highcounter',
@@ -71,7 +72,7 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
   {
     id: 'cafe',
     name: 'Cafe & Bistro',
-    image: '/cafe_series/MELODY_PP.png',
+    image: '/cafe_series/bistro_wo_arms.jpg',
   },
   {
     id: 'storage',
@@ -89,8 +90,8 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
     image: '/extracted_product_images/EXT-0002.jpg',
   },
   {
-    id: 'exclusive',
-    name: 'Exclusive Series',
+    id: 'executive',
+    name: 'Executive Series',
     image: '/extracted_product_images/EXT-0001.jpg',
   },
 ];
@@ -101,8 +102,9 @@ interface ShopByCategoryProps {
 
 export default function ShopByCategory({ onSelectCategory }: ShopByCategoryProps) {
   const handleClick = (categoryId: string) => {
+    const normalized = normalizeCategoryId(categoryId);
     if (onSelectCategory) {
-      onSelectCategory(categoryId);
+      onSelectCategory(normalized);
     }
     const elem = document.getElementById('categories-catalog');
     if (elem) {
@@ -137,7 +139,7 @@ export default function ShopByCategory({ onSelectCategory }: ShopByCategoryProps
         <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 gap-x-4 gap-y-8 items-start justify-items-center">
           {CATEGORY_BUBBLES.map((cat, idx) => (
             <motion.div
-              key={cat.id}
+              key={idx}
               initial={{ opacity: 0, y: 15 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
