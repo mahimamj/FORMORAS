@@ -103,13 +103,7 @@ interface ShopByCategoryProps {
 export default function ShopByCategory({ onSelectCategory }: ShopByCategoryProps) {
   const handleClick = (categoryId: string) => {
     const normalized = normalizeCategoryId(categoryId);
-    if (onSelectCategory) {
-      onSelectCategory(normalized);
-    }
-    const elem = document.getElementById('categories-catalog');
-    if (elem) {
-      elem.scrollIntoView({ behavior: 'smooth' });
-    }
+    window.location.href = `/category/${normalized}`;
   };
 
   return (

@@ -6,6 +6,7 @@ import {
   Menu, X, Search, Store, User, Heart, ShoppingBag, 
   ArrowUpRight, Download, ChevronRight, Sparkles 
 } from 'lucide-react';
+import { normalizeCategoryId } from '@/utils/categoryUtils';
 
 interface NavbarProps {
   onOpenCatalogue: () => void;
@@ -51,13 +52,8 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote, onSelectCategory 
   ];
 
   const handleCategoryClick = (catId: string) => {
-    if (onSelectCategory) {
-      onSelectCategory(catId);
-    }
-    const elem = document.getElementById('categories-catalog');
-    if (elem) {
-      elem.scrollIntoView({ behavior: 'smooth' });
-    }
+    const normalized = normalizeCategoryId(catId);
+    window.location.href = `/category/${normalized}`;
   };
 
   const handleSearchSubmit = (e: React.FormEvent) => {
