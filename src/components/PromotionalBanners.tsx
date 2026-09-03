@@ -15,8 +15,11 @@ export default function PromotionalBanners({ onOpenQuote }: PromotionalBannersPr
       title: 'Up to 40% Off Bulk Contracts',
       subtitle: 'Applicable on orders above 50+ units for corporate & hospitality fitouts.',
       icon: Percent,
-      bgColor: 'bg-amber-950 text-cream',
-      btnColor: 'bg-amber-400 text-charcoal hover:bg-amber-300',
+      bgColor: 'bg-gradient-to-br from-[#FFFDF9] via-[#FAF4ED] to-[#F3EBE0] text-stone-900 border border-amber-200/90',
+      badgeStyle: 'bg-amber-100/90 text-[#8C6D3F] border border-amber-300',
+      textColor: 'text-stone-600',
+      btnColor: 'bg-gradient-to-r from-[#B89768] to-[#9E7C4F] hover:from-[#A6824F] hover:to-[#8C6D3F] text-white',
+      iconColor: 'text-[#B89768]/15',
     },
     {
       id: 'warranty',
@@ -24,8 +27,11 @@ export default function PromotionalBanners({ onOpenQuote }: PromotionalBannersPr
       title: 'BIFMA Certified Assurance',
       subtitle: 'Commercial grade structural resilience tested for 100,000+ continuous cycles.',
       icon: ShieldCheck,
-      bgColor: 'bg-stone-900 text-cream',
-      btnColor: 'bg-white text-charcoal hover:bg-stone-100',
+      bgColor: 'bg-gradient-to-br from-white to-[#F7F4EE] text-stone-900 border border-stone-200/90',
+      badgeStyle: 'bg-stone-100 text-stone-700 border border-stone-300',
+      textColor: 'text-stone-600',
+      btnColor: 'bg-charcoal hover:bg-stone-800 text-cream',
+      iconColor: 'text-stone-400/15',
     },
     {
       id: 'express',
@@ -33,8 +39,11 @@ export default function PromotionalBanners({ onOpenQuote }: PromotionalBannersPr
       title: '3-Week Pan-India Shipping',
       subtitle: 'Direct factory container logistics with zero-defect protective crating.',
       icon: Truck,
-      bgColor: 'bg-[#3b2d28] text-cream',
-      btnColor: 'bg-amber-500 text-white hover:bg-amber-600',
+      bgColor: 'bg-gradient-to-br from-[#FAF5EF] to-[#EFE5D9] text-stone-900 border border-amber-200/80',
+      badgeStyle: 'bg-amber-100/90 text-amber-950 border border-amber-300',
+      textColor: 'text-stone-600',
+      btnColor: 'bg-[#8C6D3F] hover:bg-[#785C33] text-white',
+      iconColor: 'text-[#8C6D3F]/15',
     },
   ];
 
@@ -59,16 +68,16 @@ export default function PromotionalBanners({ onOpenQuote }: PromotionalBannersPr
               >
                 <div className="space-y-4 relative z-10">
                   <div className="flex items-center space-x-2">
-                    <span className="px-3 py-1 rounded-full text-[10px] font-mono tracking-widest uppercase bg-white/15 backdrop-blur-md text-amber-200 border border-white/20 font-semibold">
+                    <span className={`px-3 py-1 rounded-full text-[10px] font-mono tracking-widest uppercase font-semibold ${offer.badgeStyle}`}>
                       {offer.badge}
                     </span>
                   </div>
 
-                  <h3 className="font-serif text-xl sm:text-2xl font-medium leading-snug">
+                  <h3 className="font-serif text-xl sm:text-2xl font-medium leading-snug text-stone-900">
                     {offer.title}
                   </h3>
 
-                  <p className="text-xs sm:text-sm text-stone-300 font-sans leading-relaxed">
+                  <p className={`text-xs sm:text-sm font-sans leading-relaxed ${offer.textColor}`}>
                     {offer.subtitle}
                   </p>
                 </div>
@@ -84,7 +93,7 @@ export default function PromotionalBanners({ onOpenQuote }: PromotionalBannersPr
                 </div>
 
                 {/* Decorative Icon */}
-                <Icon className="absolute -bottom-4 -right-4 w-32 h-32 text-white/5 pointer-events-none group-hover:scale-110 transition-transform duration-500" />
+                <Icon className={`absolute -bottom-4 -right-4 w-32 h-32 ${offer.iconColor} pointer-events-none group-hover:scale-110 transition-transform duration-500`} />
               </motion.div>
             );
           })}

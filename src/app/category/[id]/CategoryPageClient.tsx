@@ -261,16 +261,13 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                           Code: {product.modelCode}
                         </div>
 
-                        <div className="flex items-baseline space-x-2 mt-1">
-                          <span className="font-serif text-xl text-champagne-dark font-semibold">
-                            {product.price}
-                          </span>
-                          {product.price !== 'Price on Request' && !product.price.toLowerCase().includes('request') && (
-                            <span className="text-[10px] text-stone-400 font-mono">
-                              (Ex-Warehouse)
-                            </span>
-                          )}
-                        </div>
+                        <button
+                          onClick={() => handleOpenQuote(`${product.title} (${product.modelCode})`)}
+                          className="mt-1 inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-amber-50 hover:bg-amber-100 border border-amber-200 text-amber-900 text-xs font-mono font-semibold transition-all shadow-xs"
+                        >
+                          <Sparkles className="w-3 h-3 text-[#B89768]" />
+                          <span>Request Price</span>
+                        </button>
 
                         <div className="mt-3 pt-3 border-t border-stone-200 space-y-1.5 text-[11px] text-stone-600">
                           <div className="flex justify-between">
@@ -294,10 +291,10 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                         <span>Specs</span>
                       </button>
                       <button
-                        onClick={() => handleOpenQuote(`${product.title} (${product.modelCode}) - ${product.price}`)}
+                        onClick={() => handleOpenQuote(`${product.title} (${product.modelCode})`)}
                         className="flex-1 bg-charcoal hover:bg-stone-800 text-cream text-[11px] font-semibold uppercase tracking-wider py-2 rounded-luxury transition-all flex items-center justify-center space-x-1 shadow-sm"
                       >
-                        <span>Quote</span>
+                        <span>Request Price</span>
                         <ArrowRight className="w-3.5 h-3.5 text-champagne" />
                       </button>
                     </div>
@@ -385,9 +382,17 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                   <h3 className="font-serif text-2xl text-charcoal font-medium">
                     {selectedProductModal.title}
                   </h3>
-                  <div className="font-serif text-2xl text-champagne-dark font-semibold mt-1">
-                    {selectedProductModal.price}
-                  </div>
+                  <button
+                    onClick={() => {
+                      const prodName = `${selectedProductModal.title} (${selectedProductModal.modelCode})`;
+                      setSelectedProductModal(null);
+                      handleOpenQuote(prodName);
+                    }}
+                    className="mt-2 inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-amber-100 hover:bg-amber-200 border border-amber-300 text-amber-900 text-xs font-mono font-semibold transition-all shadow-xs"
+                  >
+                    <Sparkles className="w-3 h-3 text-amber-700" />
+                    <span>Request Price Quote</span>
+                  </button>
                 </div>
                 <button
                   onClick={() => setSelectedProductModal(null)}
@@ -417,13 +422,13 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
               <div className="flex items-center space-x-3 pt-2">
                 <button
                   onClick={() => {
-                    const prodName = `${selectedProductModal.title} (${selectedProductModal.modelCode}) - ${selectedProductModal.price}`;
+                    const prodName = `${selectedProductModal.title} (${selectedProductModal.modelCode})`;
                     setSelectedProductModal(null);
                     handleOpenQuote(prodName);
                   }}
                   className="w-full bg-charcoal hover:bg-stone-800 text-cream text-xs font-semibold uppercase tracking-wider py-3.5 rounded-luxury transition-all text-center shadow-luxury-soft"
                 >
-                  Request B2B Quotation for {selectedProductModal.modelCode}
+                  Request B2B Price Quotation for {selectedProductModal.modelCode}
                 </button>
               </div>
             </motion.div>

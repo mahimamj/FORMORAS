@@ -18,6 +18,11 @@ const inter = Inter({
   display: 'swap',
 });
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+};
+
 export const metadata: Metadata = {
   title: 'FORMORAS Furniture Interiors | Luxury B2B Furniture & Contract Interiors',
   description:
@@ -33,7 +38,6 @@ export const metadata: Metadata = {
     'custom hotel furniture',
   ],
   authors: [{ name: 'FORMORAS Furniture Interiors' }],
-  viewport: 'width=device-width, initial-scale=1',
 };
 
 export default function RootLayout({

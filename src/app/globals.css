@@ -50,7 +50,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #181716;
+  background: #FAF6EF;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -72,11 +72,11 @@ body {
 }
 
 .glass-panel-dark {
-  background: rgba(18, 17, 16, 0.85);
+  background: rgba(255, 253, 249, 0.95);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  border: 1px solid rgba(212, 175, 55, 0.15);
-  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(184, 151, 104, 0.3);
+  box-shadow: 0 20px 40px -15px rgba(184, 151, 104, 0.12);
 }
 
 .glass-panel-light {

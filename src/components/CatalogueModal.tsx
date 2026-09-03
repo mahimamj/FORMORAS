@@ -56,7 +56,7 @@ export default function CatalogueModal({ isOpen, onClose }: CatalogueModalProps)
               </p>
               <button
                 onClick={onClose}
-                className="bg-charcoal text-cream text-xs uppercase tracking-[0.2em] px-8 py-3 rounded-luxury font-semibold mt-4 shadow-luxury-soft"
+                className="bg-gradient-to-r from-[#B89768] to-[#9E7C4F] hover:from-[#A6824F] hover:to-[#8C6D3F] text-white text-xs uppercase tracking-[0.2em] px-8 py-3 rounded-luxury font-semibold mt-4 shadow-luxury-soft"
               >
                 Close & Return
               </button>
@@ -116,9 +116,9 @@ export default function CatalogueModal({ isOpen, onClose }: CatalogueModalProps)
 
               <button
                 type="submit"
-                className="w-full flex items-center justify-center space-x-2 bg-charcoal hover:bg-stone-800 text-cream font-semibold text-xs uppercase tracking-[0.2em] py-3.5 rounded-luxury transition-colors shadow-luxury-soft"
+                className="w-full flex items-center justify-center space-x-2 bg-gradient-to-r from-[#B89768] to-[#9E7C4F] hover:from-[#A6824F] hover:to-[#8C6D3F] text-white font-semibold text-xs uppercase tracking-[0.2em] py-3.5 rounded-luxury transition-colors shadow-luxury-soft"
               >
-                <Download className="w-4 h-4 text-champagne" />
+                <Download className="w-4 h-4 text-white" />
                 <span>Receive Master Catalogue</span>
               </button>
             </form>

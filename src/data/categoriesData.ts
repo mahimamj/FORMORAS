@@ -36,37 +36,6 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ]
   },
   {
-    "id": "workstation",
-    "title": "Workstation Series",
-    "subtitle": "Breathable Ergonomic Mesh Task Chairs",
-    "tagline": "All-Day Comfort for High-Performance Teams",
-    "description": "Modern high-performance task chairs with breathable Korean mesh backrests, active lumbar support, dynamic seat slide depth adjustment, and fluid mobility for open-plan corporate offices.",
-    "badge": "Corporate Choice",
-    "pdfCatalog": "WORKSTATION PRICELIST- AUG26.pdf",
-    "features": [
-      "High-Tension Breathable Mesh (U.S. / Korean Mesh Standard)",
-      "Dynamic Auto-Fit Lumbar Support System",
-      "Seat Depth Adjustment (Seat Slider) for Custom Thigh Support",
-      "Adjustable Headrest & 3D Ergonomic Armrests",
-      "Noise-Free 60mm Nylon Dual-Wheel Castors"
-    ],
-    "totalPages": 17,
-    "sampleItems": [
-      "W.E.F. 1ST MAY 2026",
-      "NORWAY - 34000/-",
-      "(IMP)",
-      "Glass \uf001lled nylon frame with korean mesh in back and seat",
-      "3D Adjustable armrest.",
-      "Two position lock, zero pressure seat.",
-      "700 mm Nylon base with 60mm castors & class 4 gas lift.",
-      "LIDO : 19450/-",
-      "(IMP)",
-      "Glass \uf001lled nylon back & seat with Korean mesh.",
-      "Fix PP armrest.",
-      "Synchro tilt cable control mechanism with single position lock."
-    ]
-  },
-  {
     "id": "cafe",
     "title": "Cafe & Bistro Series",
     "subtitle": "Contemporary Dining & Cafe Seating Solutions",
@@ -154,37 +123,6 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ]
   },
   {
-    "id": "lounge",
-    "title": "Lounge & Accent Series",
-    "subtitle": "Statement Accent Armchairs & Reception Loungers",
-    "tagline": "Luxury Comfort for Waiting & VIP Spaces",
-    "description": "Iconic accent chairs, wingback armchairs, and tub chairs designed to leave a lasting impression in hotel lobbies, corporate reception foyers, and executive waiting lounges.",
-    "badge": "Luxury Lounge",
-    "pdfCatalog": "LOUNGE  PRICELIST- AUG26.pdf",
-    "features": [
-      "Sculptural Deep-Seated Ergonomic Shells",
-      "Premium Chenille, Boucl\u00e9, Velvet, and Nappa Leatherette Options",
-      "Gold Brushed Stainless Steel & Matt Black Metal Leg Frames",
-      "Multi-Density Layered Cushioning for Cloud-Like Seating",
-      "Custom Color Fabric Matching Available"
-    ],
-    "totalPages": 30,
-    "sampleItems": [
-      "W.E.F. 1ST AUGUST 2026",
-      "LOUNGE",
-      "ARMENIA : 44000/-",
-      "SEAT HEIGHT BACK HEIGHT WIDTH",
-      "SPAIN : 52000/-",
-      "SEAT HEIGHT BACK HEIGHT WIDTH",
-      "EMMI : 44000/-",
-      "SEAT HEIGHT BACK HEIGHT WIDTH",
-      "400 mm 980 mm 870 mm",
-      "RAMBO : 38000/-",
-      "LOUNGE",
-      "VORTEX : 48000/-"
-    ]
-  },
-  {
     "id": "recliner",
     "title": "Recliner Series",
     "subtitle": "Motorized & Manual Home Theater & VIP Recliners",
@@ -263,6 +201,30 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ]
   },
   {
+    "id": "lounge",
+    "title": "Lounge & Accent Series",
+    "subtitle": "Statement Accent Armchairs & Reception Loungers",
+    "tagline": "Luxury Comfort for Waiting & VIP Spaces",
+    "description": "Iconic accent chairs, wingback armchairs, and tub chairs designed to leave a lasting impression in hotel lobbies, corporate reception foyers, and executive waiting lounges.",
+    "badge": "Luxury Lounge",
+    "pdfCatalog": "LOUNGE PRICELIST- AUG26.pdf",
+    "features": [
+      "Sculptural Deep-Seated Ergonomic Shells",
+      "Premium Chenille, Boucl\u00e9, Velvet, and Nappa Leatherette Options",
+      "Gold Brushed Stainless Steel & Matt Black Metal Leg Frames",
+      "Multi-Density Layered Cushioning for Cloud-Like Seating",
+      "Custom Color Fabric Matching Available"
+    ],
+    "totalPages": 30,
+    "sampleItems": [
+      "ARMENIA : 44000/-",
+      "SPAIN : 52000/-",
+      "EMMI : 44000/-",
+      "RAMBO : 38000/-",
+      "VORTEX : 48000/-"
+    ]
+  },
+  {
     "id": "tables",
     "title": "Table & Stand Series",
     "subtitle": "Coffee Tables, Side Tables & Presentation Stands",
@@ -279,49 +241,9 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ],
     "totalPages": 28,
     "sampleItems": [
-      "W.E.F. 1ST AUGUST 2026",
-      "CENTRE TABLE",
-      "THE LEAF XM 018",
-      "1920 X 390",
-      "120000/-",
-      "BN-40 MINI LEAF",
-      "50000/- 75000/-",
-      "CENTRE TABLE",
-      "WT 300 FD 402",
-      "900*900*300* | 450*400 950*340 | 500*440",
-      "104000/- 70000/-",
-      "BHT 103 FYX 402"
-    ]
-  },
-  {
-    "id": "executive",
-    "title": "Executive Series",
-    "subtitle": "High-Back & Mid-Back Ergonomic Executive Seating",
-    "tagline": "Prestige, Comfort & Architectural Ergonomics",
-    "description": "Engineered for C-suite suites, boardrooms, and senior executive offices. Features multi-position tilt locking, genuine leather / high-grade leatherette, responsive lumbar support, and polished chrome / aluminum die-cast bases.",
-    "badge": "Bestseller Category",
-    "pdfCatalog": "EXECUTIVE PRICELIST-AUG26.pdf",
-    "features": [
-      "Synchronized Multi-Tilt Mechanism with Anti-Shock Return",
-      "3D/4D Adjustable Armrests with PU Pads",
-      "High-Density Molded Foam (50+ kg/m\u00b3) with 10-Year Resilience",
-      "BIFMA Class-4 Heavy Duty Pneumatic Gas Lift",
-      "Polished Aluminum Die-Cast & Nylon Reinforced Star Bases"
-    ],
-    "totalPages": 36,
-    "sampleItems": [
-      "W.E.F. 1ST JULY 2026",
-      "EXECUTIVE SERIES",
-      "FREEDOM (IMP) - 130000/-",
-      "\u2022 Black frame chrome aluminium diecast with korean mesh.",
-      "\u2022 Black frame chrome alloy 5D armrest.",
-      "\u2022 50mm Adjustable Lumbar Support.",
-      "\u2022 Wire control with multi position knee tilt syncro along with seat slider.",
-      "\u2022 700mm Aluminium Die cast base with 68mm Nylon Castor.",
-      "FALCON ELITE GREY HB : 81000/- | MB : 79000/-",
-      "(IMP)",
-      "FALCON ELITE BLACK HB : 76000/- | MB : 74000/-",
-      "(IMP)"
+      "CENTRE TABLE THE LEAF : 120000/-",
+      "BN-40 MINI LEAF : 50000/-",
+      "WT 300 FD 402 : 104000/-"
     ]
   }
 ];

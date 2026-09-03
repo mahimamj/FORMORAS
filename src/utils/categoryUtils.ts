@@ -1,11 +1,11 @@
 export function normalizeCategoryId(id: string): string {
   const map: Record<string, string> = {
     'new-arrivals': 'prince',
-    'deal-zone': 'executive',
-    'storage': 'tables',
-    'stands': 'tables',
-    'bifma': 'executive',
-    'exclusive': 'executive',
+    'deal-zone': 'prince',
+    'storage': 'sofa',
+    'stands': 'dining',
+    'bifma': 'prince',
+    'exclusive': 'prince',
   };
   return map[id] || id;
 }

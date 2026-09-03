@@ -20,6 +20,16 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
     specialText: 'NEW',
   },
   {
+    id: 'lounge',
+    name: 'Lounge Chairs',
+    image: '/lounge/lounge_001.webp',
+  },
+  {
+    id: 'tables',
+    name: 'Coffee & Side Tables',
+    image: '/tables/table_001.webp',
+  },
+  {
     id: 'sofa',
     name: 'Sofas & Couches',
     image: '/extracted_product_images/sofa_002.jpg',
@@ -30,21 +40,6 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
     image: '/extracted_product_images/EXT-0040.jpg',
   },
   {
-    id: 'tables',
-    name: 'Coffee & Side Tables',
-    image: '/extracted_product_images/EXT-0338.jpg',
-  },
-  {
-    id: 'workstation',
-    name: 'Workstation Chairs',
-    image: '/extracted_product_images/workstation_001.jpg',
-  },
-  {
-    id: 'executive',
-    name: 'Executive Chairs',
-    image: '/extracted_product_images/EXT-0001.jpg',
-  },
-  {
     id: 'dining',
     name: 'Dining Sets',
     image: '/extracted_dining_products/DIN_001_DINING_CHAIR_1_DINING_CHAIR_composite.png',
@@ -53,11 +48,6 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
     id: 'highcounter',
     name: 'Bar & Counter Stools',
     image: '/highcounter/107099b4-8775-41ef-ba18-ea1ccd7287c4.png',
-  },
-  {
-    id: 'lounge',
-    name: 'Lounge Chairs',
-    image: '/extracted_product_images/EXT-0120.jpg',
   },
   {
     id: 'recliner',
@@ -73,26 +63,6 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
     id: 'cafe',
     name: 'Cafe & Bistro',
     image: '/cafe_series/bistro_wo_arms.jpg',
-  },
-  {
-    id: 'storage',
-    name: 'Storage & Credenzas',
-    image: '/extracted_product_images/EXT-0300.jpg',
-  },
-  {
-    id: 'stands',
-    name: 'Podiums & Stands',
-    image: '/extracted_product_images/EXT-0350.jpg',
-  },
-  {
-    id: 'bifma',
-    name: 'BIFMA Certified',
-    image: '/extracted_product_images/EXT-0002.jpg',
-  },
-  {
-    id: 'executive',
-    name: 'Executive Series',
-    image: '/extracted_product_images/EXT-0001.jpg',
   },
 ];
 
@@ -142,10 +112,10 @@ export default function ShopByCategory({ onSelectCategory }: ShopByCategoryProps
               className="flex flex-col items-center text-center group cursor-pointer w-full"
             >
               {cat.isSpecial ? (
-                <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full bg-[#4a2e23] text-white flex flex-col items-center justify-center p-3 shadow-md group-hover:scale-105 transition-transform duration-300 relative border-2 border-amber-700/30">
-                  <div className="border-2 border-dashed border-amber-300/40 rounded-full p-2.5 flex flex-col items-center justify-center">
-                    <Sparkles className="w-5 h-5 text-amber-300 mb-0.5" />
-                    <span className="text-xs font-bold font-mono tracking-widest text-amber-200">
+                <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full bg-gradient-to-br from-[#B89768] via-[#A6824F] to-[#8C6D3F] text-white flex flex-col items-center justify-center p-3 shadow-md group-hover:scale-105 transition-transform duration-300 relative border-2 border-amber-300/40">
+                  <div className="border-2 border-dashed border-white/50 rounded-full p-2.5 flex flex-col items-center justify-center">
+                    <Sparkles className="w-5 h-5 text-amber-200 mb-0.5" />
+                    <span className="text-xs font-bold font-mono tracking-widest text-white">
                       {cat.specialText}
                     </span>
                   </div>

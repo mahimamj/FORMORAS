@@ -5,7 +5,6 @@ import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
 import ShopByCategory from '@/components/ShopByCategory';
 import PromotionalBanners from '@/components/PromotionalBanners';
-import InteractiveFeatureShowcase from '@/components/InteractiveFeatureShowcase';
 import About from '@/components/About';
 import Collections from '@/components/Collections';
 import CategoryShowcase from '@/components/CategoryShowcase';
@@ -56,12 +55,6 @@ export default function Home() {
 
       {/* Discounts and Offers Row */}
       <PromotionalBanners onOpenQuote={handleOpenQuote} />
-
-      {/* Interactive B2B Contract Features, Engineering Matrix & Fitout Estimator */}
-      <InteractiveFeatureShowcase
-        onOpenQuote={handleOpenQuote}
-        onOpenCatalogue={() => setIsCatalogueOpen(true)}
-      />
 
       {/* Interactive 11 Category Catalogue Showcase */}
       <CategoryShowcase

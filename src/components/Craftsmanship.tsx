@@ -255,27 +255,27 @@ export default function Craftsmanship() {
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="mt-20 bg-charcoal text-cream p-8 md:p-12 rounded-luxury-lg relative overflow-hidden border border-stone-800 shadow-luxury"
+          className="mt-20 bg-gradient-to-r from-[#FFFDF9] via-[#FAF6EF] to-[#F5EFE6] text-stone-900 p-8 md:p-12 rounded-luxury-lg relative overflow-hidden border border-amber-200/90 shadow-luxury-soft"
         >
-          <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-champagne-shimmer opacity-10 pointer-events-none" />
+          <div className="absolute right-0 top-0 bottom-0 w-1/3 bg-champagne-shimmer opacity-20 pointer-events-none" />
 
           <div className="relative z-10 flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="space-y-2 text-center md:text-left">
-              <div className="flex items-center justify-center md:justify-start space-x-2 text-champagne text-xs uppercase tracking-[0.2em] font-mono font-semibold">
-                <CheckCircle2 className="w-4 h-4 text-champagne" />
+              <div className="flex items-center justify-center md:justify-start space-x-2 text-champagne-dark text-xs uppercase tracking-[0.2em] font-mono font-semibold">
+                <CheckCircle2 className="w-4 h-4 text-champagne-dark" />
                 <span>Zero-Defect Contract Guarantee</span>
               </div>
-              <h3 className="font-serif text-2xl md:text-3xl text-white font-normal">
+              <h3 className="font-serif text-2xl md:text-3xl text-stone-900 font-normal">
                 100% Quality Inspected & Crated Prior to Export
               </h3>
-              <p className="text-stone-400 text-xs md:text-sm font-light max-w-xl">
+              <p className="text-stone-600 text-xs md:text-sm font-normal max-w-xl">
                 Every unit undergoes full assembly trial fitting, 5000K daylight color inspection, and humidity-sealed crating before dispatch.
               </p>
             </div>
 
             <a
               href="#quote"
-              className="whitespace-nowrap bg-champagne hover:bg-champagne-gold text-charcoal text-xs uppercase tracking-[0.2em] px-7 py-4 rounded-luxury font-semibold transition-all duration-300 shadow-luxury-soft hover:shadow-luxury-glow"
+              className="whitespace-nowrap bg-gradient-to-r from-[#B89768] to-[#9E7C4F] hover:from-[#A6824F] hover:to-[#8C6D3F] text-white text-xs uppercase tracking-[0.2em] px-7 py-4 rounded-luxury font-semibold transition-all duration-300 shadow-md"
             >
               Request Quality Protocols
             </a>
