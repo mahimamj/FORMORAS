@@ -34,9 +34,8 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote, onSelectCategory 
   const topLinks = [
     { name: 'Catalog & Series', href: '#categories-catalog' },
     { name: 'Contract Heritage', href: '#about' },
-    { name: 'Materials & Swatches', href: '#materials' },
-    { name: 'Craftsmanship Journey', href: '#craftsmanship' },
-    { name: 'Experience Centers', href: '#projects' },
+    { name: 'Collections', href: '#collections' },
+    { name: 'FAQ & Inquiries', href: '#contact' },
   ];
 
   const categoryNavItems = [

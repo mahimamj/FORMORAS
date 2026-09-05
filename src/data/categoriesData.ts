@@ -36,6 +36,34 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ]
   },
   {
+    "id": "executive",
+    "title": "Executive Series",
+    "subtitle": "High-Performance Ergonomic & Leather Executive Chairs",
+    "tagline": "Commanding Presence & Ergonomic Mastery",
+    "description": "Premium executive office chairs featuring synchronized multi-lock tilt mechanisms, Korean high-tensile mesh, top-grain leatherette, die-cast aluminum bases, and class-4 heavy-duty pneumatic lifts designed for executive boardrooms and modern workplaces.",
+    "badge": "Executive Collection",
+    "pdfCatalog": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "totalPages": 36,
+    "features": [
+      "Korean High-Tensile Mesh & Top-Grain Leather Upholstery",
+      "Synchro-Tilt & Knee-Tilt Multi-Position Lock Mechanism",
+      "Die-Cast Aluminum & Glass-Filled Nylon Structural Base",
+      "Adjustable 3D/4D Armrests & Dynamic Integrated Lumbar Support",
+      "BIFMA Level 3 Certified Class-4 Heavy-Duty Hydraulic Lift"
+    ],
+    "sampleItems": [
+      "FREEDOM",
+      "FALCON ELITE",
+      "NORWAY HB (LIGHT GREY)",
+      "BASSEL WHITE HB",
+      "ATTITUDE",
+      "OYSTER",
+      "BENTLEY",
+      "WINSTER",
+      "MAGNET"
+    ]
+  },
+  {
     "id": "cafe",
     "title": "Cafe & Bistro Series",
     "subtitle": "Contemporary Dining & Cafe Seating Solutions",

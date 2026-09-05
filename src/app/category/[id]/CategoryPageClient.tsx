@@ -2,9 +2,9 @@
 
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { 
-  FileText, Download, CheckCircle2, ShieldCheck, 
-  ArrowRight, Search, Filter, Eye, ChevronRight, Sparkles, Home 
+import {
+  FileText, Download, CheckCircle2, ShieldCheck,
+  ArrowRight, Search, Filter, Eye, ChevronRight, Sparkles, Home
 } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -189,68 +189,10 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                     <div className="space-y-3">
                       <div className="relative overflow-hidden rounded-lg bg-stone-50/80 p-2 border border-stone-100 aspect-square">
                         <img
-                          src={activeImageMap[product.id] || product.image}
+                          src={product.image}
                           alt={product.title}
                           className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
                         />
-
-                        {/* 3-View Multi-Angle Side View Gallery Switcher */}
-                        {product.images && product.images.length >= 3 ? (
-                          <div className="absolute bottom-2 left-1/2 -translate-x-1/2 bg-white/95 backdrop-blur-md border border-stone-300 rounded-full p-0.5 flex space-x-1 shadow-md z-10">
-                            {['Perspective', 'Front', 'Side'].map((label, idx) => {
-                              const imgPath = product.images![idx] || product.image;
-                              const isActive = (activeImageMap[product.id] || product.image) === imgPath;
-                              return (
-                                <button
-                                  key={idx}
-                                  type="button"
-                                  onClick={(e) => {
-                                    e.stopPropagation();
-                                    setActiveImageMap(prev => ({ ...prev, [product.id]: imgPath }));
-                                  }}
-                                  className={`px-2 py-0.5 text-[9px] font-mono rounded-full transition-colors ${
-                                    isActive
-                                      ? 'bg-charcoal text-cream font-bold shadow-xs'
-                                      : 'text-stone-600 hover:text-charcoal'
-                                  }`}
-                                >
-                                  {label}
-                                </button>
-                              );
-                            })}
-                          </div>
-                        ) : product.backImage ? (
-                          <div className="absolute bottom-2 left-1/2 -translate-x-1/2 bg-white/95 backdrop-blur-md border border-stone-300 rounded-full p-0.5 flex space-x-1 shadow-md z-10">
-                            <button
-                              type="button"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                setActiveImageMap(prev => ({ ...prev, [product.id]: product.image }));
-                              }}
-                              className={`px-2 py-0.5 text-[9px] font-mono rounded-full transition-colors ${
-                                (activeImageMap[product.id] || product.image) === product.image
-                                  ? 'bg-charcoal text-cream font-bold'
-                                  : 'text-stone-600 hover:text-charcoal'
-                              }`}
-                            >
-                              Front
-                            </button>
-                            <button
-                              type="button"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                setActiveImageMap(prev => ({ ...prev, [product.id]: product.backImage! }));
-                              }}
-                              className={`px-2 py-0.5 text-[9px] font-mono rounded-full transition-colors ${
-                                activeImageMap[product.id] === product.backImage
-                                  ? 'bg-charcoal text-cream font-bold'
-                                  : 'text-stone-600 hover:text-charcoal'
-                              }`}
-                            >
-                              Back
-                            </button>
-                          </div>
-                        ) : null}
                       </div>
 
                       <div>
@@ -400,6 +342,12 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                 >
                   ✕
                 </button>
+              </div>
+
+              <div className="bg-white p-4 rounded-luxury border border-stone-200 flex justify-center items-center">
+                <div className="w-64 h-64 bg-stone-50 rounded-lg p-3 flex items-center justify-center border border-stone-100">
+                  <img src={selectedProductModal.image} alt={selectedProductModal.title} className="max-h-full max-w-full object-contain" />
+                </div>
               </div>
 
               {/* Specs Features */}

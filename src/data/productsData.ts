@@ -1,5 +1,7 @@
 // AUTO-GENERATED EXTRACTED PRODUCTS DATA FROM ALL 3 PDF FOLDERS
 export interface ProductItem {
+  subCategory?: string;
+  collectionTag?: string;
   id: string;
   title: string;
   categoryId: string;
@@ -10,7 +12,6 @@ export interface ProductItem {
   sourceFolder?: string;
   pageNumber?: number;
   image: string;
-  backImage?: string;
   images?: string[];
   warranty: string;
   bifmaCertified: boolean;
@@ -3180,12 +3181,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 2,
     "image": "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3208,12 +3205,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 2,
     "image": "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3236,12 +3229,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 2,
     "image": "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3264,12 +3253,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 3,
     "image": "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3292,12 +3277,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 3,
     "image": "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3320,12 +3301,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 3,
     "image": "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3348,12 +3325,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 4,
     "image": "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3376,12 +3349,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 4,
     "image": "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3404,12 +3373,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 4,
     "image": "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3432,12 +3397,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 5,
     "image": "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3460,12 +3421,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 5,
     "image": "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3488,12 +3445,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 5,
     "image": "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3516,12 +3469,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 6,
     "image": "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3544,12 +3493,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 6,
     "image": "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3572,12 +3517,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 6,
     "image": "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3600,12 +3541,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 7,
     "image": "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3628,12 +3565,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 7,
     "image": "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3656,12 +3589,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 7,
     "image": "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3684,12 +3613,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 8,
     "image": "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3712,12 +3637,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 8,
     "image": "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3740,12 +3661,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 8,
     "image": "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3768,12 +3685,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 9,
     "image": "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3796,12 +3709,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 9,
     "image": "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3824,12 +3733,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 9,
     "image": "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3852,12 +3757,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 10,
     "image": "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3880,12 +3781,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 10,
     "image": "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3908,12 +3805,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 10,
     "image": "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3936,12 +3829,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 11,
     "image": "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3964,12 +3853,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 11,
     "image": "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -3992,12 +3877,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 11,
     "image": "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4020,12 +3901,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 12,
     "image": "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4048,12 +3925,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 12,
     "image": "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4076,12 +3949,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 12,
     "image": "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4104,12 +3973,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 13,
     "image": "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4132,12 +3997,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 13,
     "image": "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4160,12 +4021,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 13,
     "image": "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4188,12 +4045,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 14,
     "image": "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4216,12 +4069,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 14,
     "image": "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4244,12 +4093,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 14,
     "image": "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4272,12 +4117,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 15,
     "image": "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4300,12 +4141,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 15,
     "image": "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4328,12 +4165,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 15,
     "image": "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4356,12 +4189,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 16,
     "image": "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4384,12 +4213,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 16,
     "image": "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4412,12 +4237,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 16,
     "image": "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4440,12 +4261,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 17,
     "image": "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4468,12 +4285,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 17,
     "image": "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4496,12 +4309,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 17,
     "image": "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4524,12 +4333,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 18,
     "image": "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4552,12 +4357,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 18,
     "image": "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4580,12 +4381,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 18,
     "image": "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4608,12 +4405,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 19,
     "image": "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4636,12 +4429,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 19,
     "image": "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4664,12 +4453,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 19,
     "image": "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4692,12 +4477,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 20,
     "image": "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4720,12 +4501,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 20,
     "image": "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4748,12 +4525,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 20,
     "image": "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4776,12 +4549,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 21,
     "image": "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4804,12 +4573,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 21,
     "image": "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4832,12 +4597,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 21,
     "image": "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4860,12 +4621,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 22,
     "image": "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4888,12 +4645,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 22,
     "image": "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4916,12 +4669,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 22,
     "image": "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4944,12 +4693,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 23,
     "image": "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -4972,12 +4717,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 23,
     "image": "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5000,12 +4741,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 23,
     "image": "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5028,12 +4765,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 24,
     "image": "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5056,12 +4789,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 24,
     "image": "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5084,12 +4813,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 24,
     "image": "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5112,12 +4837,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 25,
     "image": "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5140,12 +4861,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 25,
     "image": "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5168,12 +4885,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 25,
     "image": "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5196,12 +4909,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 26,
     "image": "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5224,12 +4933,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 26,
     "image": "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5252,12 +4957,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 26,
     "image": "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5280,12 +4981,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 27,
     "image": "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5308,12 +5005,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 27,
     "image": "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5336,12 +5029,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 27,
     "image": "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -5364,12 +5053,8 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
     "pageNumber": 28,
     "image": "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view1.png",
-    "backImage": "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view2.png",
     "images": [
-      "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view1.png",
-      "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view2.png",
-      "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view3.png",
-      "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_composite.png"
+      "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view1.png"
     ],
     "warranty": "5-Year Commercial Warranty",
     "bifmaCertified": true,
@@ -6461,5 +6146,1721 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "badge": "Companion Table",
     "isNew": true,
     "inStock": true
+  },
+  {
+    "id": "PRD-EXE-0001",
+    "title": "Freedom",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0001",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/executive_series/executive_01.webp",
+    "images": [
+      "/executive_series/executive_01.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0002",
+    "title": "Falcon Elite",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0002",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 2,
+    "image": "/executive_series/executive_02.webp",
+    "images": [
+      "/executive_series/executive_02.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0003",
+    "title": "NORWAY HB (LIGHT GREY)",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0003",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 3,
+    "image": "/executive_series/executive_03.webp",
+    "images": [
+      "/executive_series/executive_03.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0004",
+    "title": "NORWAY HB (DARK GREY)",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0004",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 4,
+    "image": "/executive_series/executive_04.webp",
+    "images": [
+      "/executive_series/executive_04.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0005",
+    "title": "Rooster Hb Grey",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0005",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 5,
+    "image": "/executive_series/executive_05.webp",
+    "images": [
+      "/executive_series/executive_05.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0006",
+    "title": "Destiny",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0006",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 6,
+    "image": "/executive_series/executive_06.webp",
+    "images": [
+      "/executive_series/executive_06.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0007",
+    "title": "Bassel White Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0007",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 7,
+    "image": "/executive_series/executive_07.webp",
+    "images": [
+      "/executive_series/executive_07.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0008",
+    "title": "Bassel Black Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0008",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 8,
+    "image": "/executive_series/executive_08.webp",
+    "images": [
+      "/executive_series/executive_08.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0009",
+    "title": "Muse",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0009",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 9,
+    "image": "/executive_series/executive_09.webp",
+    "images": [
+      "/executive_series/executive_09.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0010",
+    "title": "Gamma",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0010",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 10,
+    "image": "/executive_series/executive_10.webp",
+    "images": [
+      "/executive_series/executive_10.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0011",
+    "title": "Galaxy Grey Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0011",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 11,
+    "image": "/executive_series/executive_11.webp",
+    "images": [
+      "/executive_series/executive_11.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0012",
+    "title": "Galaxy Mesh Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0012",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 12,
+    "image": "/executive_series/executive_12.webp",
+    "images": [
+      "/executive_series/executive_12.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0013",
+    "title": "Zoy White",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0013",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 13,
+    "image": "/executive_series/executive_13.webp",
+    "images": [
+      "/executive_series/executive_13.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0014",
+    "title": "Zoy Black",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0014",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 14,
+    "image": "/executive_series/executive_14.webp",
+    "images": [
+      "/executive_series/executive_14.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0015",
+    "title": "Acosta",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0015",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 15,
+    "image": "/executive_series/executive_15.webp",
+    "images": [
+      "/executive_series/executive_15.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0016",
+    "title": "Cross",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0016",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 16,
+    "image": "/executive_series/executive_16.webp",
+    "images": [
+      "/executive_series/executive_16.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0017",
+    "title": "Perth",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0017",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 17,
+    "image": "/executive_series/executive_17.webp",
+    "images": [
+      "/executive_series/executive_17.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0018",
+    "title": "Spark",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0018",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 18,
+    "image": "/executive_series/executive_18.webp",
+    "images": [
+      "/executive_series/executive_18.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0019",
+    "title": "Troy",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0019",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 19,
+    "image": "/executive_series/executive_19.webp",
+    "images": [
+      "/executive_series/executive_19.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0020",
+    "title": "Wisdom Black",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0020",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 20,
+    "image": "/executive_series/executive_20.webp",
+    "images": [
+      "/executive_series/executive_20.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0021",
+    "title": "Winner Grey",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0021",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 21,
+    "image": "/executive_series/executive_21.webp",
+    "images": [
+      "/executive_series/executive_21.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0022",
+    "title": "Winner",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0022",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 22,
+    "image": "/executive_series/executive_22.webp",
+    "images": [
+      "/executive_series/executive_22.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0023",
+    "title": "Ergon Mesh",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0023",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 23,
+    "image": "/executive_series/executive_23.webp",
+    "images": [
+      "/executive_series/executive_23.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0024",
+    "title": "Ergon Cush",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0024",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 24,
+    "image": "/executive_series/executive_24.webp",
+    "images": [
+      "/executive_series/executive_24.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0025",
+    "title": "Glaze Mesh",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0025",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 25,
+    "image": "/executive_series/executive_25.webp",
+    "images": [
+      "/executive_series/executive_25.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0026",
+    "title": "Glaze Cushion",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0026",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 26,
+    "image": "/executive_series/executive_26.webp",
+    "images": [
+      "/executive_series/executive_26.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0027",
+    "title": "Deca",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0027",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 27,
+    "image": "/executive_series/executive_27.webp",
+    "images": [
+      "/executive_series/executive_27.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0028",
+    "title": "Hexa",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0028",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 28,
+    "image": "/executive_series/executive_28.webp",
+    "images": [
+      "/executive_series/executive_28.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0029",
+    "title": "Trio Grey",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0029",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 29,
+    "image": "/executive_series/executive_29.webp",
+    "images": [
+      "/executive_series/executive_29.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0030",
+    "title": "Trio Black",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0030",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 30,
+    "image": "/executive_series/executive_30.webp",
+    "images": [
+      "/executive_series/executive_30.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0031",
+    "title": "Octa",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0031",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 31,
+    "image": "/executive_series/executive_31.webp",
+    "images": [
+      "/executive_series/executive_31.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0032",
+    "title": "Karina Dlx",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0032",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 32,
+    "image": "/executive_series/executive_32.webp",
+    "images": [
+      "/executive_series/executive_32.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0033",
+    "title": "Omega Wht Mesh",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0033",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 33,
+    "image": "/executive_series/executive_33.webp",
+    "images": [
+      "/executive_series/executive_33.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0034",
+    "title": "Omega Blk Mesh",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0034",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 34,
+    "image": "/executive_series/executive_34.webp",
+    "images": [
+      "/executive_series/executive_34.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0035",
+    "title": "Atom Dlx",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0035",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 35,
+    "image": "/executive_series/executive_35.webp",
+    "images": [
+      "/executive_series/executive_35.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0036",
+    "title": "Eon Dlx",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0036",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 36,
+    "image": "/executive_series/executive_36.webp",
+    "images": [
+      "/executive_series/executive_36.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Mesh & Ergonomic Collection",
+    "collectionTag": "Ergonomic & Mesh Collection"
+  },
+  {
+    "id": "PRD-EXE-0037",
+    "title": "Attitude",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0037",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 37,
+    "image": "/executive_series/executive_37.webp",
+    "images": [
+      "/executive_series/executive_37.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0038",
+    "title": "Attitude Hb",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0038",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 38,
+    "image": "/executive_series/executive_38.webp",
+    "images": [
+      "/executive_series/executive_38.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0039",
+    "title": "Geek",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0039",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 39,
+    "image": "/executive_series/executive_39.webp",
+    "images": [
+      "/executive_series/executive_39.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0040",
+    "title": "Oyster",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0040",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 40,
+    "image": "/executive_series/executive_40.webp",
+    "images": [
+      "/executive_series/executive_40.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0041",
+    "title": "Bentley",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0041",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 41,
+    "image": "/executive_series/executive_41.webp",
+    "images": [
+      "/executive_series/executive_41.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0042",
+    "title": "Calvin",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0042",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 42,
+    "image": "/executive_series/executive_42.webp",
+    "images": [
+      "/executive_series/executive_42.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0043",
+    "title": "Elevate",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0043",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 43,
+    "image": "/executive_series/executive_43.webp",
+    "images": [
+      "/executive_series/executive_43.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0044",
+    "title": "Startus",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0044",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 44,
+    "image": "/executive_series/executive_44.webp",
+    "images": [
+      "/executive_series/executive_44.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0045",
+    "title": "Winster",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0045",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 45,
+    "image": "/executive_series/executive_45.webp",
+    "images": [
+      "/executive_series/executive_45.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0046",
+    "title": "Martin",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0046",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 46,
+    "image": "/executive_series/executive_46.webp",
+    "images": [
+      "/executive_series/executive_46.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0047",
+    "title": "Trust",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0047",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 47,
+    "image": "/executive_series/executive_47.webp",
+    "images": [
+      "/executive_series/executive_47.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0048",
+    "title": "Trust Imp",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0048",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 48,
+    "image": "/executive_series/executive_48.webp",
+    "images": [
+      "/executive_series/executive_48.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0049",
+    "title": "Daisy",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0049",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 49,
+    "image": "/executive_series/executive_49.webp",
+    "images": [
+      "/executive_series/executive_49.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0050",
+    "title": "Epson",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0050",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 50,
+    "image": "/executive_series/executive_50.webp",
+    "images": [
+      "/executive_series/executive_50.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0051",
+    "title": "Maverick",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0051",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 51,
+    "image": "/executive_series/executive_51.webp",
+    "images": [
+      "/executive_series/executive_51.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0052",
+    "title": "Stanley",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0052",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 52,
+    "image": "/executive_series/executive_52.webp",
+    "images": [
+      "/executive_series/executive_52.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0053",
+    "title": "Boss",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0053",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 53,
+    "image": "/executive_series/executive_53.webp",
+    "images": [
+      "/executive_series/executive_53.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0054",
+    "title": "Austin",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0054",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 54,
+    "image": "/executive_series/executive_54.webp",
+    "images": [
+      "/executive_series/executive_54.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0055",
+    "title": "Marquis",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0055",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 55,
+    "image": "/executive_series/executive_55.webp",
+    "images": [
+      "/executive_series/executive_55.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0056",
+    "title": "Magnet",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0056",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 56,
+    "image": "/executive_series/executive_56.webp",
+    "images": [
+      "/executive_series/executive_56.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0057",
+    "title": "Heritage",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0057",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 57,
+    "image": "/executive_series/executive_57.webp",
+    "images": [
+      "/executive_series/executive_57.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0058",
+    "title": "Legacy",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0058",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 58,
+    "image": "/executive_series/executive_58.webp",
+    "images": [
+      "/executive_series/executive_58.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0059",
+    "title": "Dacota",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0059",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 59,
+    "image": "/executive_series/executive_59.webp",
+    "images": [
+      "/executive_series/executive_59.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0060",
+    "title": "Oxford",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0060",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 60,
+    "image": "/executive_series/executive_60.webp",
+    "images": [
+      "/executive_series/executive_60.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0061",
+    "title": "Duster Cushion",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0061",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 61,
+    "image": "/executive_series/executive_61.webp",
+    "images": [
+      "/executive_series/executive_61.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0062",
+    "title": "Virgo",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0062",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 62,
+    "image": "/executive_series/executive_62.webp",
+    "images": [
+      "/executive_series/executive_62.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0063",
+    "title": "Venice",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0063",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 63,
+    "image": "/executive_series/executive_63.webp",
+    "images": [
+      "/executive_series/executive_63.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0064",
+    "title": "Lucy",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0064",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 64,
+    "image": "/executive_series/executive_64.webp",
+    "images": [
+      "/executive_series/executive_64.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0065",
+    "title": "Elite Sleek",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0065",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 65,
+    "image": "/executive_series/executive_65.webp",
+    "images": [
+      "/executive_series/executive_65.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-EXE-0066",
+    "title": "Sleek",
+    "categoryId": "executive",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-EXE-0066",
+    "sourcePdf": "EXECUTIVE PRICELIST-AUG26.pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 66,
+    "image": "/executive_series/executive_66.webp",
+    "images": [
+      "/executive_series/executive_66.webp"
+    ],
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Commercial BIFMA Level 3 Certified",
+      "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
+      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
+    ],
+    "subCategory": "Leather Collection",
+    "collectionTag": "Leather & PU Collection"
   }
 ];

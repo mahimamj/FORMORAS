@@ -62,11 +62,11 @@ export default function Testimonials() {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <span className="text-xs uppercase tracking-[0.25em] text-champagne-dark font-mono block mb-3 font-semibold">
-            08 // Client Endorsements
+            Client Reviews & Endorsements
           </span>
           <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl text-charcoal font-normal">
-            Endorsed by Global <br />
-            <span className="italic text-champagne-dark">Design Authorities.</span>
+            What Customers Say <br />
+            <span className="italic text-champagne-dark">About Formoras</span>
           </h2>
         </div>
 
