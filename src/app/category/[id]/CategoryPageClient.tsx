@@ -66,76 +66,12 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
         </div>
       </div>
 
-      {/* Standalone Category Hero Showcase Header */}
-      <section className="py-12 lg:py-16 bg-cream border-b border-stone-200/80">
+      {/* Category Header */}
+      <section className="py-8 lg:py-10 bg-cream border-b border-stone-200/80">
         <div className="max-w-7xl mx-auto px-6 lg:px-12">
-          <div className="bg-white border border-stone-200/90 rounded-luxury-lg p-8 lg:p-12 shadow-luxury-soft relative overflow-hidden">
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">
-              <div className="lg:col-span-2 space-y-4">
-                <div className="flex flex-wrap items-center gap-3">
-                  <span className="bg-champagne/15 text-champagne-dark border border-champagne/30 text-[11px] font-mono px-3 py-1 rounded-full uppercase tracking-wider font-semibold">
-                    {category.badge}
-                  </span>
-                  <span className="text-stone-500 text-xs font-mono flex items-center gap-1">
-                    <FileText className="w-3.5 h-3.5 text-champagne-dark" />
-                    {category.pdfCatalog} ({category.totalPages} Pages)
-                  </span>
-                </div>
-
-                <h1 className="font-serif text-3xl md:text-5xl text-charcoal font-medium tracking-tight">
-                  {category.title}
-                </h1>
-                <p className="text-champagne-dark text-sm font-mono font-medium">{category.subtitle}</p>
-
-                <p className="text-stone-600 text-xs md:text-sm font-normal leading-relaxed">
-                  {category.description}
-                </p>
-
-                {/* Key Technical Features */}
-                <div className="pt-3 grid grid-cols-1 md:grid-cols-2 gap-2 text-xs text-stone-700 font-medium">
-                  {category.features.map((feat, idx) => (
-                    <div key={idx} className="flex items-start space-x-2">
-                      <CheckCircle2 className="w-4 h-4 text-champagne-dark shrink-0 mt-0.5" />
-                      <span>{feat}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* PDF Action Box */}
-              <div className="bg-[#fcfaf7] border border-stone-200/80 rounded-luxury p-6 flex flex-col justify-between space-y-4 text-center lg:text-left shadow-sm">
-                <div>
-                  <div className="text-xs font-mono text-stone-500 uppercase tracking-widest mb-1 font-medium">
-                    Official Pricelist & Spec Sheet
-                  </div>
-                  <h3 className="font-serif text-lg text-charcoal font-medium mb-2">
-                    {category.title} Catalog PDF
-                  </h3>
-                  <p className="text-[11px] text-stone-600 leading-relaxed mb-4">
-                    Download the complete {category.totalPages}-page commercial B2B pricelist with fabric swatches & dimension blueprints.
-                  </p>
-                </div>
-
-                <div className="space-y-2">
-                  <a
-                    href={`/A -DIVINE CHAIRS PRICELIST/${encodeURIComponent(category.pdfCatalog)}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="w-full bg-charcoal hover:bg-stone-800 text-cream text-xs font-semibold uppercase tracking-wider py-3 px-4 rounded-luxury flex items-center justify-center space-x-2 transition-all shadow-md"
-                  >
-                    <Download className="w-4 h-4 text-champagne" />
-                    <span>Download PDF Specification Sheet</span>
-                  </a>
-                  <button
-                    onClick={() => handleOpenQuote(`Bulk Category Inquiry: ${category.title}`)}
-                    className="w-full bg-white hover:bg-stone-100 text-charcoal text-xs font-medium uppercase tracking-wider py-2.5 px-4 rounded-luxury border border-stone-300 transition-colors shadow-sm"
-                  >
-                    Request Category Price Matrix
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
+          <h1 className="font-serif text-3xl md:text-5xl text-charcoal font-medium tracking-tight">
+            {category.title}
+          </h1>
         </div>
       </section>
 
