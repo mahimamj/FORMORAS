@@ -19,7 +19,11 @@ export default function Footer() {
             <p className="text-xs text-stone-600 font-normal max-w-sm leading-relaxed">
               FORMORAS Furniture Interiors is a premier contract furniture manufacturer and interior solution provider, engineering bespoke collections for hotels, corporate HQs, luxury residences, and commercial projects.
             </p>
-            <div className="text-[11px] font-mono text-champagne-dark font-semibold">
+            <div className="space-y-1 pt-1 border-t border-stone-300/80">
+              <div className="text-[10px] font-mono text-champagne-dark font-semibold uppercase tracking-wider">Flagship Showroom & HQ:</div>
+              <div className="text-xs text-charcoal font-sans font-semibold">8B/1B/1A CHETLA ROAD, KOLKATA 700027</div>
+            </div>
+            <div className="text-[11px] font-mono text-champagne-dark font-semibold pt-1">
               ISO 9001:2015 & FSC Certified Manufacturing Plant
             </div>
           </div>

@@ -269,17 +269,27 @@ export default function ContactSection({ onOpenCatalogue }: ContactSectionProps)
           </div>
         </div>
 
-        {/* Map Location Embedded Visual */}
-        <div className="rounded-luxury-lg overflow-hidden border border-stone-200/80 h-72 relative shadow-luxury-soft">
+        {/* Map & Office Address Card Visual */}
+        <div className="rounded-luxury-lg overflow-hidden border border-stone-200/80 h-80 relative shadow-luxury-soft">
           <iframe
-            title="Milan Factory Location"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87932.1818783477!2d9.123512399999999!3d45.4642035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c1493f1275e7%3A0x3c11d4e0e5a4087b!2sVia%20Durini%2C%20Milano%20MI%2C%20Italy!5e0!3m2!1sen!2s!4v1700000000000!5m2!1sen!2s"
+            title="Kolkata Flagship Showroom & HQ Location"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3685.589886478959!2d88.3353457!3d22.5245124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02774a3dfb0185%3A0x6b13994e4bc9335a!2sChetla%20Rd%2C%20Kolkata%2C%20West%20Bengal%20700027!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
             className="w-full h-full border-0 filter grayscale opacity-90"
             loading="lazy"
           />
-          <div className="absolute top-4 left-4 bg-white/90 backdrop-blur-md px-4 py-2 rounded-luxury border border-stone-200 text-xs shadow-luxury-soft">
-            <span className="text-champagne-dark font-mono font-semibold block">Milan Headquarters & Atelier</span>
-            <span className="text-stone-600 text-[11px]">Via Durini 14, 20122 Milano, Italy</span>
+          <div className="absolute top-4 left-4 sm:top-6 sm:left-6 bg-white/95 backdrop-blur-md p-5 rounded-luxury-lg border border-stone-200 text-xs shadow-2xl max-w-sm space-y-2">
+            <div className="flex items-center space-x-2 text-champagne-dark font-mono font-bold uppercase tracking-wider text-[11px]">
+              <MapPin className="w-4 h-4 text-amber-700 shrink-0" />
+              <span>Flagship Showroom & Corporate Office</span>
+            </div>
+            <div className="text-charcoal font-serif text-lg font-medium leading-snug">
+              8B/1B/1A CHETLA ROAD <br />
+              <span className="text-stone-700 font-sans text-sm font-semibold">KOLKATA 700027</span>
+            </div>
+            <div className="pt-2 border-t border-stone-200 text-[11px] text-stone-600 font-mono flex items-center justify-between">
+              <span>Mon - Sat: 10:00 AM - 7:30 PM</span>
+              <span className="text-amber-800 font-bold">★ Direct Factory Hub</span>
+            </div>
           </div>
         </div>
       </div>

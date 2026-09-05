@@ -9,6 +9,16 @@ export default function GlobalPresence() {
 
   const globalHubs = [
     {
+      city: 'Kolkata Flagship & HQ',
+      country: 'India',
+      type: 'Flagship Showroom & Corporate Office',
+      address: '8B/1B/1A CHETLA ROAD, KOLKATA 700027',
+      phone: '+91 33 2479 0000',
+      email: 'info@formoras.com',
+      projectsCount: '250+ B2B Fitouts & Projects',
+      coords: 'LAT 22.5245° N // LON 88.3353° E',
+    },
+    {
       city: 'Milan Atelier & HQ',
       country: 'Italy',
       type: 'European Flagship & Atelier',
