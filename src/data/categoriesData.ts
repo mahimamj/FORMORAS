@@ -245,11 +245,11 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ],
     "totalPages": 30,
     "sampleItems": [
-      "ARMENIA : 44000/-",
-      "SPAIN : 52000/-",
-      "EMMI : 44000/-",
-      "RAMBO : 38000/-",
-      "VORTEX : 48000/-"
+      "AUSTRIA",
+      "BELGIUM",
+      "CAPITOL",
+      "FIJI",
+      "BULGARIA"
     ]
   },
   {

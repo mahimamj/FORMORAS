@@ -5068,7 +5068,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-001",
-    "title": "Armenia Luxury Lounger",
+    "title": "Austria",
     "modelCode": "LNG-001",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5091,7 +5091,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-002",
-    "title": "Austria Sculptural Armchair",
+    "title": "Belgium",
     "modelCode": "LNG-002",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5114,7 +5114,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-003",
-    "title": "Belgium Ergonomic Chair",
+    "title": "Capitol",
     "modelCode": "LNG-003",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5137,7 +5137,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-004",
-    "title": "Spain Velvet Accent Chair",
+    "title": "Fiji",
     "modelCode": "LNG-004",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5160,7 +5160,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-005",
-    "title": "Capitol Executive Lounger",
+    "title": "Bulgaria",
     "modelCode": "LNG-005",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5183,7 +5183,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-006",
-    "title": "Emmi Soft Boucl\u00e9 Chair",
+    "title": "Roogle",
     "modelCode": "LNG-006",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5206,7 +5206,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-007",
-    "title": "Fiji Resort Armchair",
+    "title": "Vivienne",
     "modelCode": "LNG-007",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5229,7 +5229,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-008",
-    "title": "Rambo High-Back Lounger",
+    "title": "Maxx",
     "modelCode": "LNG-008",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5252,7 +5252,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-009",
-    "title": "Bulgaria Club Chair",
+    "title": "Epitome",
     "modelCode": "LNG-009",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5275,7 +5275,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-010",
-    "title": "Vortex Swivel Lounge",
+    "title": "Greece",
     "modelCode": "LNG-010",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5298,7 +5298,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-011",
-    "title": "Matrix Geometric Armchair",
+    "title": "Sasaski",
     "modelCode": "LNG-011",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5321,7 +5321,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-012",
-    "title": "Vivienne Chic Tub Chair",
+    "title": "Bern",
     "modelCode": "LNG-012",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5344,7 +5344,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-013",
-    "title": "Denver Accent Chair",
+    "title": "Enigma",
     "modelCode": "LNG-013",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5367,7 +5367,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-014",
-    "title": "Maxx Plush Lounger",
+    "title": "Antartica",
     "modelCode": "LNG-014",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5390,7 +5390,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-015",
-    "title": "Lucifer Leatherette Chair",
+    "title": "Bavuma",
     "modelCode": "LNG-015",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5413,7 +5413,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-016",
-    "title": "Roogle Lounge Suite",
+    "title": "Brussels",
     "modelCode": "LNG-016",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5436,7 +5436,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-017",
-    "title": "Antalia Velvet Lounger",
+    "title": "Sierra",
     "modelCode": "LNG-017",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5459,7 +5459,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-018",
-    "title": "Greece Architectural Chair",
+    "title": "Bonanza",
     "modelCode": "LNG-018",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5482,7 +5482,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-019",
-    "title": "Epitome Comfort Lounger",
+    "title": "Bugatti",
     "modelCode": "LNG-019",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5505,7 +5505,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-020",
-    "title": "Starc Executive Armchair",
+    "title": "Lucerne",
     "modelCode": "LNG-020",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5528,7 +5528,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-021",
-    "title": "Bern Ashwood Accent Chair",
+    "title": "Romania",
     "modelCode": "LNG-021",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5551,7 +5551,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-022",
-    "title": "Rolf Wooden Lounge",
+    "title": "Milos (AR)",
     "modelCode": "LNG-022",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5574,7 +5574,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-023",
-    "title": "Volos Reception Lounger",
+    "title": "Sorrento",
     "modelCode": "LNG-023",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5597,7 +5597,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-024",
-    "title": "Sasaki Minimalist Chair",
+    "title": "Ferrara",
     "modelCode": "LNG-024",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5620,7 +5620,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-025",
-    "title": "Enigma Swivel Accent",
+    "title": "Jamaica",
     "modelCode": "LNG-025",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5643,7 +5643,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-026",
-    "title": "Antartica VIP Lounger",
+    "title": "Burano",
     "modelCode": "LNG-026",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5666,7 +5666,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-027",
-    "title": "Brussels Club Armchair",
+    "title": "Carnival",
     "modelCode": "LNG-027",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5689,7 +5689,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-028",
-    "title": "Bavuma Modern Chair",
+    "title": "London",
     "modelCode": "LNG-028",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5712,7 +5712,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-029",
-    "title": "Bonanza Executive Lounger",
+    "title": "Slovakia",
     "modelCode": "LNG-029",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5735,7 +5735,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-030",
-    "title": "Bugatti Leatherette Chair",
+    "title": "Edinburg",
     "modelCode": "LNG-030",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5758,7 +5758,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-031",
-    "title": "Sierra Soft Boucl\u00e9 Chair",
+    "title": "Athens",
     "modelCode": "LNG-031",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5781,7 +5781,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-032",
-    "title": "Lucerne Sculptural Armchair",
+    "title": "Prius",
     "modelCode": "LNG-032",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5804,7 +5804,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-033",
-    "title": "Milos Reception Chair",
+    "title": "Lexus",
     "modelCode": "LNG-033",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5827,7 +5827,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-034",
-    "title": "Ferrara Italian Lounger",
+    "title": "Amalfi",
     "modelCode": "LNG-034",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5850,7 +5850,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-035",
-    "title": "Sorrento Swivel Armchair",
+    "title": "Milano",
     "modelCode": "LNG-035",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
@@ -5873,7 +5873,7 @@ export const PRODUCTS_DATA: ProductItem[] = [
   },
   {
     "id": "lounge-036",
-    "title": "Burano Accent Lounger",
+    "title": "Swing",
     "modelCode": "LNG-036",
     "categoryId": "lounge",
     "categoryTitle": "Lounge & Accent Series",
