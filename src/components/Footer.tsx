@@ -22,6 +22,12 @@ export default function Footer() {
             <div className="space-y-1 pt-1 border-t border-stone-300/80">
               <div className="text-[10px] font-mono text-champagne-dark font-semibold uppercase tracking-wider">Flagship Showroom & HQ:</div>
               <div className="text-xs text-charcoal font-sans font-semibold">8B/1B/1A CHETLA ROAD, KOLKATA 700027</div>
+              <div className="text-xs text-stone-700 font-sans">
+                Phone: <a href="https://wa.me/916291824268" target="_blank" rel="noopener noreferrer" className="hover:text-champagne-dark font-semibold">+91 6291824268</a>
+              </div>
+              <div className="text-xs text-stone-700 font-sans">
+                Email: <a href="mailto:vishalpoddarjobs@gmail.com" className="hover:text-champagne-dark font-semibold">vishalpoddarjobs@gmail.com</a>
+              </div>
             </div>
             <div className="text-[11px] font-mono text-champagne-dark font-semibold pt-1">
               ISO 9001:2015 & FSC Certified Manufacturing Plant

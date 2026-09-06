@@ -34,6 +34,8 @@ export default function ContactSection({ onOpenCatalogue }: ContactSectionProps)
 
   const handleSubmitForm = (e: React.FormEvent) => {
     e.preventDefault();
+    const text = `Hello FORMORAS,\n\nOfficial Project Registration Inquiry:\nFull Name: ${formData.name}\nEmail: ${formData.email}\nCompany: ${formData.company || 'N/A'}\nPhone: ${formData.phone || 'N/A'}\nScope/Message: ${formData.message || 'N/A'}`;
+    window.open(`https://wa.me/916291824268?text=${encodeURIComponent(text)}`, '_blank');
     setFormSubmitted(true);
   };
 
@@ -156,13 +158,13 @@ export default function ContactSection({ onOpenCatalogue }: ContactSectionProps)
                 <span>Download PDF Specs</span>
               </button>
               <a
-                href="https://wa.me/390289014455"
+                href="https://wa.me/916291824268"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 text-xs text-emerald-700 hover:underline font-semibold"
               >
                 <MessageSquare className="w-4 h-4" />
-                <span>WhatsApp Atelier Desk</span>
+                <span>WhatsApp Desk (+91 6291824268)</span>
               </a>
             </div>
           </div>

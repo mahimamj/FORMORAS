@@ -2,7 +2,8 @@
 
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, ArrowUpRight, Send, CheckCircle2, Calculator } from 'lucide-react';
+import { X, ArrowUpRight, Send, CheckCircle2, Calculator, MessageSquare } from 'lucide-react';
+import { openWhatsAppQuery, EMAIL_ADDRESS, PHONE_DISPLAY } from '@/utils/whatsappUtils';
 
 interface QuoteModalProps {
   isOpen: boolean;
@@ -19,7 +20,13 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    const messageDetails = `Product/Notes: ${notes || initialProduct || 'General Catalog Inquiry'}\nWork Email: ${email || 'Not provided'}\nSector: ${sector}\nQuantity: ${quantity}`;
+    openWhatsAppQuery(undefined, messageDetails);
     setSubmitted(true);
+  };
+
+  const handleDirectWhatsApp = () => {
+    openWhatsAppQuery(initialProduct || undefined, notes || undefined);
   };
 
   if (!isOpen) return null;
@@ -49,16 +56,16 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
 
           {submitted ? (
             <div className="text-center py-10 space-y-4">
-              <CheckCircle2 className="w-16 h-16 text-champagne-dark mx-auto" />
+              <CheckCircle2 className="w-16 h-16 text-emerald-600 mx-auto" />
               <h3 className="font-serif text-3xl text-charcoal font-medium">
-                Bulk RFP Received
+                WhatsApp Query Opened!
               </h3>
-              <p className="text-xs text-stone-600 font-normal leading-relaxed">
-                Our Senior Commercial Estimator will prepare your itemized DDP quotation including freight and lead times, sent to <strong className="text-champagne-dark font-mono font-semibold">{email}</strong> within 12 hours.
+              <p className="text-xs text-stone-600 font-normal leading-relaxed max-w-md mx-auto">
+                Your price inquiry details have been forwarded to our official WhatsApp Desk at <strong className="text-amber-900 font-mono font-semibold">{PHONE_DISPLAY}</strong>. Our senior estimator will also contact you at <strong className="text-amber-900 font-mono font-semibold">{email || EMAIL_ADDRESS}</strong>.
               </p>
               <button
                 onClick={onClose}
-                className="bg-gradient-to-r from-[#B89768] to-[#9E7C4F] hover:from-[#A6824F] hover:to-[#8C6D3F] text-white text-xs uppercase tracking-[0.2em] px-8 py-3 rounded-luxury font-semibold mt-4 shadow-luxury-soft"
+                className="bg-charcoal hover:bg-stone-800 text-white text-xs uppercase tracking-[0.2em] px-8 py-3 rounded-luxury font-semibold mt-4 shadow-luxury-soft"
               >
                 Close & Return
               </button>
@@ -66,13 +73,13 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
           ) : (
             <form onSubmit={handleSubmit} className="space-y-5">
               <div className="flex items-center space-x-3">
-                <div className="w-10 h-10 rounded-full bg-stone-100 text-champagne-dark flex items-center justify-center">
-                  <Calculator className="w-5 h-5" />
+                <div className="w-10 h-10 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center">
+                  <MessageSquare className="w-5 h-5" />
                 </div>
                 <div>
-                  <h3 className="font-serif text-2xl text-charcoal font-medium">Request Bulk Contract Quote</h3>
-                  <span className="text-[10px] text-champagne-dark font-mono font-semibold">
-                    Itemized Pricing, Lead Times & Freight Estimates
+                  <h3 className="font-serif text-2xl text-charcoal font-medium">Request Price Quote</h3>
+                  <span className="text-[10px] text-emerald-700 font-mono font-semibold">
+                    Direct WhatsApp & Email Procurement Query ({PHONE_DISPLAY})
                   </span>
                 </div>
               </div>
@@ -86,7 +93,7 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
                     placeholder="procurement@hotelgroup.com"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    className="w-full bg-stone-50 border border-stone-300 rounded-luxury px-4 py-3 text-charcoal focus:border-champagne-dark outline-none font-medium"
+                    className="w-full bg-stone-50 border border-stone-300 rounded-luxury px-4 py-3 text-charcoal focus:border-emerald-600 outline-none font-medium"
                   />
                 </div>
 
@@ -96,7 +103,7 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
                     <select
                       value={sector}
                       onChange={(e) => setSector(e.target.value)}
-                      className="w-full bg-stone-50 border border-stone-300 rounded-luxury px-4 py-3 text-charcoal focus:border-champagne-dark outline-none font-medium"
+                      className="w-full bg-stone-50 border border-stone-300 rounded-luxury px-4 py-3 text-charcoal focus:border-emerald-600 outline-none font-medium"
                     >
                       <option>Luxury Hotel & Resort</option>
                       <option>Executive Corporate HQ</option>
@@ -111,7 +118,7 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
                     <select
                       value={quantity}
                       onChange={(e) => setQuantity(e.target.value)}
-                      className="w-full bg-stone-50 border border-stone-300 rounded-luxury px-4 py-3 text-charcoal focus:border-champagne-dark outline-none font-medium"
+                      className="w-full bg-stone-50 border border-stone-300 rounded-luxury px-4 py-3 text-charcoal focus:border-emerald-600 outline-none font-medium"
                     >
                       <option>10 - 50 Units</option>
                       <option>50 - 150 Units</option>
@@ -127,18 +134,20 @@ export default function QuoteModal({ isOpen, onClose, initialProduct = '' }: Quo
                     placeholder="Mention specific collection items, dimensions, custom finish requirements, or target delivery date..."
                     value={notes}
                     onChange={(e) => setNotes(e.target.value)}
-                    className="w-full bg-stone-50 border border-stone-300 rounded-luxury p-3 text-charcoal focus:border-champagne-dark outline-none font-medium"
+                    className="w-full bg-stone-50 border border-stone-300 rounded-luxury p-3 text-charcoal focus:border-emerald-600 outline-none font-medium"
                   />
                 </div>
               </div>
 
-              <button
-                type="submit"
-                className="w-full flex items-center justify-center space-x-2 bg-gradient-to-r from-[#B89768] to-[#9E7C4F] hover:from-[#A6824F] hover:to-[#8C6D3F] text-white font-semibold text-xs uppercase tracking-[0.2em] py-3.5 rounded-luxury transition-colors shadow-luxury-soft"
-              >
-                <span>Submit RFP for Instant Processing</span>
-                <ArrowUpRight className="w-4 h-4 text-white" />
-              </button>
+              <div className="space-y-2 pt-2">
+                <button
+                  type="submit"
+                  className="w-full flex items-center justify-center space-x-2 bg-emerald-700 hover:bg-emerald-800 text-white font-semibold text-xs uppercase tracking-[0.2em] py-3.5 rounded-luxury transition-colors shadow-md"
+                >
+                  <MessageSquare className="w-4 h-4 text-white" />
+                  <span>Send Query via WhatsApp ({PHONE_DISPLAY})</span>
+                </button>
+              </div>
             </form>
           )}
         </motion.div>

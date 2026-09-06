@@ -43,7 +43,7 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
   const hasMore = visibleCount < filteredProducts.length;
 
   return (
-    <main className="min-h-screen bg-cream text-charcoal selection:bg-champagne selection:text-white pt-28">
+    <main className="min-h-screen bg-cream text-charcoal selection:bg-champagne selection:text-white pt-36 sm:pt-40 md:pt-44">
       {/* Navigation Header */}
       <Navbar
         onOpenCatalogue={() => setIsCatalogueOpen(true)}
