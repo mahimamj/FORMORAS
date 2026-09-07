@@ -41,6 +41,7 @@ export default function Navbar({ onOpenCatalogue, onOpenQuote, onSelectCategory 
   const categoryNavItems = [
     { id: 'new-arrivals', label: 'New Arrivals' },
     { id: 'lounge', label: 'Lounge Series' },
+    { id: 'executive', label: 'Executive Series' },
     { id: 'tables', label: 'Tables & Stands' },
     { id: 'sofa', label: 'Sofas & Modular' },
     { id: 'prince', label: 'Prince Series' },

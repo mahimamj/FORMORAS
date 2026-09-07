@@ -25,6 +25,11 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
     image: '/lounge/lounge_001.webp',
   },
   {
+    id: 'executive',
+    name: 'Executive Series',
+    image: '/executive_series/executive_01.webp',
+  },
+  {
     id: 'tables',
     name: 'Coffee & Side Tables',
     image: '/tables/table_001.webp',
