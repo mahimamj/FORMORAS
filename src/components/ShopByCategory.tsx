@@ -37,12 +37,12 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
   {
     id: 'prince',
     name: 'Prince Series',
-    image: '/extracted_product_images/EXT-0040.jpg',
+    image: '/prince_series/prince_001.webp',
   },
   {
     id: 'dining',
     name: 'Dining Sets',
-    image: '/extracted_dining_products/DIN_001_DINING_CHAIR_1_DINING_CHAIR_composite.png',
+    image: '/dining_series/dining_001.webp',
   },
   {
     id: 'highcounter',
@@ -52,17 +52,17 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
   {
     id: 'recliner',
     name: 'Recliners',
-    image: '/extracted_product_images/EXT-0200.jpg',
+    image: '/extracted_product_images/EXT-0995.jpg',
   },
   {
     id: 'puffy',
     name: 'Puffies & Ottomans',
-    image: '/extracted_product_images/EXT-0250.jpg',
+    image: '/extracted_product_images/puffy_002.jpg',
   },
   {
     id: 'cafe',
     name: 'Cafe & Bistro',
-    image: '/cafe_series/bistro_wo_arms.jpg',
+    image: '/cafe_series/bistro_arms.jpg',
   },
 ];
 
@@ -121,11 +121,11 @@ export default function ShopByCategory({ onSelectCategory }: ShopByCategoryProps
                   </div>
                 </div>
               ) : (
-                <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full bg-[#f6eee5] border border-stone-200/90 flex items-center justify-center p-3 shadow-sm group-hover:shadow-luxury-soft group-hover:scale-105 group-hover:border-amber-700/40 transition-all duration-300 relative overflow-hidden">
+                <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 rounded-full bg-[#f6eee5] border-2 border-stone-200/90 flex items-center justify-center shadow-sm group-hover:shadow-luxury-soft group-hover:scale-105 group-hover:border-amber-700/60 transition-all duration-300 relative overflow-hidden">
                   <img
                     src={cat.image || '/formoras-logo.png'}
                     alt={cat.name}
-                    className="w-full h-full object-contain drop-shadow-sm group-hover:scale-110 transition-transform duration-300"
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                   />
                 </div>
               )}
