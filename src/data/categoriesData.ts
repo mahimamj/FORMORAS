@@ -111,18 +111,11 @@ export const FURNITURE_CATEGORIES: FurnitureCategory[] = [
     ],
     "totalPages": 29,
     "sampleItems": [
-      "DINING CHAIR",
-      "W.E.F. 1ST AUGUST 2026",
-      "CHERRY",
-      "(IND)",
-      "26000/-",
-      "WONS",
-      "-/00013",
-      "DINING CHAIR",
-      "-/05782",
-      "-/00023",
-      "ARAL",
-      "ECARG"
+      "SNOW",
+      "JADE",
+      "CLOUD",
+      "MERRY",
+      "LARA"
     ]
   },
   {

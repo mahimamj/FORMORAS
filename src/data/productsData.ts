@@ -3171,1902 +3171,6 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ]
   },
   {
-    "id": "PRD-DIN-0004",
-    "title": "Snow Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 31000,
-    "modelCode": "DV-DIN-SNOW",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_004_SNOW_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0005",
-    "title": "Jade Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 28750,
-    "modelCode": "DV-DIN-JADE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_005_DINING_CHAIR_5_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0006",
-    "title": "Cloud Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 32000,
-    "modelCode": "DV-DIN-CLOUD",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 2,
-    "image": "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_006_DINING_CHAIR_6_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0007",
-    "title": "Merry Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 17000,
-    "modelCode": "DV-DIN-MERRY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_007_DINING_CHAIR_7_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0008",
-    "title": "Lara Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 21500,
-    "modelCode": "DV-DIN-LARA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_008_LARA_GRACE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0009",
-    "title": "Grace Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 21000,
-    "modelCode": "DV-DIN-GRACE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 3,
-    "image": "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_009_DINING_CHAIR_9_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0010",
-    "title": "Thea Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 26000,
-    "modelCode": "DV-DIN-THEA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_010_DINING_CHAIR_10_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0011",
-    "title": "Geneva Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22000,
-    "modelCode": "DV-DIN-GENEVA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_011_ELIXIR_GENEVA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0012",
-    "title": "Elixir Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 42000,
-    "modelCode": "DV-DIN-ELIXIR",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 4,
-    "image": "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_012_DINING_CHAIR_12_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0013",
-    "title": "Terra Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 17000,
-    "modelCode": "DV-DIN-TERRA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_013_TERRA_ARIES_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0014",
-    "title": "Aries Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 26000,
-    "modelCode": "DV-DIN-ARIES",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_014_TERRA_ARIES_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0015",
-    "title": "Sally Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22000,
-    "modelCode": "DV-DIN-SALLY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 5,
-    "image": "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_015__IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0016",
-    "title": "Coach Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 28000,
-    "modelCode": "DV-DIN-COACH",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_016_DINING_CHAIR_16_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0017",
-    "title": "Luna Metal Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 10750,
-    "modelCode": "DV-DIN-LUNA_METAL",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_017_COACH_LUNA_METAL_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0018",
-    "title": "Amigo Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 26000,
-    "modelCode": "DV-DIN-AMIGO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 6,
-    "image": "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_018_AMIGO_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0019",
-    "title": "Wolf Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23000,
-    "modelCode": "DV-DIN-WOLF",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_019_ARCO_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0020",
-    "title": "Arco Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 17500,
-    "modelCode": "DV-DIN-ARCO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_020_WOLF_ARCO_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0021",
-    "title": "Messy Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22000,
-    "modelCode": "DV-DIN-MESSY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 7,
-    "image": "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_021_MESSY_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0022",
-    "title": "Skyros Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23000,
-    "modelCode": "DV-DIN-SKYROS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 8,
-    "image": "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_022_SKYROS_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0023",
-    "title": "Berlin Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22000,
-    "modelCode": "DV-DIN-BERLIN",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 8,
-    "image": "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_023_SKYROS_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0024",
-    "title": "Mykonos Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22000,
-    "modelCode": "DV-DIN-MYKONOS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 8,
-    "image": "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_024_DINING_CHAIR_24_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0025",
-    "title": "Berry Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 14000,
-    "modelCode": "DV-DIN-BERRY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_025_BERRY_DIOR_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0026",
-    "title": "Dior Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 9000,
-    "modelCode": "DV-DIN-DIOR",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_026_DIOR_SPICE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0027",
-    "title": "Spice Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 8000,
-    "modelCode": "DV-DIN-SPICE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 9,
-    "image": "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_027_SPICE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0028",
-    "title": "Volcan Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 12500,
-    "modelCode": "DV-DIN-VOLCAN",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_028_DINING_CHAIR_28_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0029",
-    "title": "Evolve Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 11500,
-    "modelCode": "DV-DIN-EVOLVE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_029_VOLCAN_EVOLVE_AMY_IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0030",
-    "title": "Amy (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 18500,
-    "modelCode": "DV-DIN-AMY_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 10,
-    "image": "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_030_AMY_IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0031",
-    "title": "Biscoff Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 42000,
-    "modelCode": "DV-DIN-BISCOFF",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_031_DINING_CHAIR_31_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0032",
-    "title": "Virtus Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 34000,
-    "modelCode": "DV-DIN-VIRTUS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_032_ASH_BISCOFF_VIRTUS_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ultra-Plush Molded Cushioning with Premium Leatherette / Velvet Upholstery",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0033",
-    "title": "Ash Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22000,
-    "modelCode": "DV-DIN-ASH",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 11,
-    "image": "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_033_DINING_CHAIR_33_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0034",
-    "title": "Bliss (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23000,
-    "modelCode": "DV-DIN-BLISS_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_034_GIONA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0035",
-    "title": "Giona Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 17200,
-    "modelCode": "DV-DIN-GIONA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_035_BLISS__IND__TISCA_GIONA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0036",
-    "title": "Tisca Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 16000,
-    "modelCode": "DV-DIN-TISCA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 12,
-    "image": "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_036_DINING_CHAIR_36_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0037",
-    "title": "Laurel Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23000,
-    "modelCode": "DV-DIN-LAUREL",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_037_DINING_CHAIR_37_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0038",
-    "title": "Slavia Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 18800,
-    "modelCode": "DV-DIN-SLAVIA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_038_NECTAR_LAUREL_SLAVIA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0039",
-    "title": "Nectar Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23500,
-    "modelCode": "DV-DIN-NECTAR",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 13,
-    "image": "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_039_DINING_CHAIR_39_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0040",
-    "title": "Lugano Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 19000,
-    "modelCode": "DV-DIN-LUGANO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 14,
-    "image": "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_040_DINING_CHAIR_40_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0041",
-    "title": "Phoenix Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 21500,
-    "modelCode": "DV-DIN-PHOENIX",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 14,
-    "image": "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_041_ADELLA_LUGANO_PHOENIX_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0042",
-    "title": "Adella Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 21000,
-    "modelCode": "DV-DIN-ADELLA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 14,
-    "image": "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_042_DINING_CHAIR_42_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0043",
-    "title": "Dune Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 22500,
-    "modelCode": "DV-DIN-DUNE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_043_WOOD_METAL_DUNE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0044",
-    "title": "Brian (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 18500,
-    "modelCode": "DV-DIN-BRIAN_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_044_WOOD_METAL_DUNE_BRIAN__IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0045",
-    "title": "Cleo Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 10500,
-    "modelCode": "DV-DIN-CLEO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 15,
-    "image": "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_045_BRIAN__IND__CLEO_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0046",
-    "title": "Bliss Ashwood Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23000,
-    "modelCode": "DV-DIN-BLISS_ASHWOOD",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_046_BLISS_ASHWOOD_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0047",
-    "title": "Rini Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 14500,
-    "modelCode": "DV-DIN-RINI",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_047_BLISS_ASHWOOD_RINI_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0048",
-    "title": "Zenith Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 19500,
-    "modelCode": "DV-DIN-ZENITH",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 16,
-    "image": "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_048_RINI_ZENITH_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0049",
-    "title": "Eze Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 14000,
-    "modelCode": "DV-DIN-EZE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 17,
-    "image": "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_049_EZE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0050",
-    "title": "Hazel Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 16500,
-    "modelCode": "DV-DIN-HAZEL",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 17,
-    "image": "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_050_EZE_ASTON__IMP__HAZEL_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0051",
-    "title": "Aston (imp) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 19500,
-    "modelCode": "DV-DIN-ASTON_IMP",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 17,
-    "image": "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_051_DINING_CHAIR_51_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0052",
-    "title": "Dalos Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 23000,
-    "modelCode": "DV-DIN-DALOS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 18,
-    "image": "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_052_DINING_CHAIR_52_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0053",
-    "title": "Linus Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 21000,
-    "modelCode": "DV-DIN-LINUS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 18,
-    "image": "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_053_DALOS_BLACK___ALINA_LINUS_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0054",
-    "title": "Alina Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 14500,
-    "modelCode": "DV-DIN-ALINA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 18,
-    "image": "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_054_BLACK___ALINA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0055",
-    "title": "Aura Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 13750,
-    "modelCode": "DV-DIN-AURA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 19,
-    "image": "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_055_AURA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0056",
-    "title": "Olive Fixed Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 11000,
-    "modelCode": "DV-DIN-OLIVE_FIXED",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 19,
-    "image": "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_056_OLIVE_REV_OLIVE_FIXED_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0057",
-    "title": "Olive Rev Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 10750,
-    "modelCode": "DV-DIN-OLIVE_REV",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 19,
-    "image": "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_057_DINING_CHAIR_57_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0058",
-    "title": "Cairo Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 15000,
-    "modelCode": "DV-DIN-CAIRO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 20,
-    "image": "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_058_CAIRO_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0059",
-    "title": "Meraki Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 16000,
-    "modelCode": "DV-DIN-MERAKI",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 20,
-    "image": "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_059_CAIRO_MERAKI_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0060",
-    "title": "Melisa Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 15000,
-    "modelCode": "DV-DIN-MELISA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 20,
-    "image": "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_060_MELISA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0061",
-    "title": "Picasso Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 21000,
-    "modelCode": "DV-DIN-PICASSO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_061_PICASSO_YOKO_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0062",
-    "title": "Yoko Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 15000,
-    "modelCode": "DV-DIN-YOKO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_062_YOKO_ASCONA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0063",
-    "title": "Ascona Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 15000,
-    "modelCode": "DV-DIN-ASCONA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 21,
-    "image": "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_063_ASCONA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0064",
-    "title": "Pepper Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 9000,
-    "modelCode": "DV-DIN-PEPPER",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_064_DINING_CHAIR_64_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0065",
-    "title": "Yona (metal) (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 8500,
-    "modelCode": "DV-DIN-YONA_METAL_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_065_PEPPER_YONA_METAL___IND__STERLING_METAL___IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0066",
-    "title": "Sterling (metal) (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 5600,
-    "modelCode": "DV-DIN-STERLING_METAL_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 22,
-    "image": "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_066_STERLING_METAL___IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0067",
-    "title": "Oracle Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 11500,
-    "modelCode": "DV-DIN-ORACLE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_067_ORACLE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0068",
-    "title": "Mila (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 12250,
-    "modelCode": "DV-DIN-MILA_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_068_ORACLE_ZETA__IND___IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0069",
-    "title": "Zeta (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 8500,
-    "modelCode": "DV-DIN-ZETA_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 23,
-    "image": "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_069__IND__DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0070",
-    "title": "Iris (ind) Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 9000,
-    "modelCode": "DV-DIN-IRIS_IND",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_070_DINING_CHAIR_70_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0071",
-    "title": "Carange Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 8500,
-    "modelCode": "DV-DIN-CARANGE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_071_IRIS__IND__CARANGE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Precision Powder-Coated Metal Leg Frame",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0072",
-    "title": "Softy Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 6300,
-    "modelCode": "DV-DIN-SOFTY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 24,
-    "image": "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_072_SOFTY_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0073",
-    "title": "Coco Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 10500,
-    "modelCode": "DV-DIN-COCO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_073_DINING_CHAIR_73_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0074",
-    "title": "Chris Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 13500,
-    "modelCode": "DV-DIN-CHRIS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_074_COCO_CHRIS_COWBOY_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0075",
-    "title": "Cowboy Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 7800,
-    "modelCode": "DV-DIN-COWBOY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 25,
-    "image": "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_075_COWBOY_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0076",
-    "title": "Tango Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 13000,
-    "modelCode": "DV-DIN-TANGO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 26,
-    "image": "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_076_TANGO_ROPE_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0077",
-    "title": "Rope Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 12000,
-    "modelCode": "DV-DIN-ROPE",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 26,
-    "image": "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_077_ROPE_MERCURY_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0078",
-    "title": "Mercury Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 14500,
-    "modelCode": "DV-DIN-MERCURY",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 26,
-    "image": "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_078_MERCURY_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0079",
-    "title": "Kia Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 11000,
-    "modelCode": "DV-DIN-KIA",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_079_KIA_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0080",
-    "title": "Alto Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 9000,
-    "modelCode": "DV-DIN-ALTO",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_080_ALTO_ROOT_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0081",
-    "title": "Root Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 7500,
-    "modelCode": "DV-DIN-ROOT",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 27,
-    "image": "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_081_DINING_CHAIR_81_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
-    "id": "PRD-DIN-0082",
-    "title": "Chios Dining Chair",
-    "categoryId": "dining",
-    "price": "Price on Request",
-    "rawPrice": 14000,
-    "modelCode": "DV-DIN-CHIOS",
-    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
-    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
-    "pageNumber": 28,
-    "image": "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view1.png",
-    "images": [
-      "/extracted_dining_products/DIN_082_PABLO_CHIOS_DINING_CHAIR_view1.png"
-    ],
-    "warranty": "5-Year Commercial Warranty",
-    "bifmaCertified": true,
-    "leadTime": "2-3 Weeks",
-    "features": [
-      "Commercial BIFMA Level 3 Certified Quality",
-      "Ergonomic Contoured Backrest with High-Density Foam Padding",
-      "Solid Hardwood / Heavy-Duty Reinforced Metal Framework",
-      "Stain-Shield Premium Hospitality Upholstery Finish"
-    ]
-  },
-  {
     "id": "lounge-001",
     "title": "Austria",
     "modelCode": "LNG-001",
@@ -7862,5 +5966,1685 @@ export const PRODUCTS_DATA: ProductItem[] = [
     ],
     "subCategory": "Leather Collection",
     "collectionTag": "Leather & PU Collection"
+  },
+  {
+    "id": "PRD-DIN-0001",
+    "title": "SNOW",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-SNOW",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_001.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0002",
+    "title": "JADE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-JADE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_002.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0003",
+    "title": "CLOUD",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-CLOUD",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_003.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0004",
+    "title": "MERRY",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MERRY",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_004.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0005",
+    "title": "LARA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-LARA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_005.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0006",
+    "title": "GRACE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-GRACE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_006.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0007",
+    "title": "THEA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-THEA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_007.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0008",
+    "title": "GENEVA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-GENEVA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_008.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0009",
+    "title": "ELIXIR",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ELIXIR",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_009.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0010",
+    "title": "TERRA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-TERRA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_010.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0011",
+    "title": "ARIES",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ARIES",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_011.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0012",
+    "title": "SALLY (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-SALLY-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_012.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0013",
+    "title": "COACH",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-COACH",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_013.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0014",
+    "title": "LUNA METAL",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-LUNA-METAL",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_014.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0015",
+    "title": "AMIGO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-AMIGO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_015.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0016",
+    "title": "WOLF",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-WOLF",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_016.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0017",
+    "title": "ARCO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ARCO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_017.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0018",
+    "title": "MESSY",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MESSY",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_018.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0019",
+    "title": "SKYROS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-SKYROS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_019.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0020",
+    "title": "BERLIN",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-BERLIN",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_020.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0021",
+    "title": "MYKONOS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MYKONOS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_021.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0022",
+    "title": "BERRY",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-BERRY",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_022.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0023",
+    "title": "DIOR",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-DIOR",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_023.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0024",
+    "title": "SPICE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-SPICE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_024.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0025",
+    "title": "VOLCAN",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-VOLCAN",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_025.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0026",
+    "title": "EVOLVE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-EVOLVE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_026.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0027",
+    "title": "AMY (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-AMY-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_027.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0028",
+    "title": "BISCOFF",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-BISCOFF",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_028.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0029",
+    "title": "VIRTUS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-VIRTUS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_029.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0030",
+    "title": "ASH",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ASH",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_030.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0031",
+    "title": "BLISS (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-BLISS-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_031.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0032",
+    "title": "GIONA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-GIONA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_032.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0033",
+    "title": "TISCA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-TISCA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_033.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0034",
+    "title": "LAUREL",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-LAUREL",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_034.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0035",
+    "title": "SLAVIA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-SLAVIA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_035.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0036",
+    "title": "NECTAR",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-NECTAR",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_036.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0037",
+    "title": "LUGANO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-LUGANO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_037.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0038",
+    "title": "PHOENIX",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-PHOENIX",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_038.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0039",
+    "title": "ADELLA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ADELLA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_039.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0040",
+    "title": "DUNE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-DUNE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_040.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0041",
+    "title": "BRIAN (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-BRIAN-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_041.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0042",
+    "title": "CLEO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-CLEO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_042.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0043",
+    "title": "BLISS ASHWOOD",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-BLISS-ASHWOOD",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_043.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0044",
+    "title": "RINI",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-RINI",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_044.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0045",
+    "title": "ZENITH",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ZENITH",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_045.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0046",
+    "title": "EZE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-EZE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_046.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0047",
+    "title": "HAZEL",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-HAZEL",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_047.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0048",
+    "title": "ASTON (IMP)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ASTON-IMP",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_048.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0049",
+    "title": "DALOS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-DALOS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_049.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0050",
+    "title": "LINUS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-LINUS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_050.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0051",
+    "title": "ALINA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ALINA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_051.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0052",
+    "title": "AURA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-AURA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_052.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0053",
+    "title": "OLIVE REV",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-OLIVE-REV",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_053.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0054",
+    "title": "OLIVE FIXED",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-OLIVE-FIXED",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_054.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0055",
+    "title": "CAIRO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-CAIRO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_055.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0056",
+    "title": "MERAKI",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MERAKI",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_056.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0057",
+    "title": "MELISA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MELISA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_057.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0058",
+    "title": "PICASSO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-PICASSO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_058.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0059",
+    "title": "YOKO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-YOKO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_059.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0060",
+    "title": "ASCONA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ASCONA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_060.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0061",
+    "title": "PEPPER",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-PEPPER",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_061.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0062",
+    "title": "YONA (METAL) (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-YONA-METAL-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_062.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0063",
+    "title": "STERLING (METAL) (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-STERLING-METAL-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_063.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0064",
+    "title": "ORACLE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ORACLE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_064.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0065",
+    "title": "MILA (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MILA-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_065.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0066",
+    "title": "ZETA (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ZETA-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_066.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0067",
+    "title": "IRIS (IND)",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-IRIS-IND",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_067.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0068",
+    "title": "CARANGE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-CARANGE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_068.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0069",
+    "title": "SOFTY",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-SOFTY",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_069.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0070",
+    "title": "COCO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-COCO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_070.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0071",
+    "title": "CHRIS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-CHRIS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_071.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0072",
+    "title": "COWBOY",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-COWBOY",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_072.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0073",
+    "title": "TANGO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-TANGO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_073.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0074",
+    "title": "ROPE",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ROPE",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_074.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0075",
+    "title": "MERCURY",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-MERCURY",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_075.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0076",
+    "title": "KIA",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-KIA",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_076.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0077",
+    "title": "ALTO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ALTO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_077.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0078",
+    "title": "ROOT",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-ROOT",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_078.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0079",
+    "title": "CHIOS",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-CHIOS",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_079.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
+  },
+  {
+    "id": "PRD-DIN-0080",
+    "title": "PABLO",
+    "categoryId": "dining",
+    "price": "Price on Request",
+    "rawPrice": 0,
+    "modelCode": "DV-DIN-PABLO",
+    "sourcePdf": "DINNING PRICELIST -AUG26 .pdf",
+    "sourceFolder": "A -DIVINE CHAIRS PRICELIST",
+    "pageNumber": 1,
+    "image": "/dining_series/dining_080.webp",
+    "warranty": "5-Year Commercial Warranty",
+    "bifmaCertified": true,
+    "leadTime": "2-3 Weeks",
+    "features": [
+      "Kiln-Dried Solid Teak / Ash Wood Framework",
+      "High-Grade Commercial Upholstery & Cushioning",
+      "Custom Wood Stains & Matte Black / Gold Metal Trim",
+      "Non-Marking Floor Protection Caps"
+    ]
   }
 ];
