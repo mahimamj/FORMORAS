@@ -162,16 +162,22 @@ export default function CategoryShowcase({ onOpenQuote, selectedCategoryId: exte
                 >
                   <div className="space-y-3">
                     <div className={`relative overflow-hidden rounded-lg bg-stone-50/80 border border-stone-100 ${
-                        activeCategory.id === 'prince'
+                        activeCategory.id === 'dining' || activeCategory.id === 'sofa'
+                          ? 'aspect-[16/9]'
+                          : activeCategory.id === 'prince'
                           ? 'aspect-[3/4]'
-                          : product.title.toLowerCase().includes('footrest') || product.title.toLowerCase().includes('set') || activeCategory.id === 'sofa'
+                          : product.title.toLowerCase().includes('footrest') || product.title.toLowerCase().includes('set')
                           ? 'aspect-[4/3] p-2'
                           : 'aspect-square p-2'
                       }`}>
                       <img
                         src={product.image}
                         alt={product.title}
-                        className={`w-full h-full ${activeCategory.id === 'prince' ? 'object-cover' : 'object-contain'} group-hover:scale-105 transition-transform duration-500 drop-shadow-md`}
+                        className={`w-full h-full ${
+                          activeCategory.id === 'dining' || activeCategory.id === 'sofa' || activeCategory.id === 'prince'
+                            ? 'object-cover'
+                            : 'object-contain'
+                        } group-hover:scale-105 transition-transform duration-500 drop-shadow-md`}
                       />
                     </div>
 

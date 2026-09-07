@@ -123,11 +123,21 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                     className="bg-white border border-stone-200/80 hover:border-champagne/60 rounded-luxury p-5 flex flex-col justify-between transition-all duration-300 group shadow-sm hover:shadow-luxury-soft"
                   >
                     <div className="space-y-3">
-                      <div className={`relative overflow-hidden rounded-lg bg-stone-50/80 border border-stone-100 ${category.id === 'prince' ? 'aspect-[3/4]' : 'aspect-square p-2'}`}>
+                      <div className={`relative overflow-hidden rounded-lg bg-stone-50/80 border border-stone-100 ${
+                          category.id === 'dining' || category.id === 'sofa'
+                            ? 'aspect-[16/9]'
+                            : category.id === 'prince'
+                            ? 'aspect-[3/4]'
+                            : 'aspect-square p-2'
+                        }`}>
                         <img
                           src={product.image}
                           alt={product.title}
-                          className={`w-full h-full ${category.id === 'prince' ? 'object-cover' : 'object-contain'} group-hover:scale-105 transition-transform duration-500 drop-shadow-md`}
+                          className={`w-full h-full ${
+                            category.id === 'dining' || category.id === 'sofa' || category.id === 'prince'
+                              ? 'object-cover'
+                              : 'object-contain'
+                          } group-hover:scale-105 transition-transform duration-500 drop-shadow-md`}
                         />
                       </div>
 
