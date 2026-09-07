@@ -161,14 +161,17 @@ export default function CategoryShowcase({ onOpenQuote, selectedCategoryId: exte
                   className="bg-white border border-stone-200/80 hover:border-champagne/60 rounded-luxury p-5 flex flex-col justify-between transition-all duration-300 group shadow-sm hover:shadow-luxury-soft"
                 >
                   <div className="space-y-3">
-                    <div className={`relative overflow-hidden rounded-lg bg-stone-50/80 p-2 border border-stone-100 ${product.title.toLowerCase().includes('footrest') || product.title.toLowerCase().includes('set') || activeCategory.id === 'sofa'
-                        ? 'aspect-[4/3]'
-                        : 'aspect-square'
+                    <div className={`relative overflow-hidden rounded-lg bg-stone-50/80 border border-stone-100 ${
+                        activeCategory.id === 'prince'
+                          ? 'aspect-[3/4]'
+                          : product.title.toLowerCase().includes('footrest') || product.title.toLowerCase().includes('set') || activeCategory.id === 'sofa'
+                          ? 'aspect-[4/3] p-2'
+                          : 'aspect-square p-2'
                       }`}>
                       <img
                         src={product.image}
                         alt={product.title}
-                        className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500 drop-shadow-md"
+                        className={`w-full h-full ${activeCategory.id === 'prince' ? 'object-cover' : 'object-contain'} group-hover:scale-105 transition-transform duration-500 drop-shadow-md`}
                       />
                     </div>
 
