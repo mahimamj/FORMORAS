@@ -57,7 +57,7 @@ const CATEGORY_BUBBLES: CategoryBubble[] = [
   {
     id: 'puffy',
     name: 'Puffies & Ottomans',
-    image: '/extracted_product_images/puffy_002.jpg',
+    image: '/puffy_series/puffy_003.webp',
   },
   {
     id: 'cafe',
@@ -125,7 +125,7 @@ export default function ShopByCategory({ onSelectCategory }: ShopByCategoryProps
                   <img
                     src={cat.image || '/formoras-logo.png'}
                     alt={cat.name}
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                    className={`w-full h-full object-cover ${cat.id === 'puffy' ? 'object-[center_75%]' : 'object-center'} group-hover:scale-110 transition-transform duration-500`}
                   />
                 </div>
               )}
