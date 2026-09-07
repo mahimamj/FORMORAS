@@ -303,7 +303,7 @@ export default function CategoryShowcase({ onOpenQuote, selectedCategoryId: exte
                     Engineering & BIFMA Specs
                   </h4>
                   <ul className="space-y-1.5 text-stone-700">
-                    {selectedProductModal.features.map((f, i) => (
+                    {(selectedProductModal.features || []).map((f, i) => (
                       <li key={i} className="flex items-center space-x-2">
                         <CheckCircle2 className="w-3.5 h-3.5 text-champagne-dark shrink-0" />
                         <span>{f}</span>

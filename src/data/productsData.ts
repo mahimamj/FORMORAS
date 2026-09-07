@@ -2,21 +2,28 @@
 export interface ProductItem {
   subCategory?: string;
   collectionTag?: string;
+  categoryTitle?: string;
+  description?: string;
+  specs?: Record<string, string>;
+  badge?: string;
+  tagline?: string;
+  isNew?: boolean;
+  inStock?: boolean;
   id: string;
   title: string;
   categoryId: string;
   price: string;
-  rawPrice: number;
+  rawPrice?: number;
   modelCode: string;
   sourcePdf?: string;
   sourceFolder?: string;
   pageNumber?: number;
   image: string;
   images?: string[];
-  warranty: string;
-  bifmaCertified: boolean;
-  leadTime: string;
-  features: string[];
+  warranty?: string;
+  bifmaCertified?: boolean;
+  leadTime?: string;
+  features?: string[];
 }
 
 export const PRODUCTS_DATA: ProductItem[] = [
