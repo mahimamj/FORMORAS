@@ -21,6 +21,7 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
   const [isCatalogueOpen, setIsCatalogueOpen] = useState(false);
   const [isQuoteOpen, setIsQuoteOpen] = useState(false);
   const [quoteProduct, setQuoteProduct] = useState<string | undefined>(undefined);
+  const [selectedSubCategory, setSelectedSubCategory] = useState<string>('All');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedProductModal, setSelectedProductModal] = useState<ProductItem | null>(null);
   const [activeImageMap, setActiveImageMap] = useState<Record<string, string>>({});
@@ -33,11 +34,20 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
 
   // Filter products for this specific category
   const categoryProducts = PRODUCTS_DATA.filter((p) => p.categoryId === category.id);
-  const filteredProducts = categoryProducts.filter((p) =>
-    p.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    p.modelCode.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    p.price.includes(searchQuery)
-  );
+
+  const subCategories = Array.from(
+    new Set(categoryProducts.map((p) => p.subCategory).filter(Boolean))
+  ) as string[];
+
+  const filteredProducts = categoryProducts.filter((p) => {
+    const matchesSearch =
+      p.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      p.modelCode.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      p.price.includes(searchQuery);
+    const matchesSubCat =
+      selectedSubCategory === 'All' || p.subCategory === selectedSubCategory;
+    return matchesSearch && matchesSubCat;
+  });
 
   const displayedProducts = filteredProducts.slice(0, visibleCount);
   const hasMore = visibleCount < filteredProducts.length;
@@ -99,6 +109,38 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
             </div>
           </div>
 
+          {/* Subcategory Filter Pills */}
+          {subCategories.length > 0 && (
+            <div className="flex flex-wrap gap-2 mb-8 border-b border-stone-200/80 pb-4">
+              <button
+                onClick={() => setSelectedSubCategory('All')}
+                className={`px-4 py-2 rounded-full text-xs font-mono transition-all border shadow-xs ${
+                  selectedSubCategory === 'All'
+                    ? 'bg-charcoal text-cream border-charcoal font-semibold ring-2 ring-stone-400/30'
+                    : 'bg-white text-stone-600 border-stone-300 hover:border-charcoal hover:text-charcoal'
+                }`}
+              >
+                All Models ({categoryProducts.length})
+              </button>
+              {subCategories.map((subCat) => {
+                const count = categoryProducts.filter((p) => p.subCategory === subCat).length;
+                return (
+                  <button
+                    key={subCat}
+                    onClick={() => setSelectedSubCategory(subCat)}
+                    className={`px-4 py-2 rounded-full text-xs font-mono transition-all border shadow-xs ${
+                      selectedSubCategory === subCat
+                        ? 'bg-charcoal text-cream border-charcoal font-semibold ring-2 ring-stone-400/30'
+                        : 'bg-white text-stone-600 border-stone-300 hover:border-charcoal hover:text-charcoal'
+                    }`}
+                  >
+                    {subCat} ({count})
+                  </button>
+                );
+              })}
+            </div>
+          )}
+
           {/* Products Grid */}
           {filteredProducts.length === 0 ? (
             <div className="text-center py-16 bg-white rounded-luxury border border-stone-200 space-y-3 shadow-sm">
@@ -145,8 +187,15 @@ export default function CategoryPageClient({ category }: CategoryPageClientProps
                         <h3 className="font-serif text-lg text-charcoal group-hover:text-champagne-dark font-medium transition-colors line-clamp-1">
                           {product.title}
                         </h3>
-                        <div className="text-[10px] font-mono text-stone-500 uppercase tracking-wider mb-2 font-medium">
-                          Code: {product.modelCode}
+                        <div className="flex items-center justify-between gap-1 mb-2">
+                          <span className="text-[10px] font-mono text-stone-500 uppercase tracking-wider font-medium">
+                            Code: {product.modelCode}
+                          </span>
+                          {product.subCategory && (
+                            <span className="inline-block px-2 py-0.5 rounded bg-amber-50 text-amber-900 border border-amber-200/90 text-[10px] font-mono font-semibold">
+                              {product.subCategory.includes('Leather') ? 'Leather Finish' : 'Mesh & Ergonomic'}
+                            </span>
+                          )}
                         </div>
 
                         <button

@@ -5214,11 +5214,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0038",
@@ -5240,11 +5240,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0039",
@@ -5266,11 +5266,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0040",
@@ -5292,11 +5292,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0041",
@@ -5318,11 +5318,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0042",
@@ -5344,11 +5344,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0043",
@@ -5370,11 +5370,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0044",
@@ -5396,11 +5396,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0045",
@@ -5422,11 +5422,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0046",
@@ -5448,11 +5448,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0047",
@@ -5474,11 +5474,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0048",
@@ -5500,11 +5500,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0049",
@@ -5526,11 +5526,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0050",
@@ -5552,11 +5552,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0051",
@@ -5578,11 +5578,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0052",
@@ -5604,11 +5604,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0053",
@@ -5630,11 +5630,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0054",
@@ -5656,11 +5656,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0055",
@@ -5682,11 +5682,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0056",
@@ -5708,11 +5708,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0057",
@@ -5734,11 +5734,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0058",
@@ -5760,11 +5760,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0059",
@@ -5786,11 +5786,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0060",
@@ -5812,11 +5812,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0061",
@@ -5838,11 +5838,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0062",
@@ -5864,11 +5864,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0063",
@@ -5890,11 +5890,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0064",
@@ -5916,11 +5916,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0065",
@@ -5942,11 +5942,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-EXE-0066",
@@ -5968,11 +5968,11 @@ export const PRODUCTS_DATA: ProductItem[] = [
     "features": [
       "Commercial BIFMA Level 3 Certified",
       "Ergonomic Glass-Filled Nylon / Die-Cast Aluminum Frame",
-      "High-Resilience Molded Foam / Korean Mesh Upholstery",
+      "High-Resilience Molded Foam / Premium Leather Finish Upholstery",
       "Synchro-Tilt Multi-Lock Mechanism with Class-4 Hydraulic Base"
     ],
-    "subCategory": "Leather Collection",
-    "collectionTag": "Leather & PU Collection"
+    "subCategory": "Leather Finish Collection",
+    "collectionTag": "Leather Finish Collection"
   },
   {
     "id": "PRD-DIN-0001",
